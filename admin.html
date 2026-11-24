@@ -1,5 +1,287 @@
-<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>AFROEURO • Admin</title><style>
-:root{font-family:Inter,system-ui,-apple-system,sans-serif;color:#e9f5f3;background:#071b2b}*{box-sizing:border-box}body{margin:0}a{color:#68dfb6}header{padding:22px 5%;display:flex;justify-content:space-between;align-items:center;border-bottom:1px solid #254352}header strong{font-size:23px;letter-spacing:.06em}header strong span{color:#60dcb1}.wrap{max-width:960px;margin:30px auto;padding:0 18px}.panel{background:#102c3c;border:1px solid #29495a;border-radius:18px;padding:22px;margin-bottom:18px}h1{font-size:clamp(26px,5vw,36px)}h2{font-size:20px;margin:0 0 16px}label{display:block;font-size:13px;font-weight:700;margin:13px 0 6px}input,select,textarea{width:100%;padding:13px;background:#071b2b;border:1px solid #456273;border-radius:9px;color:white;font:inherit}textarea{min-height:90px}button{background:#55d9a5;color:#06251e;border:0;border-radius:10px;padding:13px 20px;font-weight:800;cursor:pointer;margin-top:15px}button.alt{background:#244758;color:white}button.danger{background:#733c48;color:white}.small{font-size:13px;color:#afc8d2}.grid{display:grid;grid-template-columns:1fr 1fr;gap:16px}.entry{padding:15px 0;border-bottom:1px solid #29495a}.entry strong{display:block}.entry button{padding:7px 10px;margin:8px 0 0}.tag{font-size:11px;text-transform:uppercase;color:#5fdbad;letter-spacing:.1em}.hidden{display:none}@media(max-width:650px){.grid{grid-template-columns:1fr}header strong{font-size:18px}}
-</style></head><body><header><strong>AFRO<span>EURO</span> <small>ADMIN</small></strong><a href="/">View public website ↗</a></header><main class="wrap"><h1>Control centre</h1><p class="small">Manage content for your Africa–Europe Daily Hub. This is a local prototype, not a deployed production service.</p><section class="panel" id="loginPanel"><h2>Administrator login</h2><form id="loginForm"><label>Email address</label><input id="email" type="email" autocomplete="username" required><label>Password</label><input id="password" type="password" autocomplete="current-password" required><button>Log in securely</button></form><p id="loginMessage" class="small">Create your admin account using the setup command in README.md.</p></section><section id="dashboard" class="hidden"><div class="panel"><div style="display:flex;justify-content:space-between;align-items:center;gap:12px"><h2>Welcome to your dashboard</h2><button id="logout" class="alt">Log out</button></div><p class="small">Create a job, football note, headline, or sponsored listing. Public items appear on the homepage automatically.</p></div><div class="grid"><section class="panel"><h2>Publish content</h2><form id="entryForm"><label>Section</label><select id="category"><option value="football">Football</option><option value="jobs">Jobs & opportunities</option><option value="headlines">Daily headlines</option><option value="sponsors">Sponsored listings</option></select><label>Title</label><input id="title" maxlength="140" required placeholder="e.g. Scholarship applications open"><label>Short description</label><textarea id="description" maxlength="500" placeholder="Write your original summary"></textarea><label>Source / destination URL (optional)</label><input id="url" type="url" placeholder="https://..."><button>Publish now</button></form><p id="entryMessage" class="small"></p></section><section class="panel"><h2>Published content</h2><p id="count" class="small"></p><div id="entries"></div></section></div><section class="panel"><h2>Automation & earnings</h2><p class="small">Currency conversion currently uses fictional demonstration rates. Football scores, live jobs, analytics, ad network accounts, and affiliate tracking are NOT connected yet. Never describe demonstration figures as live.</p><p class="small">Next integrations: licensed football API, currency API, verified job feed, analytics, and compliant ad/affiliate accounts.</p></section></section></main><script>
-let csrf='';const $=id=>document.getElementById(id);async function api(path,data){const r=await fetch(path,{method:data?'POST':'GET',headers:{'Content-Type':'application/json'},body:data?JSON.stringify(data):undefined});const j=await r.json();if(!r.ok)throw Error(j.error||'Request failed');return j}function show(logged){$('loginPanel').classList.toggle('hidden',logged);$('dashboard').classList.toggle('hidden',!logged)}async function refresh(){const j=await api('/api/content');$('count').textContent=j.entries.length+' published item(s)';const list=$('entries');list.replaceChildren();j.entries.forEach(e=>{const div=document.createElement('div');div.className='entry';const cat=document.createElement('span');cat.className='tag';cat.textContent=e.category;const title=document.createElement('strong');title.textContent=e.title;const desc=document.createElement('p');desc.className='small';desc.textContent=e.description;const btn=document.createElement('button');btn.className='danger';btn.textContent='Delete';btn.onclick=async()=>{if(!confirm('Delete this item?'))return;await api('/api/delete',{id:e.id,csrf});refresh()};div.append(cat,title,desc,btn);list.append(div)})}async function init(){const me=await api('/api/me');csrf=me.csrf||'';show(me.authenticated);if(me.authenticated)refresh()}$('loginForm').onsubmit=async e=>{e.preventDefault();try{const r=await api('/api/login',{email:$('email').value,password:$('password').value});csrf=r.csrf;$('password').value='';show(true);refresh()}catch(err){$('loginMessage').textContent=err.message}};$('entryForm').onsubmit=async e=>{e.preventDefault();try{await api('/api/entry',{category:$('category').value,title:$('title').value,description:$('description').value,url:$('url').value,csrf});$('entryForm').reset();$('entryMessage').textContent='Published successfully';refresh()}catch(err){$('entryMessage').textContent=err.message}};$('logout').onclick=async()=>{await api('/api/logout',{csrf});csrf='';show(false)};init().catch(err=>$('loginMessage').textContent=err.message);
-</script></body></html>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>AFROEURO | Admin Dashboard</title>
+<script src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2"></script>
+<style>
+*{box-sizing:border-box}
+body{margin:0;background:#071b2b;color:#e9f5f3;font-family:system-ui,sans-serif}
+header{padding:22px;border-bottom:1px solid #29495a;display:flex;justify-content:space-between;align-items:center}
+header strong{font-size:22px}
+header span,a{color:#60dcb1}
+main{max-width:950px;margin:auto;padding:20px}
+.panel{background:#102c3c;border:1px solid #29495a;border-radius:16px;padding:22px;margin-bottom:20px}
+label{display:block;margin:15px 0 6px;font-weight:600}
+input,textarea,select{width:100%;padding:13px;background:#071b2b;color:white;border:1px solid #456273;border-radius:9px;font-size:16px}
+textarea{min-height:120px}
+button{background:#55d9a5;color:#06251e;border:0;border-radius:9px;padding:13px 20px;font-weight:bold;margin:12px 6px 0 0;cursor:pointer}
+button:disabled{opacity:.5}
+.danger{background:#a63e48;color:white}
+.alt{background:#244758;color:white}
+.hidden{display:none}
+.small{color:#afc8d2;font-size:14px}
+.post{padding:16px 0;border-bottom:1px solid #29495a;overflow-wrap:anywhere}
+.tag{color:#60dcb1;font-size:12px;text-transform:uppercase}
+</style>
+</head>
+<body>
+<header>
+<strong>AFRO<span>EURO</span> ADMIN</strong>
+<a href="./index.html">View website</a>
+</header>
+<main>
+<h1>Control Centre</h1>
+<p class="small">Africa–Europe Daily Hub</p>
+
+<section class="panel" id="loginPanel">
+<h2>Administrator Login</h2>
+<form id="loginForm">
+<label>Email address</label>
+<input id="email" type="email" autocomplete="username" required>
+<label>Password</label>
+<input id="password" type="password" autocomplete="current-password" required>
+<button>Log in securely</button>
+</form>
+<p id="loginMessage" class="small"></p>
+</section>
+
+<section id="dashboard" class="hidden">
+<div class="panel">
+<h2>Welcome, Administrator</h2>
+<p>Manage your AFROEURO content.</p>
+<button id="logout" class="alt">Log out</button>
+</div>
+
+<div class="panel">
+<h2 id="formTitle">Create a post</h2>
+<form id="postForm">
+<label>Category</label>
+<select id="category">
+<option value="news">News</option>
+<option value="music">Music</option>
+<option value="entertainment">Entertainment</option>
+<option value="football">Football</option>
+<option value="jobs">Jobs & Opportunities</option>
+<option value="sponsors">Sponsored Content</option>
+<option value="community">Community Updates</option>
+</select>
+
+<label>Title</label>
+<input id="title" required maxlength="140">
+
+<label>Description</label>
+<textarea id="description"></textarea>
+
+<label>Image URL (optional)</label>
+<input id="image_url" type="url" placeholder="https://...">
+
+<label>Video URL (optional)</label>
+<input id="video_url" type="url" placeholder="https://...">
+
+<label>Source or destination URL (optional)</label>
+<input id="link_url" type="url" placeholder="https://...">
+
+<label>Visibility</label>
+<select id="published">
+<option value="true">Published</option>
+<option value="false">Draft</option>
+</select>
+
+<button id="savePost">Save post</button>
+<button type="button" id="cancelEdit" class="alt hidden">Cancel edit</button>
+</form>
+<p id="postMessage" class="small"></p>
+</div>
+
+<div class="panel">
+<h2>Manage Posts</h2>
+<p id="count" class="small"></p>
+<div id="posts"></div>
+</div>
+</section>
+</main>
+
+<script>
+const db = window.supabase.createClient(
+'https://krabepxsqparvpndalhq.supabase.co',
+'sb_publishable_AlhuoRLK4PAZUxnkuBpVhg_f1uZTk17'
+);
+
+const OWNER = '869b6d07-d595-46b9-993e-44dc50a774b2';
+const $ = id => document.getElementById(id);
+let editing = null;
+
+function showDashboard(allowed){
+$('loginPanel').classList.toggle('hidden',allowed);
+$('dashboard').classList.toggle('hidden',!allowed);
+}
+
+async function checkLogin(){
+const {data,error} = await db.auth.getUser();
+const allowed = !error && data.user?.id === OWNER;
+showDashboard(allowed);
+if(allowed) await loadPosts();
+else if(data.user) await db.auth.signOut();
+}
+
+$('loginForm').onsubmit = async e => {
+e.preventDefault();
+$('loginMessage').textContent = 'Signing in...';
+
+const {data,error} = await db.auth.signInWithPassword({
+email:$('email').value.trim(),
+password:$('password').value
+});
+
+if(error){
+$('loginMessage').textContent = error.message;
+return;
+}
+
+$('password').value = '';
+
+if(data.user.id !== OWNER){
+await db.auth.signOut();
+$('loginMessage').textContent = 'Administrator access denied.';
+return;
+}
+
+$('loginMessage').textContent = '';
+showDashboard(true);
+await loadPosts();
+};
+
+$('logout').onclick = async () => {
+const {error} = await db.auth.signOut();
+if(error){
+alert(error.message);
+return;
+}
+resetForm();
+$('posts').replaceChildren();
+showDashboard(false);
+};
+
+function safeURL(value){
+if(!value.trim()) return null;
+const url = new URL(value);
+if(!['https:','http:'].includes(url.protocol)){
+throw new Error('Use an HTTP or HTTPS link.');
+}
+return url.href;
+}
+
+$('postForm').onsubmit = async e => {
+e.preventDefault();
+$('savePost').disabled = true;
+$('postMessage').textContent = 'Saving...';
+
+try{
+const post = {
+category:$('category').value,
+title:$('title').value.trim(),
+description:$('description').value.trim(),
+image_url:safeURL($('image_url').value),
+video_url:safeURL($('video_url').value),
+link_url:safeURL($('link_url').value),
+published:$('published').value === 'true'
+};
+
+if(!post.title) throw new Error('Enter a title.');
+
+const result = editing
+? await db.from('posts').update(post).eq('id',editing).select().single()
+: await db.from('posts').insert(post).select().single();
+
+if(result.error) throw result.error;
+
+resetForm();
+$('postMessage').textContent = 'Post saved successfully.';
+await loadPosts();
+
+}catch(error){
+$('postMessage').textContent = error.message;
+}finally{
+$('savePost').disabled = false;
+}
+};
+
+function resetForm(){
+editing = null;
+$('postForm').reset();
+$('formTitle').textContent = 'Create a post';
+$('cancelEdit').classList.add('hidden');
+}
+
+$('cancelEdit').onclick = resetForm;
+
+function editPost(post){
+editing = post.id;
+['category','title','description','image_url','video_url','link_url'].forEach(key=>{
+$(key).value = post[key] || '';
+});
+$('published').value = String(post.published);
+$('formTitle').textContent = 'Edit post';
+$('cancelEdit').classList.remove('hidden');
+$('formTitle').scrollIntoView({behavior:'smooth'});
+}
+
+async function loadPosts(){
+const {data,error} = await db.from('posts')
+.select('*')
+.order('created_at',{ascending:false});
+
+if(error){
+$('count').textContent = error.message;
+return;
+}
+
+$('count').textContent = data.length + ' post(s)';
+$('posts').replaceChildren();
+
+data.forEach(post=>{
+const item = document.createElement('div');
+item.className = 'post';
+
+const tag = document.createElement('div');
+tag.className = 'tag';
+tag.textContent = post.category + ' | ' + (post.published?'Published':'Draft');
+
+const title = document.createElement('h3');
+title.textContent = post.title;
+
+const description = document.createElement('p');
+description.textContent = post.description;
+
+const edit = document.createElement('button');
+edit.textContent = 'Edit';
+edit.onclick = ()=>editPost(post);
+
+const remove = document.createElement('button');
+remove.className = 'danger';
+remove.textContent = 'Delete';
+
+remove.onclick = async ()=>{
+if(!confirm('Permanently delete this post?')) return;
+const {data,error} = await db.from('posts').delete().eq('id',post.id).select('id');
+if(error) alert(error.message);
+else if(!data.length) alert('Post could not be deleted.');
+else {
+if(editing === post.id) resetForm();
+await loadPosts();
+}
+};
+
+item.append(tag,title,description,edit,remove);
+$('posts').append(item);
+});
+}
+
+checkLogin().catch(error=>{
+$('loginMessage').textContent = error.message;
+});
+</script>
+</body>
+</html>
