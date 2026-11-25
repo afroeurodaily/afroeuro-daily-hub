@@ -19,7 +19,313 @@ function convert(){const value=Number(amount.value);if(amount.value===''||!Numbe
 async function loadRates(){try{const response=await fetch('https://api.frankfurter.dev/v2/rates?base=EUR&quotes=NGN,GBP,USD',{cache:'no-store'});if(!response.ok)throw Error('Rate provider unavailable');const rows=await response.json();rates={EUR:1};for(const row of rows){rates[row.quote.toUpperCase()]=Number(row.rate);if(!rateDate||row.date<rateDate)rateDate=row.date}if(!['NGN','GBP','USD'].every(c=>Number.isFinite(rates[c])))throw Error('Incomplete rates');document.getElementById('currency-status').textContent='REFERENCE';convert()}catch(e){rates=null;document.getElementById('currency-status').textContent='OFFLINE';output.textContent='Rates unavailable';note.textContent='Could not load rates. Please try again later.';}}
 [amount,from,to].forEach(el=>el.addEventListener('input',convert));document.getElementById('swap').addEventListener('click',()=>{const a=from.value;from.value=to.value;to.value=a;convert()});document.getElementById('menu').addEventListener('click',()=>{const nav=document.getElementById('navlinks');const open=nav.classList.toggle('open');document.getElementById('menu').setAttribute('aria-expanded',String(open))});document.querySelectorAll('#navlinks a').forEach(a=>a.addEventListener('click',()=>{document.getElementById('navlinks').classList.remove('open');document.getElementById('menu').setAttribute('aria-expanded','false')}));document.getElementById('year').textContent=new Date().getFullYear();
 function addText(parent,tag,text,cls){const el=document.createElement(tag);if(cls)el.className=cls;el.textContent=text;parent.append(el);return el}
-async function loadFeeds(){try{const r=await fetch('./data.json?ts='+Date.now(),{cache:'no-store'});if(!r.ok)throw Error('No data file');const data=await r.json();const football=document.getElementById('football-feed');football.replaceChildren();for(const game of (data.football||[]).slice(0,8)){const div=document.createElement('div');div.className='match';addText(div,'span',game.home);addText(div,'span',game.status,'vs');addText(div,'b',game.away+(game.score?' · '+game.score:''));football.append(div)}if(!football.childNodes.length)addText(football,'p','No fixtures available.','small');document.getElementById('football-status').textContent='UPDATED';const news=document.getElementById('news-feed');news.replaceChildren();for(const story of (data.news||[]).slice(0,8)){const div=document.createElement('div');div.className='listing';const a=document.createElement('a');a.href=story.url;a.target='_blank';a.rel='noopener noreferrer nofollow';addText(a,'strong',story.title);div.append(a);addText(div,'div',story.source+' · '+story.date,'small');news.append(div)}if(!news.childNodes.length)addText(news,'p','No headlines available.','small');document.getElementById('news-status').textContent='UPDATED';}catch(e){document.getElementById('football-status').textContent='UNAVAILABLE';document.getElementById('news-status').textContent='UNAVAILABLE';document.getElementById('football-feed').textContent='Updates unavailable. Check back later.';document.getElementById('news-feed').textContent='Updates unavailable. Check back later.';}}
+let footballGames = [];
+let footballFilter = 'Today';
+let showAllMatches = false;
+
+const footballStyle = document.createElement('style');
+footballStyle.textContent = `
+#football { min-width: 0; }
+.football-tabs {
+  display: flex;
+  gap: 6px;
+  flex-wrap: wrap;
+  margin: 16px 0;
+}
+.football-tab {
+  border: 1px solid #dce6eb;
+  background: #f4f7f8;
+  color: #142b3b;
+  border-radius: 9px;
+  padding: 9px 12px;
+  font-size: 12px;
+  font-weight: 700;
+}
+.football-tab.active {
+  background: #071b2b;
+  color: white;
+}
+.game-card {
+  background: #f8fafb;
+  border: 1px solid #e5edf0;
+  border-radius: 13px;
+  padding: 12px;
+  margin-bottom: 10px;
+}
+.game-league {
+  font-size: 11px;
+  color: #667986;
+  font-weight: 700;
+  margin-bottom: 12px;
+}
+.game-teams {
+  display: grid;
+  grid-template-columns: 1fr 76px 1fr;
+  align-items: center;
+  gap: 6px;
+  text-align: center;
+}
+.game-team {
+  font-size: 12px;
+  font-weight: 700;
+  overflow-wrap: anywhere;
+}
+.game-logo {
+  display: block;
+  width: 38px;
+  height: 38px;
+  object-fit: contain;
+  margin: 0 auto 7px;
+}
+.game-score {
+  font-size: 20px;
+  font-weight: 900;
+  color: #071b2b;
+}
+.game-time {
+  font-size: 10px;
+  color: #667986;
+  margin-top: 5px;
+}
+.game-live {
+  color: #d62828;
+  font-weight: 800;
+}
+.football-more {
+  width: 100%;
+  border: 0;
+  background: #071b2b;
+  color: white;
+  padding: 12px;
+  border-radius: 10px;
+  font-weight: 700;
+  margin-top: 8px;
+}
+`;
+document.head.append(footballStyle);
+
+function localDay(date) {
+  return [
+    date.getFullYear(),
+    date.getMonth() + 1,
+    date.getDate()
+  ].join('-');
+}
+
+function addTeam(parent, name, logo) {
+  const team = document.createElement('div');
+  team.className = 'game-team';
+
+  if (logo && /^https:\/\//i.test(logo)) {
+    const img = document.createElement('img');
+    img.className = 'game-logo';
+    img.src = logo;
+    img.alt = '';
+    img.loading = 'lazy';
+    img.onerror = () => img.remove();
+    team.append(img);
+  }
+
+  addText(team, 'div', name || 'Unknown team');
+  parent.append(team);
+}
+
+function renderFootball() {
+  const feed = document.getElementById('football-feed');
+  feed.replaceChildren();
+
+  const tabs = document.createElement('div');
+  tabs.className = 'football-tabs';
+
+  for (const filter of ['Today', 'Tomorrow', 'Live', 'Results']) {
+    const btn = document.createElement('button');
+    btn.type = 'button';
+    btn.className = 'football-tab' +
+      (footballFilter === filter ? ' active' : '');
+    btn.textContent = filter;
+    btn.setAttribute('aria-pressed',
+      String(footballFilter === filter));
+
+    btn.onclick = () => {
+      footballFilter = filter;
+      showAllMatches = false;
+      renderFootball();
+    };
+
+    tabs.append(btn);
+  }
+
+  feed.append(tabs);
+
+  const today = new Date();
+  const tomorrow = new Date();
+  tomorrow.setDate(tomorrow.getDate() + 1);
+
+  const games = footballGames.filter(game => {
+    const date = new Date(game.date);
+
+    if (footballFilter === 'Live') {
+      return game.state === 'in';
+    }
+
+    if (footballFilter === 'Results') {
+      return game.state === 'post';
+    }
+
+    if (footballFilter === 'Tomorrow') {
+      return localDay(date) === localDay(tomorrow);
+    }
+
+    return localDay(date) === localDay(today);
+  });
+
+  if (!games.length) {
+    addText(feed, 'p',
+      'No matches available in this category.',
+      'small');
+    return;
+  }
+
+  const visible = showAllMatches
+    ? games
+    : games.slice(0, 8);
+
+  for (const game of visible) {
+    const card = document.createElement('div');
+    card.className = 'game-card';
+
+    addText(card, 'div',
+      game.league_name || game.league || 'Football',
+      'game-league');
+
+    const teams = document.createElement('div');
+    teams.className = 'game-teams';
+
+    addTeam(teams, game.home, game.home_logo);
+
+    const middle = document.createElement('div');
+
+    addText(middle, 'div',
+      game.score || 'VS', 'game-score');
+
+    const date = new Date(game.date);
+
+    const kickoff = Number.isNaN(date.getTime())
+      ? 'Scheduled'
+      : date.toLocaleTimeString([], {
+          hour: '2-digit',
+          minute: '2-digit'
+        });
+
+    const status = game.state === 'in'
+      ? 'LIVE · ' + (game.status || '')
+      : game.state === 'post'
+        ? (game.status || 'Finished')
+        : kickoff;
+
+    addText(middle, 'div', status,
+      game.state === 'in'
+        ? 'game-time game-live'
+        : 'game-time');
+
+    teams.append(middle);
+
+    addTeam(teams, game.away, game.away_logo);
+
+    card.append(teams);
+    feed.append(card);
+  }
+
+  if (games.length > 8) {
+    const more = document.createElement('button');
+    more.type = 'button';
+    more.className = 'football-more';
+
+    more.textContent = showAllMatches
+      ? 'Show fewer matches'
+      : 'View all ' + games.length + ' matches →';
+
+    more.onclick = () => {
+      showAllMatches = !showAllMatches;
+      renderFootball();
+    };
+
+    feed.append(more);
+  }
+}
+
+async function loadFeeds() {
+  try {
+    const r = await fetch(
+      './data.json?ts=' + Date.now(),
+      {cache: 'no-store'}
+    );
+
+    if (!r.ok) throw Error('No data file');
+
+    const data = await r.json();
+
+    footballGames = Array.isArray(data.football)
+      ? data.football : [];
+
+    renderFootball();
+
+    document.getElementById(
+      'football-status'
+    ).textContent = 'UPDATED';
+
+    const news = document.getElementById('news-feed');
+    news.replaceChildren();
+
+    for (const story of (data.news || []).slice(0, 8)) {
+      if (!/^https:\/\//i.test(story.url || '')) continue;
+
+      const div = document.createElement('div');
+      div.className = 'listing';
+
+      const a = document.createElement('a');
+      a.href = story.url;
+      a.target = '_blank';
+      a.rel = 'noopener noreferrer nofollow';
+
+      addText(a, 'strong', story.title);
+      div.append(a);
+
+      addText(div, 'div',
+        story.source + ' · ' + story.date,
+        'small');
+
+      news.append(div);
+    }
+
+    if (!news.childNodes.length) {
+      addText(news, 'p',
+        'No headlines available.', 'small');
+    }
+
+    document.getElementById(
+      'news-status'
+    ).textContent = 'UPDATED';
+
+  } catch (e) {
+    document.getElementById(
+      'football-status'
+    ).textContent = 'UNAVAILABLE';
+
+    document.getElementById(
+      'news-status'
+    ).textContent = 'UNAVAILABLE';
+
+    document.getElementById(
+      'football-feed'
+    ).textContent = 'Updates unavailable. Check back later.';
+
+    document.getElementById(
+      'news-feed'
+    ).textContent = 'Updates unavailable. Check back later.';
+  }
+}
+
 loadRates();loadFeeds();setInterval(loadRates,3600000);setInterval(loadFeeds,300000);
 </script>
 <script src="./community.js"></script>
