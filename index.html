@@ -326,7 +326,10 @@ async function loadFeeds() {
   }
 }
 
-loadRates();loadFeeds();setInterval(loadRates,3600000);setInterval(loadFeeds,300000);
+loadRates();
+loadFeeds();
+setInterval(loadRates, 3600000);
+setInterval(loadFeeds, 30000);
 </script>
 <script src="./community.js"></script>
 </body>
