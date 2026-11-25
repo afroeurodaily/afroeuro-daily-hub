@@ -53,7 +53,7 @@ LEAGUES = {
 def football():
     today = dt.datetime.now(dt.timezone.utc).date()
     start = (today - dt.timedelta(days=2)).strftime('%Y%m%d')
-    end = (today + dt.timedelta(days=7)).strftime('%Y%m%d')
+    end = (today + dt.timedelta(days=2)).strftime('%Y%m%d')
 
     out = []
 
@@ -62,7 +62,7 @@ def football():
             url = (
                 'https://site.api.espn.com/apis/site/v2/'
                 f'sports/soccer/{league}/scoreboard'
-                f'?dates={today.strftime("%Y%m%d")}'
+                f'?dates={start}-{end}&limit=100'
             )
 
             payload = json.loads(get(url))
@@ -89,7 +89,15 @@ def football():
                 if not home or not away:
                     continue
 
-                status_data = event.get('status', {}).get('type', {})
+                home_team = home.get('team') or {}
+                away_team = away.get('team') or {}
+
+                status_data = (
+                    event.get('status')
+                    or competition.get('status')
+                    or {}
+                ).get('type', {})
+
                 state = status_data.get('state', 'pre')
                 status = status_data.get('shortDetail', 'Scheduled')
 
@@ -102,12 +110,10 @@ def football():
                     )
 
                 out.append({
-                    'home': home.get('team', {}).get(
-                        'displayName', 'Home'
-                    ),
-                    'away': away.get('team', {}).get(
-                        'displayName', 'Away'
-                    ),
+                    'home': home_team.get('displayName', 'Home'),
+                    'away': away_team.get('displayName', 'Away'),
+                    'home_logo': home_team.get('logo', ''),
+                    'away_logo': away_team.get('logo', ''),
                     'status': status,
                     'state': state,
                     'score': score,
@@ -115,6 +121,12 @@ def football():
                     'league': league,
                     'league_name': name
                 })
+
+            print(
+                'Football collected:',
+                name,
+                len(payload.get('events', []))
+            )
 
         except Exception as exc:
             print('Football feed unavailable:', league, str(exc))
@@ -127,7 +139,9 @@ def football():
     return sorted(
         unique.values(),
         key=lambda x: x['date']
-    )[:400]
+    )
+
+
 
 
 NEWS_FEEDS = [
