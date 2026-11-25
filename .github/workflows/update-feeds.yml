@@ -3,7 +3,7 @@ name: Update AFROEURO Live Feeds
 
 on:
   schedule:
-    - cron: "*/30 * * * *"
+  - cron: "*/5 * * * *"
   workflow_dispatch:
 
 permissions:
