@@ -283,5 +283,80 @@ checkLogin().catch(error=>{
 $('loginMessage').textContent = error.message;
 });
 </script>
+<script>
+function addMediaUpload(fieldId, type) {
+  const field = document.getElementById(fieldId);
+
+  const picker = document.createElement('input');
+  picker.type = 'file';
+  picker.accept = type + '/*';
+  picker.style.marginTop = '10px';
+
+  const button = document.createElement('button');
+  button.type = 'button';
+  button.textContent = 'Upload ' + type;
+
+  const status = document.createElement('p');
+  status.className = 'small';
+
+  field.after(picker, button, status);
+
+  button.onclick = async () => {
+    const file = picker.files[0];
+
+    if (!file) {
+      status.textContent = 'Please select a file.';
+      return;
+    }
+
+    if (file.size > 20 * 1024 * 1024) {
+      status.textContent = 'Maximum file size is 20 MB.';
+      return;
+    }
+
+    button.disabled = true;
+    status.textContent = 'Uploading...';
+
+    try {
+      const { data: auth, error: authError } =
+        await db.auth.getUser();
+
+      if (authError || auth.user?.id !== OWNER) {
+        throw new Error('Administrator access required.');
+      }
+
+      if (!file.type.startsWith(type + '/')) {
+        throw new Error('Invalid file type.');
+      }
+
+      const path = type + '/' +
+        crypto.randomUUID() + '-' +
+        file.name.replace(/[^a-zA-Z0-9._-]/g, '_');
+
+      const { error } = await db.storage
+        .from('media')
+        .upload(path, file, { upsert: false });
+
+      if (error) throw error;
+
+      const { data } = db.storage
+        .from('media')
+        .getPublicUrl(path);
+
+      field.value = data.publicUrl;
+      picker.value = '';
+      status.textContent = 'Upload successful!';
+
+    } catch (error) {
+      status.textContent = error.message;
+    } finally {
+      button.disabled = false;
+    }
+  };
+}
+
+addMediaUpload('image_url', 'image');
+addMediaUpload('video_url', 'video');
+</script>  
 </body>
 </html>
