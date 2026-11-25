@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-25T09:41:08.367621+00:00",
+  "updated_at": "2026-11-25T10:45:26.366815+00:00",
   "football": [
     {
       "home": "Arsenal",
@@ -108,7 +108,7 @@
   ],
   "news": [
     {
-      "title": "Court to rule on South African president's bid to set aside 'Farmgate' report - BBC",
+      "title": "Phala Phala farm theft: South Africa's Ramaphosa wins court battle over impeachment threat - BBC",
       "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9jUnhtdTdIRm1NbUhKLUExRmlCUkVSSXo0cV83VVBHajg4MmNnZkc4TUdmX0cyT2owMlNWRkxlbXdMZ0s3Njk4NVp4NXFwLW42eGI0TV9SajNrWjlieFE?oc=5",
       "source": "BBC",
       "date": "Wed, 25 Nov 2026 06:41"
@@ -126,16 +126,16 @@
       "date": "Tue, 24 Nov 2026 23:35"
     },
     {
-      "title": "Court to rule on South African president's bid to set aside 'Farmgate' report - BBC",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9BdXZ5WElEcVIxakx2c0ZUbF9pWkdlRUN5eUx1ZHBWWHBidGZFczR1SmxCMHZnVmFaT3BYUURya3RhSG5WaWdsS2ZhVjJZY2dEcVc4Z2x6UFVVdnc?oc=5",
-      "source": "BBC",
-      "date": "Wed, 25 Nov 2026 06:41"
-    },
-    {
       "title": "Senegal awarded Africa Cup of Nations after winning appeal over title being stripped - Sky News",
       "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOQ2dWSXhtWG9yZGpDMkZYUzJWTGFoT3pFN2RMREdGajhKYlRpcGpQTmVBdWQxa2gwOGlhZVZ1VlNDdWhCaHBZclNwNW1Yd2tTUFFzd1ZUWkFMRDM0NHV5N3ZLa1dETmp6OTNfbDVOQ19abHdxeGk4NjB0T0xCbzYxbVU0c29YYXR5cHQ4QVVzQmlkbkdQNkNzMEtUMFFXbnFGdnRaY2ZBelJuWWpnSExFTmRpX0FiMFprZEFrbQ?oc=5",
       "source": "Sky News",
       "date": "Tue, 24 Nov 2026 18:33"
+    },
+    {
+      "title": "The UN Tax Convention Is About More Than Tax - Welcome to the United Nations",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1IQkplMWlWMnJHQ0FGbFJqZ2t5TlI5X01rWTlNOV9GQ0dTSUF3NGRtSHctSU9sWnNFeFRWZHV4NHVRNnFzNk91Ylg3MEVxQlRySnNrUVBfVW9TbGlBRDFlZW9udEhxM0dFMFZvQ1hKVUFnQQ?oc=5",
+      "source": "Welcome to the United Nations",
+      "date": "Wed, 25 Nov 2026 08:39"
     },
     {
       "title": "Meta Launches US$700,000 AI Grant to Support Innovation Across Africa and Middle East - TechAfrica News",
@@ -150,10 +150,22 @@
       "date": "Wed, 25 Nov 2026 00:34"
     },
     {
+      "title": "Europe’s quantum leap: strengthening industrial capacity and security with new quantum technologies - European Commission",
+      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNRGRSOW5JdWhoUDA5TE5iX0lzQUdtaW9jcExpQW1LelFxeExHNW1Hc1AzN2dkQkQ4M1EyNE9VcDc1WnZnbnZNeUVxRHM1d09DdTVObkZwUzgtYklaZktqZmpRdEVHbU14akdVZWpIcTF6U0dKVGhqY2JvWkVwTnZIT0Jra1FsdnhtbHA1RWJTc195N25pNVRKc0pwbTJCM3ZST1RNRVNyTjhrR0tEVWQydUlUQV8tSkxpQno0X01CVXo1MVNLR2ljQ2c5aDdiS2ZHeDBGWi03VHh3UnFZZlZkRFZpcFFTYy13N0hR?oc=5",
+      "source": "European Commission",
+      "date": "Wed, 25 Nov 2026 10:06"
+    },
+    {
       "title": "CASE Europe honours Principal Mapstone - University of St Andrews",
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOYzVpdm5YRi1JVGFSb0djSWt2MmxCazNuVmU0aW00VGszRkFzc0h0N2Nwc0oxeHFRbnEtVUVYZkpMaFZlQVd0Y0Q3ZzI4RmJSbjJESHVYVW9OdkkzNkdDOVhyS05wYURmR2dWWFFpbjdNRUJMVldwRDhjUmNFTGpiNkxvcw?oc=5",
       "source": "University of St Andrews",
       "date": "Wed, 25 Nov 2026 08:59"
+    },
+    {
+      "title": "BYD tees up production in France ahead of EU ‘Made in Europe’ rules - Motor Trader",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPdjJpOXNHc3Y0aXNKN19UQjlaS1FtY0hsYXRMN2ZOMWZ2SVRRRzNxLXpRMlhlY2toTjMtUFlPRVBSMGw3LVI1Wm9DOXUwX3JTQk81RU5xQS11UXVxOG5hc3FvX2g2azFGd0oxM2E4YTZQaXNJb0FkQ280ZjJ6cEdsSXFDXzZOMXozUmlCR1VKdWJzUEJKNkprUldqQTFSWWVDcVR2YmhRemlKTHA0NE9sTEIwbTh3WnRiUnd4dXpRNmgtLWZYMi1Lakg0ZUxrSXFWR0FhZA?oc=5",
+      "source": "Motor Trader",
+      "date": "Wed, 25 Nov 2026 09:45"
     },
     {
       "title": "Europe is building drone defenses. But can it make them work together? - The Parliament Magazine",
@@ -162,40 +174,10 @@
       "date": "Wed, 25 Nov 2026 07:54"
     },
     {
-      "title": "EU plans €50bn tech fund to close gap with US and China - Financial Times",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOQ3FPSGJQTVhoMEZQb1luaFY2US1lMkpsRDI3a1h5NGtZVTktM0FxS1lSb0g5NEh5NVhHdGJCM2JYSXdHcEE5VUN0akVCLU9sOFV4dWpDZF9kUUQydEs4VlJzUjk1aGJWVWloaWs0ZUtLRDUwLVNJUDZldUdlQnc2ZmMtbGQ?oc=5",
+      "title": "A French crisis would be a threat — and opportunity — for Europe - Financial Times",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNRnVrYWFxemZROUh4Q2UxOVBWWFRvYl9mWkU3NFdxcEFwczBnLXBkaFZWcEpPaEFMdGpHWGIxemtGUVZDQ2pJTi1pVGVzZXlHYUw5QWdwbTBkMHhjdnJTU1lJTXFPcFlpVjQ3ZlczZy1mUTFvX2hfejR3LU13TmxMOXhRRFo?oc=5",
       "source": "Financial Times",
       "date": "Wed, 25 Nov 2026 05:00"
-    },
-    {
-      "title": "European Court issues landmark judgments on “instrumentalisation” of migration - Council of Europe",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQclNBaUViUW40bWZoSXcyWG9lZ09peHY2UTdCNTZ1VG5aWXJ1MmNvQUxOSzVrU3c5OHBydzNzSjBwVHZGckhHTEEzbzZHS1BKeDA2cmRzNS0tRmJIMGlaOHFZNHpCNVc4OC1rMzU0ODh0UExyLXpMc1hTbzRxbHJjWFp4TjNBNzNhTk5ybDBmeWd0T1VCcmhMcVZtV0xwNG90WURLSHZNUWJVR1dadExZYjBB?oc=5",
-      "source": "Council of Europe",
-      "date": "Tue, 24 Nov 2026 14:56"
-    },
-    {
-      "title": "On-the-job search in Europe and the United States - European Central Bank",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxObFUtVFYybk9EVzlBWngyOEhDN3JyUXhKTERGejVrSTliTGRsUHg1eENHamdLQ0lsRFdMdUR0WmUyc1ljUmZWcktBaW1MTWdURjUzd3RlRmZoSk5LcE1IYzNPZVhDMGVpRm1zNm9XLWI2UHdnWElZN0hWNEpyZmw2QWZYNTlwYUk1VDJXa01EN2JBT3Zra1diR1dPWGxDOHljdThKTVN3?oc=5",
-      "source": "European Central Bank",
-      "date": "Wed, 25 Nov 2026 07:01"
-    },
-    {
-      "title": "Veteran Nigerian Nollywood actor Pete Edochie dies aged 79 - BBC",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1zbnRMUnlERGhkSEdrbWlJSmRsU3l0NGtPTUdMYkJNc3RDRmpBTTdNckNHUE5raFhpVFFRVzA2N21MeW91ZWlWdG1QdUhXa2RMcFpWV29mZERRSXQ5LUE?oc=5",
-      "source": "BBC",
-      "date": "Wed, 25 Nov 2026 05:13"
-    },
-    {
-      "title": "Chad pursues new telecom links via Nigeria, Algeria and Libya - Telecompaper",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQckpLazgxU0JWM283VEN1MlZ3Mk92UmpRSlktTmItVUREbS1YT2RmMDV5aVJ0cXFiVFFmVGJhVzd0MXpISDkxNm5ETS1GVTRIMTdwdXhYcllRY2RkVl83bjQ0cEJmOWZWT3FGUk9SSU93Tk1ZUUlKX0I1cDZkMWswU2VlMFk2aXBfSHFMcFVFY0V6c1k5UEV0VTJuZXRsWXdVOVI4eUh3?oc=5",
-      "source": "Telecompaper",
-      "date": "Wed, 25 Nov 2026 08:39"
-    },
-    {
-      "title": "Pete Edochie dead: Veteran actor die at age 79 afta battle wit prostate cancer, im family announce - BBC",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBVWkMxcGZfajQ4cWVVV1pCTkM1UEc3YWF4bGRhVGVoWl9iRVhiVFFFMmwtWlVBWGNfZ3QxRFRkalZVVkNNemtBd1Vod2U5QlAtLTJoWWFZdFk0Qmd1d2fSAWNBVV95cUxNMXdhODlPdWdiTVpoMVJVNThqXzgtOG9heWpzN0lxWDVKMTBtNTBFVDh1bHp0Wmt6ODI1dU5IUnZvSUVrRU9RTVNpUTlYdGJrTDhZUk5ad2d0Z2lueXBhbGJJLTQ?oc=5",
-      "source": "BBC",
-      "date": "Wed, 25 Nov 2026 07:10"
     },
     {
       "title": "Emir of Daura: Nigerian monarch suspended over sexual assault claims - BBC",
@@ -204,16 +186,34 @@
       "date": "Tue, 24 Nov 2026 19:10"
     },
     {
+      "title": "Veteran Nigerian Nollywood actor Pete Edochie dies aged 79 - BBC",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1zbnRMUnlERGhkSEdrbWlJSmRsU3l0NGtPTUdMYkJNc3RDRmpBTTdNckNHUE5raFhpVFFRVzA2N21MeW91ZWlWdG1QdUhXa2RMcFpWV29mZERRSXQ5LUE?oc=5",
+      "source": "BBC",
+      "date": "Wed, 25 Nov 2026 05:13"
+    },
+    {
+      "title": "Pete Edochie dead: Veteran actor die at age 79 afta battle wit prostate cancer, im family announce - BBC",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBVWkMxcGZfajQ4cWVVV1pCTkM1UEc3YWF4bGRhVGVoWl9iRVhiVFFFMmwtWlVBWGNfZ3QxRFRkalZVVkNNemtBd1Vod2U5QlAtLTJoWWFZdFk0Qmd1d2fSAWNBVV95cUxNMXdhODlPdWdiTVpoMVJVNThqXzgtOG9heWpzN0lxWDVKMTBtNTBFVDh1bHp0Wmt6ODI1dU5IUnZvSUVrRU9RTVNpUTlYdGJrTDhZUk5ad2d0Z2lueXBhbGJJLTQ?oc=5",
+      "source": "BBC",
+      "date": "Wed, 25 Nov 2026 07:10"
+    },
+    {
       "title": "Big news! Trust TV is coming to DStv. Documenting the Nigeria’s story, bringing your favorite news closer. #trusttvnews - Instagram",
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFA4QzlXRlY1NVlWY3dCQWExNEJHWXFqM0FUQjM5ZjRXd2NyNF9OMlhmR2JWTExLbV9memdUai1TQ2ZlQWUtcXpQRm5CUk5xWUZ4ZHVneWR3?oc=5",
       "source": "Instagram",
       "date": "Tue, 24 Nov 2026 17:40"
     },
     {
-      "title": "EU Releases €10m Additional Humanitarian Aid For Nigeria - Arise News",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOR2Q4cDVaWnhJaW1VRnRLdmVuWFhNYnlOdndvWFVGc1BSZ3lmSzQ5QlZLV0RXUms4N0dmZmRMemJnRkU4VTNQdk5neHIyaGJveXVocGVvQTRaTTJPTzhVZVZtVTJhY2Q1T2JFSi1PYm45Vkt0Rjd3ZTlxNXJleWF5aVN6el8?oc=5",
-      "source": "Arise News",
-      "date": "Wed, 25 Nov 2026 07:41"
+      "title": "Nigeria Opens Innovation Hub to Boost Digital Skills and Employment in Borno - TechAfrica News",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOUkdQOFNGbmhELTNXeV9tV21rVjJ1c0FDMllGS3RYRXE5ekctdE1sdFpyVDF0aXZNNkZtc1lueGdYVllncWFyMFQtZ1NuYjhGRENVWlhJUWpXNWczSFgzQnNGenRjMnVmRDdOcGtvaEtqdWUxNUhrSjR2c0Z2bV94UDJFYWxnam9qZWp5Rk16VnlwQk9PUnI3NQ?oc=5",
+      "source": "TechAfrica News",
+      "date": "Wed, 25 Nov 2026 07:23"
+    },
+    {
+      "title": "Chad pursues new telecom links via Nigeria, Algeria and Libya - Telecompaper",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQckpLazgxU0JWM283VEN1MlZ3Mk92UmpRSlktTmItVUREbS1YT2RmMDV5aVJ0cXFiVFFmVGJhVzd0MXpISDkxNm5ETS1GVTRIMTdwdXhYcllRY2RkVl83bjQ0cEJmOWZWT3FGUk9SSU93Tk1ZUUlKX0I1cDZkMWswU2VlMFk2aXBfSHFMcFVFY0V6c1k5UEV0VTJuZXRsWXdVOVI4eUh3?oc=5",
+      "source": "Telecompaper",
+      "date": "Wed, 25 Nov 2026 08:39"
     }
   ]
 }
