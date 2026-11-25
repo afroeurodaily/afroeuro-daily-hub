@@ -12,7 +12,9 @@ from email.utils import parsedate_to_datetime
 ROOT = pathlib.Path(__file__).resolve().parent
 
 HEADERS = {
-    'User-Agent': 'AFROEURODailyHub/2.0 (public feed reader)'
+    'User-Agent': 'Mozilla/5.0',
+    'Accept': 'application/json, application/rss+xml, application/xml, */*',
+    'Accept-Language': 'en-US,en;q=0.9'
 }
 
 def get(url):
