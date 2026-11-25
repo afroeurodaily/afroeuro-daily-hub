@@ -25,11 +25,13 @@ async function loadCommunityPosts() {
   function addLink(card, value, label) {
     const href = safeURL(value);
     if (!href) return;
+
     const link = add(card, 'a', label);
     link.href = href;
     link.target = '_blank';
     link.rel = 'noopener noreferrer';
-    link.style.cssText = 'display:block;color:#087b60;font-weight:bold;margin:12px 0;';
+    link.style.cssText =
+      'display:block;color:#087b60;font-weight:bold;margin:12px 0;';
   }
 
   try {
@@ -46,43 +48,113 @@ async function loadCommunityPosts() {
     }
 
     const posts = await response.json();
-    container.replaceChildren();
+
+    const snapshot = JSON.stringify(posts);
+
+    if (container.dataset.snapshot === snapshot) {
+      return;
+    }
+
+    const videos = container.querySelectorAll('video');
+
+    if ([...videos].some(video => !video.paused && !video.ended)) {
+      return;
+    }
+
+    const fragment = document.createDocumentFragment();
 
     if (!posts.length) {
       const card = document.createElement('article');
       card.className = 'card';
       add(card, 'h3', 'No updates yet');
-      container.append(card);
-      return;
+      fragment.append(card);
     }
 
     posts.forEach(post => {
       const card = document.createElement('article');
       card.className = 'card';
+      card.style.minWidth = '0';
 
       const imageURL = safeURL(post.image_url);
+      const videoURL = safeURL(post.video_url);
 
-      if (imageURL) {
+      if (videoURL) {
+        const video = document.createElement('video');
+
+        video.src = videoURL;
+        video.controls = true;
+        video.playsInline = true;
+        video.preload = 'none';
+
+        video.setAttribute('playsinline', '');
+        video.setAttribute(
+          'aria-label',
+          post.title || 'AFROEURO video'
+        );
+
+        if (imageURL) {
+          video.poster = imageURL;
+        }
+
+        video.style.cssText = `
+          display:block;
+          width:100%;
+          aspect-ratio:16/9;
+          object-fit:contain;
+          background:#071b2b;
+          border-radius:12px;
+          margin-bottom:14px;
+        `;
+
+        card.append(video);
+
+      } else if (imageURL) {
         const image = document.createElement('img');
+
         image.src = imageURL;
         image.alt = post.title || '';
         image.loading = 'lazy';
-        image.style.cssText = 'width:100%;border-radius:12px;margin-bottom:12px;';
+
+        image.style.cssText = `
+          display:block;
+          width:100%;
+          border-radius:12px;
+          margin-bottom:12px;
+        `;
+
         card.append(image);
       }
 
       add(card, 'span', post.category || 'News', 'chip');
       add(card, 'h3', post.title || '');
-      add(card, 'p', post.description || '');
 
-      addLink(card, post.video_url, 'Watch video →');
+      const description = add(
+        card,
+        'p',
+        post.description || ''
+      );
+
+      description.style.cssText =
+        'line-height:1.6;white-space:pre-wrap;overflow-wrap:anywhere;';
+
+      if (videoURL) {
+        addLink(card, videoURL, 'Open video separately →');
+      }
+
       addLink(card, post.link_url, 'Read more →');
 
-      container.append(card);
+      fragment.append(card);
     });
 
+    container.replaceChildren(fragment);
+    container.dataset.snapshot = snapshot;
+
   } catch (error) {
-    container.textContent = 'Community updates temporarily unavailable.';
+    if (!container.dataset.snapshot) {
+      container.textContent =
+        'Community updates temporarily unavailable.';
+    }
+
     console.error(error);
   }
 }
@@ -93,7 +165,10 @@ function startCommunityPosts() {
 }
 
 if (document.readyState === 'loading') {
-  document.addEventListener('DOMContentLoaded', startCommunityPosts);
+  document.addEventListener(
+    'DOMContentLoaded',
+    startCommunityPosts
+  );
 } else {
   startCommunityPosts();
 }
