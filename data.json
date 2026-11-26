@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-26T15:45:41.802528+00:00",
+  "updated_at": "2026-11-26T15:50:46.333847+00:00",
   "football": [
     {
       "home": "Sabah FK",
@@ -186,9 +186,9 @@
       "away": "Mjällby AIF",
       "home_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/2528.png",
       "away_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/20301.png",
-      "status": "15'",
+      "status": "20'",
       "state": "in",
-      "score": "0–0",
+      "score": "1–0",
       "date": "2026-11-26T15:30Z",
       "league": "uefa.europa.conf",
       "league_name": "Conference League"
@@ -1432,12 +1432,20 @@
   ],
   "news": [
     {
-      "title": "Accelerating Europe’s transition to funded pension systems - Bruegel",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPcy0xMGh0TmRrN2d1RHVDYnEycWV6M3RnWGtvbWN5R2hpVUxZaDd6UGtPbXlWSkJXSVVOSG5RN2dVcy1tMnltYWlvSWhVekJwTVpkTnpWUVN6S1hJaFRranlkWWtkMHdBMW5vX0RpUjNCTVFzWnZ0d3pCVWpiMU5iNC1iUzgtQjFSWlVPc1dxcjBkckpVdnJR?oc=5",
-      "source": "Bruegel",
-      "date": "Thu, 26 Nov 2026 15:37",
-      "published_at": "2026-11-26T15:37:57+00:00",
-      "category": "Europe"
+      "title": "FG laments Nigeria’s dependence on raw material exports - Punch Newspapers",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPTGRjbEQ0ZDJTc19iRFprR1JvYm40NmthYjlocHpSdWVUZ3R6VmNRSTNseWlpa2tNX19iel85R1c3MWZTQ2pHdGZLVUVKcTlhcnR2cks5VWFwVWgzSkFmZEFGemsxNGZlaFdlWi1MUFBBa1M3c01CTlAxQUVETUdYcWtxOGlqUQ?oc=5",
+      "source": "Punch Newspapers",
+      "date": "Thu, 26 Nov 2026 15:49",
+      "published_at": "2026-11-26T15:49:54+00:00",
+      "category": "Nigeria"
+    },
+    {
+      "title": "Zverev’s Germany miss out on Davis Cup semi with defeat by Great Britain - Arab News",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNV1dVQnBzakNVS0YzZEM3N2RoaWNyWWN4ZmpSekxPWU9SbkpCNmdUMkhlbmEtSzZzUmxoTVpXZjZvdHhnTHZTQ2RreEdLeTNYRjRXTjB3b20yalVoZHV2VC1YbG1GNVlJNWZHc1JrNHM1ZGgycFFvakI1bVpUY1VSWHRjUkNJWm9wT1YzZmtiTDdsa0o2S3JacDNXU2JBRFNJMEV4eWI2VUdOS2YxUUNRbA?oc=5",
+      "source": "Arab News",
+      "date": "Thu, 26 Nov 2026 15:44",
+      "published_at": "2026-11-26T15:44:46+00:00",
+      "category": "Germany"
     },
     {
       "title": "World Darts Championship: Memorable quotes Part 1 - Sky Sports",
@@ -1448,20 +1456,20 @@
       "category": "World"
     },
     {
+      "title": "EU pension tracking advances but multi-pillar coverage remains limited - Investment & Pensions Europe",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOc2lvZnN5bzFmckN6NVhIemFjR0xlNWdHeklsdUdvcTdzV2VSX1FkM0lpcHF4T080d1VQcDlqcjJzdG51bWFnbUdaQnhnaHRfUFp1MWxvQk5xOTQ5LW5HdGIweXpaVzVpdGxDV3NCWGllWWhnTkpHV2UtRmFwMTY4d1NVRjNlX05mQnRjdTByb3pGUE9QRno0SEp5MFUyT0xNX0g2c1RpekZfTVhia3htTVJn?oc=5",
+      "source": "Investment & Pensions Europe",
+      "date": "Thu, 26 Nov 2026 15:34",
+      "published_at": "2026-11-26T15:34:16+00:00",
+      "category": "Europe"
+    },
+    {
       "title": "Kushner claim we should be grateful Putin hasn’t used nukes in Ukraine is staggering - The Independent",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQRm1jQ09SVF9CNmxXdnJiVUtQSXVYbTNJbWZhNW90ZHgzMHNUYVZmaldIM08tVFdrUjY4Yk9xSU9LRGhDcDl5MGtGSjBDOGw5YThPbWJkZGsxNXVSQm9TWFNuRXV1M1JwNG5xalp3eW5ZWW1mYm1zcWlCd1o1Yk1qWTNnU1VTSmVHcWNadGh4YmpTUnd3R183WGJZWGxER3VEVVE?oc=5",
       "source": "The Independent",
       "date": "Thu, 26 Nov 2026 15:26",
       "published_at": "2026-11-26T15:26:00+00:00",
       "category": "Europe"
-    },
-    {
-      "title": "Zverev's Germany miss out on Davis Cup semi with defeat by Great Britain - RFI",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOVkxPR0hoVGNuWV9vTi16QVNHLXF0VXZjZ3JzS19hV21jclZIdFcyUUpLMnlRdnMzeGEyRHI1RWFQdmVvazBlZnloSmMwU056RDZvQVFOWE1FWklteHNCZ1JIUS1BMnpRTGg2T19WMkNxRlZSN1R0TVFWcFRKU2wyaU80RkpGV1gzcG9OREV4eUJpaXZBc2I2T2NyRHMwTG9RRUs0OHpEalZLMGh6a3Zr?oc=5",
-      "source": "RFI",
-      "date": "Thu, 26 Nov 2026 15:25",
-      "published_at": "2026-11-26T15:25:35+00:00",
-      "category": "Germany"
     },
     {
       "title": "China unveils 5-year services trade plan to widen market access, advance high-level opening-up despite global complexity - Global Times",
@@ -1472,12 +1480,28 @@
       "category": "Business"
     },
     {
+      "title": "Davis Cup Final 8: Great Britain defeat Germany to reach first semi-final in seven years - LTA",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQaF9nS1hwUVBEUWN3bWItQkVKYjdsRW1URlN6dlc3eTFzM2dXbzM2ZGcwdEhtZmJVb1FTd29NZEZLMzZlN0ZFa2xfNXV2a2RWMUcwLXZDRGxvWjROb1k4Wlc0aXpkQU5YN193d3J6ZC01U1c5U2dsVV9ETldLZXN4N2tENlhPS0VhSGxJTXAwbmJOMi0zNUNQSHA4LXR2dmFBQzUxOUpQWUs5WEhHdWozd1ViNjQ5MWR4QUUzeFZXaWxqdw?oc=5",
+      "source": "LTA",
+      "date": "Thu, 26 Nov 2026 15:14",
+      "published_at": "2026-11-26T15:14:32+00:00",
+      "category": "Germany"
+    },
+    {
       "title": "Davis Cup - Great Britain 2-1 Germany: Cameron Norrie guides side to first semi-finals appearance in seven years - Sky Sports",
       "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQOVlxYW1UQ3hNc0g4MUtFVVRVSFphb054dWxtb01xMjVBODhoamJDcVh6blAwaExpSl8xREVRUFdqT0FkSmdZa2VXWG1QVW52MVZmVTZPc2RWb2VPeGVRSFlWSTllc0FJN3RkOFhuMTNwcmpRTE1RVHAyMzdDMnFHdW1fV2Y4TExORmloS0pxMkhNYW1WVXNQV09RaGxWM1NGTjQ4Qklzb2VCX255S2JxaUtNeElnbWtkb2JhN2hmYXZrcGFWb0pxSUNqQi1SVFVwNEthRUZubVhsUVRNRnZYME0tV1pzcFJ2OHdBTg?oc=5",
       "source": "Sky Sports",
       "date": "Thu, 26 Nov 2026 15:03",
       "published_at": "2026-11-26T15:03:54+00:00",
       "category": "Germany"
+    },
+    {
+      "title": "News roundup: EU experts back phased PFAS restriction; COP31 cover deal rejected - Environment Analyst",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQSy1tekFuV21KV3R4M05vTkEtQ3ZoaEFRUHRBS3ZBdVJUdEJaS1NFWVZpX250WXZLSUYzMWtpR1ZaZXAxNHJfQ2pWbkNOUTlIQW94WDRPaXhxV3ppX1hOZmdGWXl0Y3RCVVRMRG9EWTdUdEVQZXdRSmlQNmRzYnlhLTFVX0tvVkpwb2lxQ1ZfR1JWWElFQ0xIcmtvSVlPcmlFbElYaDhXOGZtV2t3czNSUGdMR0E3SkoxanF5WmY0eWY4dw?oc=5",
+      "source": "Environment Analyst",
+      "date": "Thu, 26 Nov 2026 14:57",
+      "published_at": "2026-11-26T14:57:00+00:00",
+      "category": "Europe"
     },
     {
       "title": "Lenacapavir: Uganda and Zambia lead rollout of low-cost HIV prevention jab - BBC",
@@ -1496,6 +1520,14 @@
       "category": "America"
     },
     {
+      "title": "Legacy Of Leadership: Inspiring The Next Generation - New Times Newspaper | Latest Nigeria News, Breaking News, Top News",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOblhJYmRtcjVBOFBsU3FJcWV2UFNKYXVxWG9CbEtCX3l3RmpWSVA2OWJkRDZTbjFFSGpFMl9taklWUVFidXFaenRWQjBBOXpRMXBLekQyYlRGcFVmRVQway1WVnRiWmVZZkZheGZuTnN0aTFMMkg0Z0hXT2dyTS1QZElBOTZKZw?oc=5",
+      "source": "New Times Newspaper | Latest Nigeria News, Breaking News, Top News",
+      "date": "Thu, 26 Nov 2026 14:43",
+      "published_at": "2026-11-26T14:43:10+00:00",
+      "category": "Nigeria"
+    },
+    {
       "title": "MJ Daffue: DP World Tour player vows to 'kick butt' in battle with brain tumour after HotelPlanner Tour promotion - Sky Sports",
       "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOTUxFeVM0VV9OQ3BVTHZyTXZUeE1qcEd6U2RnN09oUm9lUUxWVmNuM2luZ1JiVXBpcnZoYktJbXl4MVhaTGFkclhhaWVxczlXcDdrd2VhUGJOMFNrbXdGYlpITFJBUjhjRmRfQjBaV05JaXRtRmFZeUZ5d1BlUHMxQTUzUW0tbk1ya2xkSTdyWk1MUXp6Smk0cFlYeVVCSUV2U3pnSFRrLTdfeFFiUjlJQTNyWGRvMnhwQzl6VGd6TU5NekkxSU9VN0V3TVBLbVVDVXhmWkZ4YmM4S2pwVHJ6UzJ2N0RXeHNnZ0o4?oc=5",
       "source": "Sky Sports",
@@ -1504,28 +1536,12 @@
       "category": "World"
     },
     {
-      "title": "Africa’s Universities Face a Defining Choice: Create the Future or Be Outpaced by It - ednews.africa",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE4xaFR4ajA5bWg1Z2RmWmxRZkxJdjMzNExlRHo2SFZpN1lTUEcxNDFDOVJBNlRkMDdXd2k1SnNVTVBtRUpSMHdDc2ZMMy1DOVBRZ3RaNEZkUnRoRERGLWlkcmpRTjg2OUNEQ25DOEZzWXczZw?oc=5",
-      "source": "ednews.africa",
-      "date": "Thu, 26 Nov 2026 14:39",
-      "published_at": "2026-11-26T14:39:16+00:00",
-      "category": "Africa"
-    },
-    {
       "title": "Safeguarding the UK against economic coercion - Chatham House",
       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOVUVWM09Dc28zeTJPcV8wRjFfS1dzSG8zemFWbTFIMmxIZ09ZSno2eThZTjlMTE40bFNnSGdIakk3VHlnSkhaNDBuMDdHS1V2ci1DSjFYckZyODJOZVp5SlMzOWtNSE9scVBWMTluVEs3QnlQbXpRNW5MYVBGMFJoQzVNZEs?oc=5",
       "source": "Chatham House",
       "date": "Thu, 26 Nov 2026 14:37",
       "published_at": "2026-11-26T14:37:30+00:00",
       "category": "Politics"
-    },
-    {
-      "title": "Americans in the Middle East Grateful for Tradition of Thanksgiving - The Media Line",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOWDI1b0piVTFQa1YwcS1qZzZwVFJrNzFxY1lIa3pFWlkwaC1qLXRUZ1ZiWjl0VnlPdzQ3QUpWdEdMZmx6cUtNczF0bXd5ZnlFMnphc1FKemQ2MWY4NXZkU29BSHFaUmZ0ZEljNy0ycXFGOVFQSnJhd3NVc01wNFozb2NPVGlWVlV0aVVodzFCaXNrVnFVZnB4cDktazI5RjA?oc=5",
-      "source": "The Media Line",
-      "date": "Thu, 26 Nov 2026 14:35",
-      "published_at": "2026-11-26T14:35:41+00:00",
-      "category": "Middle East"
     },
     {
       "title": "English restructuring plans in Germany: Frankfurt court confirms cross-border recognition - Freshfields",
@@ -1560,6 +1576,14 @@
       "category": "Middle East"
     },
     {
+      "title": "Middle East latest: Two Italians killed in Iranian drone attack in Kuwait - The National",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNZjlZcjNRWExvSC0zaURTVmE2YjJuTHI5Z3ZQb3dxMGtCS09EMEVwNVc3T1hzTnZ5Z3czZGhqWDRNU2tNb1RTTFZOempjZHFKNE95SG54NjBGSlBHb2VqVlRqTTlwd3h0UUcyd3lGMDZuejRyamV5cmg5cVBlNlVZeVdNTDlyXzRhRjR1Qm1pbWI?oc=5",
+      "source": "The National",
+      "date": "Thu, 26 Nov 2026 14:10",
+      "published_at": "2026-11-26T14:10:38+00:00",
+      "category": "Middle East"
+    },
+    {
       "title": "Plenary votes on Horizon Europe and ECF open way to tough trilogue talks - Science|Business",
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPcHlUaHVBTFJ2QjA1cWJZT0prdWhINFdrUW5WOVQ4ZC1UZmZUeWZ6X2VzS0U3OTZMclU0alFnUWh1aTR6MEFMN1lONkt3b0dzbVpiUWVpYUhqNC1GOVFpRlBEdUtieDhNaEFBU3hmWDd6QlJ4S0dQT25NQ0VZZkw5TVZHRERuWlozWUg4YlQ2ckktMmw4anFESlBXUmxQMTNvUldnZVdXd2xnTVJOUzgtblRWVjY?oc=5",
       "source": "Science|Business",
@@ -1576,28 +1600,12 @@
       "category": "Middle East"
     },
     {
-      "title": "Apt’s urbanest Canary Wharf becomes world’s tallest passivhaus building - Building Design",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPYklIdENlcExNUzlWR2s1WFNadUZWc2pJaGlObXFQUURJRjZpN2FXODZWR0U2SmhzSURDaXBLbEI1VzB5N09HTC1jYWVPeVBwZnRUeGVLXzNud2txVWNZaVZPSWNadW1vV1BWSE1ENkRVT0dTMzVZaXhiZGlGWW9IbzdBaDI1SGRJU2IwNFRlUDJxY2M3TkpjbkNQRFN0OVY1ekxFU2hLZ2xzV2NTTjlRaUJBbzhqaHhj?oc=5",
-      "source": "Building Design",
-      "date": "Thu, 26 Nov 2026 13:50",
-      "published_at": "2026-11-26T13:50:45+00:00",
-      "category": "World"
-    },
-    {
       "title": "Is a court about to rule against Britain on the Falklands? - The Economist",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNRG1YY1p3VWdGYm5SbWlkTEJsVkVURGx4Qi11bzJ3aVhGc09Zc2J5aUpMcE5McTljMEVoOTNlMHh5R2o1ai0wVHdyVjB1Sm9hVnNJcVNnYXJ4V3FleldLRVRyVEpCbGthTGpSZXp6MEZaanZVYUZMcjVEcTNMMWFxTWVQTkcyUG9vcTNadEpIRjAyZUZ3ZmZPXzRwQjlmTE5KTUxBVzJtQUZyd00?oc=5",
       "source": "The Economist",
       "date": "Thu, 26 Nov 2026 13:45",
       "published_at": "2026-11-26T13:45:02+00:00",
       "category": "America"
-    },
-    {
-      "title": "New US Tariffs Put Global Trade and Inflation Back in the Spotlight - kalkine.co.uk",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQYkdIZkc1Y25FY2IzNWNZYVhRSTJOUnQwQWM0TTlwU0hlTTc0SXM2NVp6Y1Z3UDA0djd6bVpRc1N1ckdnbVc3c0FmTnc3T0haZHNQQmoxbmJoeXotTXd5alNFRzVOY2R6RllVQW5sdkkybmVOcldza0xDTHdkWmxkNGdfaFJTLTJ5YjczdlBLa2NZWEJCRlpSSDhZZUEyNEdRUHVuWGtudU1qaVdm?oc=5",
-      "source": "kalkine.co.uk",
-      "date": "Thu, 26 Nov 2026 13:35",
-      "published_at": "2026-11-26T13:35:00+00:00",
-      "category": "Business"
     },
     {
       "title": "Nigeria Boosts Retail Supply of Dollars to Curb Naira Volatility - Bloomberg",
@@ -1608,12 +1616,12 @@
       "category": "Nigeria"
     },
     {
-      "title": "Ransomware Attacks in Africa Could Cost Businesses Over $368,000 Per Incident - FF News",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPZDY2eS1IdVNaVFI4OFNXZFZnR2xnOXBSQWtacFpoMzVreUpWNzUwWVdEbTl3VzY0NVBXQWZKcjQxMWNSQWdHaGptdTBKc1d4RnpuZTR2ZFZ2clU5ZmppRDktUjVJVWViaG03RndGbDRibDBNbHRCaGVSemVxQjBIZDdlRG9fZmNJT1E?oc=5",
-      "source": "FF News",
-      "date": "Thu, 26 Nov 2026 13:28",
-      "published_at": "2026-11-26T13:28:06+00:00",
-      "category": "Africa"
+      "title": "APEC 2027 theme carries important political, economic message to the world: Russian expert - en.qdnd.vn",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOTVBjUmZROTNtYkxFelRUQ2Z0dW9sOU9qTGxMNFlrZ2RRMUVfeDgxWU5rNU1vT0hPR0RSTVB2Uy1XaW5idGEzTFBKaDhQTE9oaEdmVThJSUdvbDB5TC0xYmZaQURjam16S2NnZHBjRGF1VEJIMExCTUVyTmlZSEFNb0RwOTJPYnVkMDdOWGYwR2RiTlFRX2dpaDUzU2YtRXVIbFRXbU5SaXJtdlNqX01sdmJGYjI0M3pQNE8yYXhlUWxaQVZKdW1fbkxfczNFY2VGX2IxZUtuTV9lbWM4TzFxQkp3?oc=5",
+      "source": "en.qdnd.vn",
+      "date": "Thu, 26 Nov 2026 13:21",
+      "published_at": "2026-11-26T13:21:00+00:00",
+      "category": "Business"
     },
     {
       "title": "Exclusive: Nostos hires Warne as Middle East CEO - Global Reinsurance",
@@ -1624,11 +1632,11 @@
       "category": "Middle East"
     },
     {
-      "title": "Global anti-doping community, including the Council of Europe, gathers in Astana - Council of Europe",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPNXhKdjl6eGtZWXMxSFZ2VUNUOHo0aElWRFMzajFLa1A0elJ4Q3VQZDREeDR5Z01zRkoyV3gxYW1jV0RFNTIzdEFLTlNaYm1oeEpWdzA1SldXYVQ5OWhxcWQ2RHlaZ2lNXzE0MC10d2dpMXBjLWFUTW1NUGNZVEF0OGFtWHQzV2VqTjhGc3NISWtlQ2JXek1CQWVGRlNjMWRESlpkNG9QelIzZ21qQlhPcFBsMFI?oc=5",
+      "title": "The Council of Europe calls for responsible governance of AI at UN security council - Council of Europe",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPOGhtT1ZHNzdYTlhfZUpHdF81NVY2SHlXR0E0V19kdWc4WndxeDFCLU9uM2FZeWhqYnZIalF0TkY2cHlZaEdWazZBTDZnN2dTMVBzeWNDaGE3YXgwd09GeGVPRWFMV0RlUTFYSFk4Q3pCYzZCbk9TQzhHc1JHREd0Zmw1RGl3dWFDUEZnSWJpRTV5cWRINldIZGdtdU8wLUJBZjNfSXhoT3YyRlRxTlFSNEJnRk1lVV9SMmln?oc=5",
       "source": "Council of Europe",
-      "date": "Thu, 26 Nov 2026 13:17",
-      "published_at": "2026-11-26T13:17:33+00:00",
+      "date": "Thu, 26 Nov 2026 13:16",
+      "published_at": "2026-11-26T13:16:01+00:00",
       "category": "Europe"
     },
     {
@@ -1704,12 +1712,12 @@
       "category": "America"
     },
     {
-      "title": "King of Jordan assured of Britain's ‘full support’ over Middle East crisis - The National",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNQktDZkhPVk13bWlta2hCS3JwTDRGN2RYMmJqTlJkaHBvVzREYjhaUmlhNTVFMjFKOXVrNFNMUFItbEtfdU9nWmRTeHpMMGhMWnp6NEZZLWNQLXVtbENaSG9xS3RYc25rd2hYb2NCTDRwT2p5WGJlRU9yTnNHTmd4bkNPNmo0cG9jSDRqN0NxOFJSY0xYMnVJUkFsTVlHd1ktdEdHRUY2V3ZPWmxsaHhOUnk5T25qcEhHSmJaMjh5X28?oc=5",
-      "source": "The National",
-      "date": "Thu, 26 Nov 2026 12:33",
-      "published_at": "2026-11-26T12:33:45+00:00",
-      "category": "Middle East"
+      "title": "Rowing News: Anita DeFrantz, A True Giant of Rowing and International Sport, Has Passed - Row2k",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQRUVmZDlEU3dMQVF3V08tbkxDYW9NMFRpRV9Kc01IcjZWLTJOWXdpbmZCVklvQ0dLOTdIUy1WbU9mTmlrU196cEdRdUpRRERHSDBzcFozTFB3NnRRZFFZb0N6dFBYS0RaZjZiR084WXFmU3V6MS1HLTZwWk5IX0hkN2U3OVRtNllqTlJpZ2ZyREJuNExGLVp4MGVObU5UV2IwTEhHNUFWTlFXSVdoMzhiVnU0NjJSVkwyVFoyTA?oc=5",
+      "source": "Row2k",
+      "date": "Thu, 26 Nov 2026 12:29",
+      "published_at": "2026-11-26T12:29:02+00:00",
+      "category": "Sports"
     },
     {
       "title": "Invesco Real Estate raises $1.4bn for Asia-Pacific value strategy - IPE Real Assets",
@@ -1718,14 +1726,6 @@
       "date": "Thu, 26 Nov 2026 12:28",
       "published_at": "2026-11-26T12:28:12+00:00",
       "category": "Asia"
-    },
-    {
-      "title": "Asisat Oshoala bags MSc in international sports management - Peoples Gazette Nigeria",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQbVZDWGM3eTZoMllJZXY2VTlHczdnUzlQMFNaTk5HaUJKN1JvdFZ0Z2Naa21CTkdDT1BYbHUwMzZiWUJOS0I0NkZCVmhsTldQcWdLRU5MSnNtQ18wQXZVUU02YkdDZ0c4SDVQd0dzSldBRW5wblFGWFU0T2tORzRFeXpIOFZmYTJvSXc?oc=5",
-      "source": "Peoples Gazette Nigeria",
-      "date": "Thu, 26 Nov 2026 12:27",
-      "published_at": "2026-11-26T12:27:07+00:00",
-      "category": "Sports"
     },
     {
       "title": "Realism and Power Transition Theory: Different Branches of the Power Tree - E-International Relations",
@@ -1758,6 +1758,14 @@
       "date": "Thu, 26 Nov 2026 12:14",
       "published_at": "2026-11-26T12:14:44+00:00",
       "category": "Entertainment"
+    },
+    {
+      "title": "Pix of the Day, 26th November 2026: South Africa's Biovac bets on African vaccine production - Africanews",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNVm5ubTFIMk1zRnRWdmFsVGtoZWRYNWhvY1NLSkc5X1hlSVBUMEticFBsSXE5OVY5R3Z4dDdGVHVveHpqN21rV2Z0SGh4SDl4Rm9QSzlqYlhoMzJsOVdvM1lvRXRkOGdwZ1d0dlljMHZ0UGNwcERwZ3ltN0pnWjA1S0RZM2lFbURTeFVKOE5OeHhTVHdHZy01LThUZUZFOG5oT2VyQWtkdXN1LURtUVhtbjFxLVJEUnlhakYxSlhENjRjMlVjdU440gHMAUFVX3lxTFBCMEJ6TWRSVkhPaWdRc0RtS3lRcF9vSlplalBKRW1HeWpfSjJjRnR3cWdJOUlDVnFDZlJnZm1LS2h0cTRRQkVYVmFKY1BBZ2RPZFFSbkEtam5kZFhoSW5kOGpFUnNjRUtsa2ZhOUhUTnpaTmVJeTlUbkZtV29fcWRWV2RuRmlDODB4UEhTUGhQbV9TcHkzQnF4akpCRWVQWFloZEdjY1pVVXJJUEJPZEtXZEpSOUZyUE5hYWNVUURCVkMzZnlXX2F4RE5QOA?oc=5",
+      "source": "Africanews",
+      "date": "Thu, 26 Nov 2026 12:11",
+      "published_at": "2026-11-26T12:11:51+00:00",
+      "category": "Africa"
     },
     {
       "title": "Healthcare delivery failures have implications for HE - University World News",
@@ -1808,14 +1816,6 @@
       "category": "Germany"
     },
     {
-      "title": "UPDATED: Oshoala celebrates new milestone with MSc in International Sports Management - Premium Times Nigeria",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQcy1XdHNNQkYwUWozeHZIOWd6QlFTdklveTkxYllUdEpXZGh2Z3RCTG41anNNY1FacDhzckNoOGpQUkFwdHdrb2dSMkw4c01oOWdMTW5Oei1sTmY5LWNtOHUyZVM3LXluYnFYYnZDQklDUWlOekxrcUZhbVYxRlBiZWpFMmtJbGVLc0Z6V1duWmRMaUc1VHZIR3VtamJoSGNQUDF4SmIxbFpGWVVJek5QVm1za1Nnek4xWjZjM3R5RWFsRENEN3B6YVY0SXdBc0pW?oc=5",
-      "source": "Premium Times Nigeria",
-      "date": "Thu, 26 Nov 2026 11:37",
-      "published_at": "2026-11-26T11:37:04+00:00",
-      "category": "Sports"
-    },
-    {
       "title": "SPEE3D plans 50 manufacturing sites across Asia-Pacific - Janes Defence Intelligence",
       "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOTHhEdEVPcnpjYWZXQWpOVk9vTlhnbk5EZmFVaU1KMUdWSnd1ejBxdy1aUWlqU1pkd01KcDBoQWp0SU53ZktsUEtTalNpVXFwSUFqTHNVMktMTzUydW1XY2VtWUNfcHFXSHoyM1otUmdpU0dsT3pvcmhjVzJ4YmVYMDMzOEZqNkQ4TE11Wks0b1IwNlp0amV6RktHM2tnWnIxLWJOamtLT1V6NXlIYzZMMFVhVHJGbkFHNXpvaXVEVk1VeURuZnBzRg?oc=5",
       "source": "Janes Defence Intelligence",
@@ -1832,20 +1832,20 @@
       "category": "America"
     },
     {
+      "title": "The US Library of Congress opens up to the Americas - EL PAÍS English",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOMUdpYXhzdFZBb3VrOU82UG9DZEpsODRRRVRnT3hYVXpvV0Z1NnBkdzVlUkx1UjZIZDJZNnF6RlE2eDhZMlNpV1ctNEpScEtXUmF2R3d4RHQzYVZaSEdsbEgyUWlNOXdOWE5fLXZZUTBNUHFwdXdUNmhGcXBQd0JweHJLQ1pGR2h6b2dmZDN0aGVNRzZ1ME5pclhKaXFKY3R0emtWNdIBuAFBVV95cUxPOC1fVFk0Mkhwd3RfOU93X2lVNlVFNDNHX204Vk41WHFfa2dLUEtFaFpVbnVHY0FSdTkwUjZaMV94a1JtdFRlR3ZwaTZoUFdaRGN5Ym9sblBmakdtLXVEalRCV1FOYklhRk1mMWdLakZ5eUhWeEdxMkFCYU9mUWhXZ0VGNEhXUTRLUFM5ZHhHa1g2RllOVXFhRHNONEhGYXd0RVhPX2h5a1JTMUdzbTNnNlB6M3JSWTli?oc=5",
+      "source": "EL PAÍS English",
+      "date": "Thu, 26 Nov 2026 11:15",
+      "published_at": "2026-11-26T11:15:55+00:00",
+      "category": "America"
+    },
+    {
       "title": "Pair accused of murdering South African artist and curator Tamlin Blake appear in court as art scene mourns - The Art Newspaper",
       "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPbU0wdEIyOTExY1RUYjlLZEdnWGdOMHpTYllkeGtscnpCWHRUaTBqdTFWOUNaNG83OTh0a0IySTZsLTdfbkM1ZU04TTlNbGo4dkdFNlpQUE56a0R3eGd1eVkyRzZoaldQLTRpTDVtZHJKeVVJZFpqTGpNckZQdHdjZzZ2clpMUUpNRmdiZHFxazVOTkdudW5UZ0JkZE1MUm9TX0lmdnVKbnRXa05TNUZRV2E0N3JkTVB5cHNPYmJCZDNPWUZ0VGVvUVZSZTBwWEJPcl9qVTZsbWtrb3FuU0VmbUMtODA?oc=5",
       "source": "The Art Newspaper",
       "date": "Thu, 26 Nov 2026 11:10",
       "published_at": "2026-11-26T11:10:13+00:00",
       "category": "Africa"
-    },
-    {
-      "title": "School assembly news headlines for November 27th: Top Indian, International, Sports and Business News - Education Times",
-      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNakF1RUV4emQ3X1JFa3UyMWhEazd2SUtkcldzWFZza0xhVWhUQzJaV0dQbmlDX3cxUndzRHFVSXlmNy1LWlROTHVQWTVkOFd4cEZxSWhWemhNYVFMZEtyY25JYUNkb0RLUl8zUUQ4LUVtSG9ud0tldUFkLUdfTGtiUUVIbnpIUmdmc1RyQWVaX0hSQmNyOHFrRmU4SHVpWVZEWk5mSlBGQlhLUmdFUDJMYkppR3U4S1RxckQ0UEk2WW5TTkdweG80SkEzMm1ENU1LVVhiSzNUNzhCdHl1aUdaOTlhcHJVWjlIeHA2SzNzLW9FQQ?oc=5",
-      "source": "Education Times",
-      "date": "Thu, 26 Nov 2026 11:08",
-      "published_at": "2026-11-26T11:08:00+00:00",
-      "category": "Sports"
     },
     {
       "title": "Economy continues to grow despite global challenges – PM - Egypt Independent",
@@ -1856,12 +1856,12 @@
       "category": "Business"
     },
     {
-      "title": "Electric trucks gain ground as Europe faces the wider challenge of making transport sustainable - European Environment Agency (EEA)",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNRXZSNHZhd0xTM3d1SU1NRVhIVW85d3I3YlBTbTc4bkhnUUhpNkNqTjlOMWJweVd4b2dPeVZpTUg1eXl5WHE5S0RFZmp5RGZpMERld3lPU0xzQzJ5NmlKeEtSYXE1SGZ1WkpBS3dZb0c2M0xRbTN4LVFwUGRvZlZ5ZFZuVWN5ODlfaUN5MWxQTXlfX2RpY1Fnay03bVR6WjMzQTFiS21qTXNPSm1raTQ0T1ZBdUJvYnBVX2VWc05yREpsUDVidjlpdURyQVFsYlp2aHRkdQ?oc=5",
-      "source": "European Environment Agency (EEA)",
-      "date": "Thu, 26 Nov 2026 11:00",
-      "published_at": "2026-11-26T11:00:00+00:00",
-      "category": "Europe"
+      "title": "Burnham tells King of Jordan he has UK’s full support amid Middle East war - London Evening Standard",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNUHQ3aXpVSXFXWVhmZG9IR0k5VHNYVjJzbEtwYWUxZ1djcUZDaTctRFFCTVNWSGFWS1lVYzlIeEdieWJIR0lfbkkwUjdEaVhVU01VdDl1WWt0WHhsazdpeFBPVk9ZOTZDbEpLOVZ1Q3RMVWpseGE1Z09oSU9udUpMMmFGQzlCX0E2NjdDZGF6TGRINXoxSHlYSGNpdm5admFw?oc=5",
+      "source": "London Evening Standard",
+      "date": "Thu, 26 Nov 2026 11:03",
+      "published_at": "2026-11-26T11:03:03+00:00",
+      "category": "Middle East"
     },
     {
       "title": "Oshoala Bags MSc In International Sports Management - Arise News",
@@ -1886,22 +1886,6 @@
       "date": "Thu, 26 Nov 2026 10:49",
       "published_at": "2026-11-26T10:49:41+00:00",
       "category": "America"
-    },
-    {
-      "title": "Sindhu named international event ambassador for Pink City Half Marathon - Awaz The Voice",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNZVpHMnNFYkxJck81UTNId3BQUjg0cGxOYzZRWjc1QVBnanJzSFhNY2x0end5YWszdENnS2hxc3dCUC1NQzVmY2lkS012ZXc4VWlJNzFWX3JiYnhvRnp0c2VXakhudWloUEVjTEk5UmVoSW10dGdLTnJVajBjeGtZdVBKT2tkNkVYWU5oQmNfbENHY3hpMXIyT2hkYlc4eER2dmRaQ2o2M1p3ZnNVQkMxd0x0WFdVbUJBVExCZzBZaw?oc=5",
-      "source": "Awaz The Voice",
-      "date": "Thu, 26 Nov 2026 10:46",
-      "published_at": "2026-11-26T10:46:14+00:00",
-      "category": "Sports"
-    },
-    {
-      "title": "Researchers propose flexible grid connections for batteries in Germany - Renewables Now",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNNkZfNVNMZWJ4VnlhWmRmNEEzQkxxN1JhMTZUVWx4eUY1dG9WMnJSTWFJUjVBOTItY0dvVXRSSnZ4cnRwZGh1MjFDVkJwenZjOG9RSnNxTnFlcFQxQ3huVTh6bnkySkk3ZW1Ydkk0bEc1S25zSGRZN2xkS0htMkpQTTdNMTNtOVlaQXJlal9qMFhsR0toYkpDVy05UzdrVXVlYVZYalNrUTJ1QmRTRm1B?oc=5",
-      "source": "Renewables Now",
-      "date": "Thu, 26 Nov 2026 10:45",
-      "published_at": "2026-11-26T10:45:00+00:00",
-      "category": "Germany"
     },
     {
       "title": "6 Winners Crowned by The Immortal Awards Asia Jury — LBB - LBB - Little Black Book",
@@ -1936,12 +1920,36 @@
       "category": "World"
     },
     {
+      "title": "Trump’s New Tariffs Target China’s Global Trade Dominance | World Business - https://www.businesstimes-bd.com/",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE4yQ0UyRHp3bFNsZHlQQ1dWaXVzMXFLMWRkVWZSNHVwdF9wRFJ6dGdzdHNESkhibFlFamV3aXNtZ2VUcVdDaUJVbExFNmFUSW9KTENndllUNDZ6ZVdMMVBGdV9kTUthLXhCYjdJQ1F6NA?oc=5",
+      "source": "https://www.businesstimes-bd.com/",
+      "date": "Thu, 26 Nov 2026 10:29",
+      "published_at": "2026-11-26T10:29:20+00:00",
+      "category": "Business"
+    },
+    {
       "title": "What does effective peacemaking in East Africa look like in an era of power politics? - CMI - Martti Ahtisaari Peace Foundation",
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOaDd6aGg3NmdEWVdJNXdXczFvTko4NGZ6MjF2OWpxN0FJYlFXeDR1VmdjSjRZcktSSDRoM1hmeHlNV2ZfcEJMV1dRdGdzT1prX05iZFRKaXp5ME9WOWZhN2hPbUdFUVVIbW5yTGdsSnozYUxJanBFOG9CcEh3Z2tsN1dkU21DWG9femJFd3pRLVhramRudTJ6ZXRtZ0Y5V29LTGd2V0tFNEZCNkZka1ZlOQ?oc=5",
       "source": "CMI - Martti Ahtisaari Peace Foundation",
       "date": "Thu, 26 Nov 2026 10:29",
       "published_at": "2026-11-26T10:29:10+00:00",
       "category": "Politics"
+    },
+    {
+      "title": "Woodbridge press-up pensioner Bill Kober chases Guinness world record - BBC",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5XUFp2aFk3bnVTdTVxNWhtMWVLdUczLVUzcjlxTkRCdzlBOEU5RmRwVzFackVWZzhSa1ZhR2R4S2xsV2V5S2NjR1RBbi1OYTdRUGpEQ184ajJIWGs?oc=5",
+      "source": "BBC",
+      "date": "Thu, 26 Nov 2026 10:26",
+      "published_at": "2026-11-26T10:26:12+00:00",
+      "category": "World"
+    },
+    {
+      "title": "Peter Obi: I Will Unite Nigerians If Elected President - Arise News",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOYlRmdmNEdkl6bmdWS1hQbk9UMTh6bVhCbnFoZE4zRnBCNVFTS3pKNGJzck10WEdXVFhHRXpEWkVsZGE3aEJ6b1JCNzNJMXVMcXFPWlFxRkpmcjVzUjl2NDdIanYyVHRTSV80Vl9UOWpJM1QySVUzZmNfUVhUWlBNTQ?oc=5",
+      "source": "Arise News",
+      "date": "Thu, 26 Nov 2026 10:25",
+      "published_at": "2026-11-26T10:25:58+00:00",
+      "category": "Nigeria"
     },
     {
       "title": "Davis Cup 2026: Great Britain vs Germany - results & updates - LTA",
@@ -1952,14 +1960,6 @@
       "category": "Germany"
     },
     {
-      "title": "Nigeria seizes $220 million worth of meth, arrests 5 Mexican suspects - Africanews",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQTzd3ZjFOUXdBSGZ2UEZZNTltSHh4LTAtT0VIQlF1REJMbFU4QXd4NEcxd1RCajJUcHNLR1pUdWREZnFtRmFLNzc0bW1KMXNqemYwR0pQaTBjcUhpbFpUSXRfNHJoZGxNS2pTdTJXZVg4Z05BZHZQMURTbHc5UUtwczVtOXo5NktveS1FWl9GWG1rWFlsUWpWOTRhZ0YzNkxSUVJxV2R6RFRaaVpQVVdV0gGvAUFVX3lxTFBPN3dmMU5Rd0FIZnZQRlk1OW1IeHgtMC1PRUhCUXVEQkxsVThBd3g0RzF3VEJqMlRwc0tHWlR1ZERmcW1GYUs3NzRtbUoxc2p6ZjBHSlBpMGNxSGlsWlRJdF80cmhkbE1LalN1MldlWDhnTkFkdlAxRFNsdzlRS3BzNW05ejk2S295LUVaX0ZYbWtYWWxRalY5NGFnRjM2TFJRUnFXZHpEVFppWlBVV1U?oc=5",
-      "source": "Africanews",
-      "date": "Thu, 26 Nov 2026 10:22",
-      "published_at": "2026-11-26T10:22:08+00:00",
-      "category": "Nigeria"
-    },
-    {
       "title": "ITV News appoints Kachroo as Middle East Editor - Advanced Television",
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPNzBSaU9vT3A1UEtiMHdyZjFReWFsdjRjRmV0MF9UTnZIdXJINHNwR1Q3Z1g4dXRKQlNoVmRYdTF5TWJ6LUJqVmZhRGI2ZjNuTWdvZkdZR3p0V0tfenNwRXJTdkNxanNkUTU2NHZrdWZxeUFhcnlzd3hMcFljSUJxR2dybnBQVXVrdEdzZmlqZzFfNW9ZQ1ZUOUFCUQ?oc=5",
       "source": "Advanced Television",
@@ -1968,20 +1968,20 @@
       "category": "Middle East"
     },
     {
-      "title": "Prince Harry 'misses' being part of Royal Family, former politician Nadine Dorries says - Daily Express US",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNNzFpa2g4UEJtTTRFZGNrT0RzdHREa21MdGl5VjNxNi1ySHl3S2hOR24zUkFMaTVSUXBKOGZqTlhjbUhnbmxISHlpOEZGSHM3NHdFaE12OVpmUS1JYThGTG8zZUF1QXoxaHVrTTRHWXpUZk9iTnViS01OT3IzQnI5Zlp4S3p2UThRM3B1cnJaZnBneUV4TFhhX2hzTzM5VG1EUlHSAaIBQVVfeXFMTTcxaWtoOFBCbU00RWRja09Ec3R0RGttTHRpeVYzcTYtckh5d0toTkduM1JBTGk1UlFwSjhmak5YY21IZ25sSEh5aThGRkhzNzR3RWhNdjlaZlEtSWE4RkxvM2VBdUF6MWh1a000R1l6VGZPYk51YktNTk9yM0JyOWZaeEt6dlE4UTNwdXJyWmZwZ3lFeExYYV9oc08zOVRtRFJR?oc=5",
-      "source": "Daily Express US",
-      "date": "Thu, 26 Nov 2026 10:21",
-      "published_at": "2026-11-26T10:21:15+00:00",
-      "category": "Entertainment"
-    },
-    {
       "title": "American Cement Association’s statement on Trump administration’s announcement of new tariffs and findings of Section 301 investigation - World Cement",
       "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxOWHA2TWFzTU15a2N6WlhuUGdLUWc2V2xudDJYZUxQLWI2ME41TjhqQkNtUlhKUEo4VWs0dDNtS0N6ZUcwbXdacENLWFM1enYxVlhqekRDNTR2S0FQdjZZN294QkVMdG5vRGJqRzNnSG5FaW9SUlV6SzVmUUxta2pNY21vbzdfMjhYTlhrTDZKU1NyaVA0ZGhmWXdJaWV0TDZheUozMDhMeGxYYWtzdGhRa0JFVUVoaFNlT0dZZEY5ZlFjcFV4SHRNeG1ZeUJ2RER0czFIS3p2VmpLa29tTnZYckNGRWlPRFFVVExWMWxEcDQtRkszOV84T3pnNTRvekxPdVRCSjVwMG1hVV9oTVJ5d3FR?oc=5",
       "source": "World Cement",
       "date": "Thu, 26 Nov 2026 10:21",
       "published_at": "2026-11-26T10:21:05+00:00",
       "category": "America"
+    },
+    {
+      "title": "EU bicycle production exceeds 10 million in 2025 - European Commission",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5hZUMxTm1EcExWN19RYkxKU0dQZWZuY3llTHlPNXdYQTZJU090b0R3SWt3NmZWYThMSDY0NEpLeDdhLU5YQlgtTXlSdGNIVDAtOHFqV0FwNG02aE5lcFUwMFBHTTVPUGtVelc3aHZXYjl2YU9pQmhaMk5NdW5JZw?oc=5",
+      "source": "European Commission",
+      "date": "Thu, 26 Nov 2026 10:14",
+      "published_at": "2026-11-26T10:14:27+00:00",
+      "category": "Europe"
     },
     {
       "title": "Housing in Europe – 2026: latest facts and figures - European Commission",
@@ -2040,6 +2040,22 @@
       "category": "Middle East"
     },
     {
+      "title": "Africa Media Review for November 25, 2026 - Africa Center for Strategic Studies",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQdEk3MHNRUTFYNUE5OXlmdW11a0lZWVRiZDFVbFJONzZrU2pmZUdtTFNQMkpJNU9BdlFKLUpOMmRDdGhuZDBndWNxUXM3eXdoZ1hGRUUyRER3TlZDTEx6UjBodnRsblVNWGtiMVpIcS1HYXl4ZHBWSHJKM29OT0ZFU3k3MmRkZFJ5QmI0S3Bn?oc=5",
+      "source": "Africa Center for Strategic Studies",
+      "date": "Thu, 26 Nov 2026 09:23",
+      "published_at": "2026-11-26T09:23:11+00:00",
+      "category": "Africa"
+    },
+    {
+      "title": "Russell Group statement on landmark UK-EU summit - Russell Group",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOUXk5bURpSW12N0tWYXdzZzNLSDJZaWFIZzVJczBnUXU4S05rX21WTHl1U003WVZaUzVNdTNCNXd0Q01tMmhQSWprSnptekI0enAyYTJhOU45NTZnaXNFSVJQSGJVdUZQZG9CLVItMXNOUzdsUGk0cGF0ZzkzNnZNMklHdU41Q2h5?oc=5",
+      "source": "Russell Group",
+      "date": "Thu, 26 Nov 2026 09:19",
+      "published_at": "2026-11-26T09:19:28+00:00",
+      "category": "Europe"
+    },
+    {
       "title": "'Cutting Costs' Bill to make doing business with Europe cheaper and easier - GOV.UK",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPRWlRckRaaWZTU0NWeHFoM1Y3TEEzWkxIZ1VZVGNXVExxeE8zNy1ZUWYyMjF5V0NtZ1ZOWEh6dG1IS2tyUWlKSGp6WkdJMmZuTEoteDdLcnBGLTdZdm1XSnhFZUd1VnQtWF9YYzBqR1NENU5EOVJ3OF9tY2lfdFRLS2FPX2d3S1VoUGlWRXVZakEzTlRnSlp3WERsSkNvaXBNczhKOWFnVXkwcGc?oc=5",
       "source": "GOV.UK",
@@ -2080,12 +2096,12 @@
       "category": "Politics"
     },
     {
-      "title": "Press release: Weber’s EPP continues its crusade against nature, with the far right’s help - BirdLife International",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNeV80enRmR1EtLVJGQUN6MUh4Wm1MdEFfNUUxYnFyemVWcUM2dmdTQTQ2bnZINlFXN2VZX05MajJha1V5Z1hMQlpSdk5QcG9yMXJqMmhISDlZenFOTDlER3VDRVAzNVlzUmlzLUFBVnVqMmwyeGE2RjhyN3BPRW1MSE1ZQnhOMUdWQV9PU1dCcWUtUnl1VFVDTDZpOTgzcXJ3VDVQWWV6ZGZibVBpVmVGbVVfQ0FCdzFQZXNBV28tVlZuUVNSUE9F?oc=5",
-      "source": "BirdLife International",
+      "title": "FIVB becomes world's largest federation with 232 members - KarloBag.eu",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQQmU3MVBNenVfdU5YUHQ2UEZNT1R3Q0hpaGtEY3NUNHhDQUFBdnJKMF9DcGQ1N3FhMDVkZE9xU3lMSFlzWWFTaDBqSW14WkhXdjBFdWZWUy1tLXZ5ajZzM2dwUTJqNDRQOGNISUw2Q3lGczNrdDB6dEpoZDBHWDNQMXg1M0FTXy1CTUZ1cndkSnliaVZPTk9WVVpzRWdrWlp6Zl9oSFdVYzkzd2NBbnlNSDFKZGJYR2c?oc=5",
+      "source": "KarloBag.eu",
       "date": "Thu, 26 Nov 2026 08:45",
-      "published_at": "2026-11-26T08:45:56+00:00",
-      "category": "Europe"
+      "published_at": "2026-11-26T08:45:45+00:00",
+      "category": "Sports"
     },
     {
       "title": "Chinese Taipei vs. South Africa - How to watch Banyana's FIFA Women's World Cup qualifier - ESPN",
@@ -2096,20 +2112,12 @@
       "category": "Africa"
     },
     {
-      "title": "Tourism Manifesto Press Release EES Implementation Issues: EU Action Required - Airports Council International Europe | ACI EUROPE",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPTmJBZ1FzS3JYNkQybGdaQ2RfakFsMEpKUXRLMXB5Y3I3QzFPclJzaGIwdEZzdE44VndBb2V3TkREVUtTR0k0RzJSYUg3TDdWam1PbkRWN1RPYUJDMVFTaE1kalNpOURZb0J5MF83ZldjVG1KMHFiQlQ5SVc3YXcwblRaQkxDY0x4QVRNXzNCRVg1dkVWNWRSYWM0Vkw2WUQ2MThOekM4bFBKa0hVQ0x1NHFnUlFKYUlCd19xZG02R05CandE?oc=5",
-      "source": "Airports Council International Europe | ACI EUROPE",
-      "date": "Thu, 26 Nov 2026 08:13",
-      "published_at": "2026-11-26T08:13:40+00:00",
-      "category": "Europe"
-    },
-    {
-      "title": "Global business services must move beyond cost competitiveness as AI reshapes ops - The Edge Malaysia",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBqaFBpYW9vRVRYMjlETDFrbHBFY3BBX2pDZFF3c25QZmRfWDNablpZYlJkSUJSWE1RUG5pSUhDUWdmalRFTmUzdGFqOHgxTFc5?oc=5",
-      "source": "The Edge Malaysia",
-      "date": "Thu, 26 Nov 2026 08:04",
-      "published_at": "2026-11-26T08:04:58+00:00",
-      "category": "Business"
+      "title": "Reuters Sports News Summary - Devdiscourse",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQSHU0SW85ZF9EcG1tdjlNN2pjYk5ZSXl5MkFCSEtwMngtOFNxblAyZ0dqdlcxMVZBMWJNV2xuRFpSNDFzYWRjVzZGS2RfcUZGNDBjc0FSbGRlMlhKbTNUeDVxcFZ4UEFDSVV6Y192dmVFeWZCU0M5OVF4RnVYMVNLeDNSbTlnTjNEcF9yWW8zY9IBlAFBVV95cUxORDd6aVlfRTRoWHhVQ3V4MVdrQ2VLbnRTTFVQaDMtc3hrbmhnUEdGNkZYV09MejdmX2VqZUxhVkptUm9mZmRUbl9KQ1doMHFZOVdTMFlYNlRIRUVVR0hwM3haNl9tNXNOMGptcUFoUWJ6NTIycGFKUVN6TFNHZ3VaZUF2RXoyS21mUE9fOHh4dHJSdUxp?oc=5",
+      "source": "Devdiscourse",
+      "date": "Thu, 26 Nov 2026 07:56",
+      "published_at": "2026-11-26T07:56:24+00:00",
+      "category": "Sports"
     },
     {
       "title": "Lukoil's global retreat driven by politics, co-founder says - Reuters",
@@ -2150,14 +2158,6 @@
       "date": "Thu, 26 Nov 2026 06:38",
       "published_at": "2026-11-26T06:38:00+00:00",
       "category": "Nigeria"
-    },
-    {
-      "title": "Caudalie Appoints Guillaume Thomas as CEO Americas - Global Cosmetics News",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNZW9Oa3h4ZUxxdFRnd1diNWxZOTQtVkxWUXNzdDNDbkpndUVMdlJSSU02T085UVVMd2k2OHlJQmhTWDNaNkEtSkVTczN2bVEybDg3ektac0swVlBPb19BNGZFZnhXdlVReGw5VDZzU1g4UTNjUUJQcHRlXzlnVWJLNEdiRjBDanBfZld2Y29yNmY?oc=5",
-      "source": "Global Cosmetics News",
-      "date": "Thu, 26 Nov 2026 06:00",
-      "published_at": "2026-11-26T06:00:42+00:00",
-      "category": "America"
     },
     {
       "title": "Duran Duran guitarist Andy Taylor dies at 65 - IOL",
@@ -2224,12 +2224,28 @@
       "category": "Business"
     },
     {
+      "title": "Hugo Boss Reshapes Americas, Emerging Markets Leadership to Target Brazil and the Gulf - Modaes",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQUUlFcnZ1cHRzYXJpWGdyVWJxN1gtb2dMN0xUS2FabkhDbVc3ZXVCZU55Ti1Ibl9EOEx0R2g5bUpQSXI0SWU5SFFSekVRY0I2RmFqTFNWMGJWTzZhaG1fbEswWW9oUUhlakMtWmdacGdDNzlmdXJkdmJNQ09iYnJBWTVjd1p5NUJSeXZDcDhTYWxlU0o3bDJlTGtiV1htWnJtbzRkc3NPcndXSnpMQWx0MzZLMEFCR1h0WUdWR1ptUmZHdGJTY2xJeXRudXRMQkFNNlNRcGVrZE40X092eUE?oc=5",
+      "source": "Modaes",
+      "date": "Thu, 26 Nov 2026 04:00",
+      "published_at": "2026-11-26T04:00:00+00:00",
+      "category": "America"
+    },
+    {
       "title": "Michael McIntyre to make Dubai Opera debut in January - Gulf News",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQOEJBaTU1dXE3S0Q4MUFkZml5aTZsQnp6LVlDVi0wRHRibkRQYzhnd2ZjZlFocUNPNVZLMUd1cWM3bzlaMW9hMno3VEpvelZ0UERWbFB6bXBkdkFWM2FjNHlDOHNMdXdiTDVSb19LdXNMZE9rYWM2Wjc1QTgxSjZVTlFiVzZETnNfdDNGVm9rbFpaWDVqdXJqdVBQUVdCYklIenfSAbIBQVVfeXFMUE9DRUZxX3ZBVTJDVlduNDRHS0ZEbHFScDM1MEtLUkt2TElNQUtTbmV0WG55REtIWWZiTEw5c1pFOThTRFpoaU9TSkRhc2RPNi1zLWg3N3dlRzdISktHVDNaRVhNa3haLXlsZVp1RENFb0pnMlA4YmVLal9EMFRfZERVMXM0eWxURGQtSjd4LU16Z0M0YldnWGRjTGZrbFRNOWFmeEJqLUVXQUZ4a3l0eXRKZw?oc=5",
       "source": "Gulf News",
       "date": "Thu, 26 Nov 2026 04:00",
       "published_at": "2026-11-26T04:00:00+00:00",
       "category": "Entertainment"
+    },
+    {
+      "title": "Spurs Women: Who’s on international duty? - Yahoo Sports",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQWVoyRmVqQWtEZWVUZnMyMksxRW85d0FraHdSSjlBNHF6dktRRDM5bVNWUFJYYW85R3E0c015MkZ0d0RpMGpsVEFKNXNCd3VzUExEb2ZsU1dvVFB6VjNPTFJKSU5RZlRfMEEyNUJNdW9UODZ2dzI0ZlRrRXppNy1DcmN6S05tekUtUk1wRm94MktDSWFrWkZGX0dwc1ZiOTBjVDBQbGNFSzU?oc=5",
+      "source": "Yahoo Sports",
+      "date": "Thu, 26 Nov 2026 03:47",
+      "published_at": "2026-11-26T03:47:16+00:00",
+      "category": "Sports"
     },
     {
       "title": "World has six consecutive days 2C above preindustrial levels for first time - The Guardian",
@@ -2248,14 +2264,6 @@
       "category": "America"
     },
     {
-      "title": "Business in a slowing economy, but a faster pace of change - William Buck Australia",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNMnh0elJHSFRvQUpZZWFYb21oY1ZwUm9VSEtIZ09vaGFFd1NzY1h5bEdILWpJeE9qU2QxZWJud3hvN0xfbC1lTTRMTk5WajRHVmdoeG1qQm4yNkRaRk93LVRTX2FxZHpLUEFYcWJ3Ny1vaWxJc3B1OUVCTjMzSHd5RVZFa1VpYzRPMnBGNDdVbmJzMFYxZktMdS1zR0d6YUw0NjRPT3dnbw?oc=5",
-      "source": "William Buck Australia",
-      "date": "Thu, 26 Nov 2026 00:03",
-      "published_at": "2026-11-26T00:03:19+00:00",
-      "category": "Business"
-    },
-    {
       "title": "Super League reveals new 15-team format, seven-team play-offs, international games and Magic Weekend, Rivals Round dates - Sky Sports",
       "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNMkRiN0dyUVZlejZablBheFlCaGxsR2JQMFp3R1l5RzYwTE4yX0NJQS1wUGtxSTVmcE5WUDNsS0lQRlhKQy02MEw1eHlEeWZfeDVMeW5BcU9jalJWZDY0X3IwVTdNaHJxM2J6X0dNMUJMRDFlTWRLbVloZkNLZlFXcld1VUxtTXFZTzVIZTBnVloxaFBHRmZnVFIyaVQyVkRlQVdQNVI0U0VheFdzQ2lrc28xNnM3ZkZOTXdrb1ljVTBTNFhsbW9VSEd0Mkx3SVg3UUtfZGtDWUJPaVhmSl9SV3FhanIyRnNadmd5U1o2YXctVUp0bUliUVh0SmNFSDQ?oc=5",
       "source": "Sky Sports",
@@ -2270,6 +2278,14 @@
       "date": "Wed, 25 Nov 2026 23:12",
       "published_at": "2026-11-25T23:12:54+00:00",
       "category": "Sports"
+    },
+    {
+      "title": "Duran Duran guitarist Andy Taylor dead at 65 after 'courageous' cancer battle - The Mirror US",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQNzdvRFdhNG9HRktDcmNjVmdvV21DMEtENEhKZUh2WXJpbWViYWhETzhnUkFDUjNsNmVwcTVTaEJqVi1WdWtRbUoxclpHbWVVemdzUm1jcXRSZ1QwTl85cFVGZlRQNHJyWHFScVJCaVR0anNpYWpzODdVR0tIM0JFTFI4dE8xejJvRFBrcWFCQXIzWC1sT085S2R2TdIBmwFBVV95cUxQNzdvRFdhNG9HRktDcmNjVmdvV21DMEtENEhKZUh2WXJpbWViYWhETzhnUkFDUjNsNmVwcTVTaEJqVi1WdWtRbUoxclpHbWVVemdzUm1jcXRSZ1QwTl85cFVGZlRQNHJyWHFScVJCaVR0anNpYWpzODdVR0tIM0JFTFI4dE8xejJvRFBrcWFCQXIzWC1sT085S2R2TQ?oc=5",
+      "source": "The Mirror US",
+      "date": "Wed, 25 Nov 2026 21:44",
+      "published_at": "2026-11-25T21:44:00+00:00",
+      "category": "Entertainment"
     },
     {
       "title": "Good Playlist: Global inequality ▶️ - Good Authority",
@@ -2288,14 +2304,6 @@
       "category": "Entertainment"
     },
     {
-      "title": "The new geopolitics of religious soft power - Atlantic Council",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNd2dCY2h1WExDUHZlcEVCVG5QRDdvSmZBUkpwRXNzUEhTU0F0b0RZZDZsTU83ZUlLVzJkNXEzX0RFcnBKQ1poM3ZBQi1KUlliNUJwN1pPZnh2WFhTQ21IUVEtU1pLSE9zWWx1N0QyWXlxbExpckI5T1E0RlBqRzlrSm53ODFOSnJEdEE?oc=5",
-      "source": "Atlantic Council",
-      "date": "Wed, 25 Nov 2026 18:58",
-      "published_at": "2026-11-25T18:58:43+00:00",
-      "category": "Politics"
-    },
-    {
       "title": "Nigeria’s Tinubu pledges to bring peace to rebellion-hit border region - Al Jazeera",
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNbzJOZExJTjEzeUpfb1d5V2x0YmpDbk5Ea0x0aGN1aGVQaF9mR1NoWTZrNWNLM0ZEVUdyeENmelpkRl9SV0Q5bXZrSVNubFdXQm5xVkQ4ejcybXN6a2pyRVBkZTdzcklzeEQyMkk5bmdIc0dIQTJKbXg3LXBLOUdYdF9uSVBEel9OUmRUTy1wUzc2ZU9DSGxVbWduUjhuY3hEZ2NTWGlTelV0NEJ0OHlwTU9udG1TUdIBuwFBVV95cUxORWFkVTB3ZzYwTV9WWF80ZUhnUEJkMFd5djlUclhkQUV2eEpmRENXWG9fQXVhOHhLTl9WMGU5azZuUFd5NWhkcm52OW1fd05HMmgtdkhJNS1IVzZaSFFUcXNrLUFabXROeDUyaVM5YlU5a2JEM0xkMkR5VlZTMlVIYmx2TG5Ock41U201VWdhT0ZYMnlJRjdCQUZUbXpNZ2JrbVIyY1hBbVFRWGprUVAta0ZNR0VqaVpjTTRR?oc=5",
       "source": "Al Jazeera",
@@ -2304,28 +2312,20 @@
       "category": "Nigeria"
     },
     {
+      "title": "Reshaping Russia: Power, Economics and Statecraft - The International Institute for Strategic Studies",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQMmlvQk5lZHNCNzZqdDRsVXJ4X0d4VnktTmNMT3l6cXB4Qm5LUkMyeWo0UFNFTHFoUHd4RnRLUHE4ajVlYWlLS1hLUXNOVGhneFQ2c1RTamxJNjVjQ2M0dGZGUTV4V2tTSllwN1I0RjZVNFpLaFpJS19fMkI0UjNtWWN3QWJRSE9lcUphWVZVbzlWN2RmUGJvVmdNTQ?oc=5",
+      "source": "The International Institute for Strategic Studies",
+      "date": "Wed, 25 Nov 2026 16:54",
+      "published_at": "2026-11-25T16:54:13+00:00",
+      "category": "Politics"
+    },
+    {
       "title": "Five Mexicans arrested in Nigeria over $227m meth lab - BBC",
       "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9XV2RqYTFzV3dHYTRMcW10LUFybHFucVJQSEh0TEE0YXRkU0dDX2doS3VrbVdTa1lTLTAzWFM4bnlXcnF1V0E0aFN3TXpMd3BwVkFCV1Rmb3lwSjdpS0E?oc=5",
       "source": "BBC",
       "date": "Wed, 25 Nov 2026 15:11",
       "published_at": "2026-11-25T15:11:15+00:00",
       "category": "Nigeria"
-    },
-    {
-      "title": "New guidebook to improve working conditions and prevent child labour in Nigeria's gold mining sector - International Labour Organization",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPY21PUVI4MzFpejdSY2VRU25NQUp2NEtKeVhWMG9GSE1KUk04Mm9fcGNNUHZVVFpCc0pSVkZKeXRlUER5UGd1Z3d2Mi14WUJObEZCRnFZUG5NNlA5M3g3WVVicmJPemphYzIxekx0aVlEdDkwNGxHOGtuTGVQZmZGYVNBd3ZmZ0l5bW8zNUtYa1BrX0ZmTWJCSGV4UVJ5ZVZPMU1QcjQwSWZSaHd4VGxUcQ?oc=5",
-      "source": "International Labour Organization",
-      "date": "Wed, 25 Nov 2026 14:08",
-      "published_at": "2026-11-25T14:08:07+00:00",
-      "category": "Nigeria"
-    },
-    {
-      "title": "Jensen Huang saga hides America's big chip blunder - IAI TV",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNSlJUT282ZHdWb3lpUi02blNPdEllNGpwRWc5R09jbGdGUXFySlliLVYxakZaQVljbmtCWWstSmxWV0g0aV9MTlBUc0pDRk5sVmpuTWFHbnhBd2pPb0VobmlqaGJRSEdHeVduSW8xTmNZTExzUFBKYkNFX29kX2k1UFpSTHhhZXlxaHlv?oc=5",
-      "source": "IAI TV",
-      "date": "Wed, 25 Nov 2026 13:36",
-      "published_at": "2026-11-25T13:36:26+00:00",
-      "category": "America"
     },
     {
       "title": "Ice hockey federation appeals against Russia ban ruling - BBC",
@@ -2360,6 +2360,14 @@
       "category": "Entertainment"
     },
     {
+      "title": "Iran war starts to hit global economy, business surveys show - DD News",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQaE9DUWFpZGFtZU9ibW1rZTJ4cmhOaS15Sl9YbjNzczNoa1IwLXVVTkxaQWlnRy1NcE5FYWI3R2NGR2FxeHFxc0FxX0JlendiMEdXR3RDOWpaV3JlRl80TUtJdi1jalpOT0RjX0dqU0t5QkdrX1dLX2dUOFN0al9TNUxVa3ltdEtpTE1KRWtR?oc=5",
+      "source": "DD News",
+      "date": "Wed, 25 Nov 2026 06:26",
+      "published_at": "2026-11-25T06:26:52+00:00",
+      "category": "Business"
+    },
+    {
       "title": "Man falls to death from Hollywood building home to stars - including Katy Perry - The Mirror US",
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPckZ3a3I3VEJpemZndTd5ZU93cHhCcktYYWxPeTVOY2xZbFRBZFZ4bU03MlpvNlM2R09ycmxIQWZGSXFuMks1czdTTGdJeG5EdkZYLXVCd2lDbkl2ZnZ4VmJfVDU5bHQ0MEhMcHVzU3Fqd0FfZlFvNjJWbnU4Q0NQQUY3TmtkZHFyVl9TbEZyU1VHc2paNWgtYlZRWnpUM3I20gGgAUFVX3lxTE9yRndrcjdUQml6Zmd1N3llT3dweEJyS1hhbE95NU5jbFlsVEFkVnhtTTcyWm82UzZHT3JybEhBZkZJcW4ySzVzN1NMZ0l4bkR2RlgtdUJ3aUNuSXZmdnhWYl9UNTlsdDQwSExwdXNTcWp3QV9mUW82MlZudThDQ1BBRjdOa2RkcXJWX1NsRnJTVUdzalo1aC1iVlFaelQzcjY?oc=5",
       "source": "The Mirror US",
@@ -2382,14 +2390,4664 @@
       "date": "Tue, 24 Nov 2026 22:17",
       "published_at": "2026-11-24T22:17:24+00:00",
       "category": "Entertainment"
+    }
+  ],
+  "jobs": [
+    {
+      "title": "Senior Frontend Engineer",
+      "company": "SumUp",
+      "location": "Cologne, North Rhine-Westphalia, Germany",
+      "remote": false,
+      "url": "https://www.arbeitnow.com/jobs/companies/sumup/senior-frontend-engineer-cologne-435182",
+      "tags": [],
+      "job_types": [],
+      "created_at": 1795704324,
+      "source": "Arbeitnow"
     },
     {
-      "title": "Emir of Daura: Nigerian monarch suspended over sexual assault claims - BBC",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9DZFhLaXZzRUgyOHZ5dTI3cW1iT0t3Vnd4VUI0RHJ3SlhlaTQxakNFTGJrZDlaOHlrRUp3c3doUVlYVnhrSjBFcmVFd0lIZU45WGhsUXhDUmhNbnIxQ3c?oc=5",
-      "source": "BBC",
-      "date": "Tue, 24 Nov 2026 19:10",
-      "published_at": "2026-11-24T19:10:31+00:00",
-      "category": "Nigeria"
+      "title": "Backend Engineer - Cards",
+      "company": "SumUp",
+      "location": "Berlin, Germany",
+      "remote": false,
+      "url": "https://www.arbeitnow.com/jobs/companies/sumup/backend-engineer-cards-berlin-168655",
+      "tags": [],
+      "job_types": [],
+      "created_at": 1795704324,
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "Leitung Lieferservice für Bio-Lebensmittel (m/w/d)",
+      "company": "Kugler & Rosenberger GmbH & Co. KG",
+      "location": "Geislingen",
+      "remote": false,
+      "url": "https://www.arbeitnow.com/jobs/companies/kugler-rosenberger-gmbh-co-kg/leitung-lieferservice-fur-bio-lebensmittel-geislingen-43187",
+      "tags": [
+        "Management",
+        "Team Leader"
+      ],
+      "job_types": [
+        "Unbefristeter arbeitsvertrag",
+        "teamleitung"
+      ],
+      "created_at": 1795703483,
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "Filialleitung für Biomarkt (m/w/d)",
+      "company": "Kugler & Rosenberger GmbH & Co. KG",
+      "location": "Balingen",
+      "remote": false,
+      "url": "https://www.arbeitnow.com/jobs/companies/kugler-rosenberger-gmbh-co-kg/filialleitung-fur-biomarkt-balingen-485440",
+      "tags": [
+        "Management",
+        "Team Leader"
+      ],
+      "job_types": [
+        "Unbefristeter arbeitsvertrag",
+        "teamleitung"
+      ],
+      "created_at": 1795703483,
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "Senior SAP Fiori Lead Developer / Technical Lead – Freelance (m/f/d)",
+      "company": "Sidekick Network GmbH & Co. KG",
+      "location": "Berlin",
+      "remote": true,
+      "url": "https://www.arbeitnow.com/jobs/companies/sidekick-network-gmbh-co-kg/senior-sap-fiori-lead-developer-technical-lead-freelance-berlin-286936",
+      "tags": [
+        "Remote",
+        "SAP/ERP Consulting",
+        "Development"
+      ],
+      "job_types": [
+        "Freelancer / independent contractor",
+        "freelance",
+        "professional / experienced"
+      ],
+      "created_at": 1795703482,
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "Consultant (m/w/d) im Bereich Vertriebsaufbau – Go-to-Market-Strategie",
+      "company": "OSCAR GmbH",
+      "location": "Cologne",
+      "remote": false,
+      "url": "https://www.arbeitnow.com/jobs/companies/oscar-gmbh/consultant-im-bereich-vertriebsaufbau-go-to-market-strategie-cologne-136362",
+      "tags": [
+        "Business Consulting"
+      ],
+      "job_types": [
+        "Contract",
+        "berufserfahren"
+      ],
+      "created_at": 1795703481,
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "Senior Platform Engineer (w/m/d) (remote within the EU)",
+      "company": "Weflow",
+      "location": "Berlin",
+      "remote": true,
+      "url": "https://www.arbeitnow.com/jobs/companies/weflow/senior-platform-engineer-remote-within-the-eu-berlin-387492",
+      "tags": [
+        "Remote",
+        "System and Network Administration"
+      ],
+      "job_types": [
+        "Permanent employment",
+        "professional / experienced"
+      ],
+      "created_at": 1795703481,
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "Marketing Manager Google Ads – AI-First Performance Marketing (m/w/d) · Remote",
+      "company": "Evolve Digital GmbH",
+      "location": "Remote",
+      "remote": false,
+      "url": "https://www.arbeitnow.com/jobs/companies/evolve-digital-gmbh/marketing-manager-google-ads-ai-first-performance-marketing-remote-223074",
+      "tags": [
+        "Marketing and pr",
+        "vocational"
+      ],
+      "job_types": [
+        "Full-time permanent",
+        "mid"
+      ],
+      "created_at": 1795702813,
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "(Senior) Google Ads Manager – AI-First Performance Marketing (m/w/d) · Remote",
+      "company": "Evolve Digital GmbH",
+      "location": "Remote",
+      "remote": false,
+      "url": "https://www.arbeitnow.com/jobs/companies/evolve-digital-gmbh/senior-google-ads-manager-ai-first-performance-marketing-remote-243211",
+      "tags": [
+        "Marketing and pr",
+        "vocational"
+      ],
+      "job_types": [
+        "Full-time permanent",
+        "mid"
+      ],
+      "created_at": 1795702813,
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "Account Director:in (m/w/d)",
+      "company": "aha! Agentur für Handelsmarketing",
+      "location": "Cologne",
+      "remote": false,
+      "url": "https://www.arbeitnow.com/jobs/companies/aha-agentur-fur-handelsmarketing/account-directorin-cologne-260034",
+      "tags": [
+        "Marketing and Communication"
+      ],
+      "job_types": [
+        "Unbefristeter arbeitsvertrag",
+        "teamleitung"
+      ],
+      "created_at": 1795701668,
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "Senior Account Manager:in (m/w/d)",
+      "company": "aha! Agentur für Handelsmarketing",
+      "location": "Cologne",
+      "remote": false,
+      "url": "https://www.arbeitnow.com/jobs/companies/aha-agentur-fur-handelsmarketing/senior-account-managerin-cologne-164096",
+      "tags": [
+        "Marketing and Communication"
+      ],
+      "job_types": [
+        "Unbefristeter arbeitsvertrag",
+        "berufserfahren"
+      ],
+      "created_at": 1795701668,
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "Junior Art Director:in (m/w/d)",
+      "company": "aha! Agentur für Handelsmarketing",
+      "location": "Cologne",
+      "remote": false,
+      "url": "https://www.arbeitnow.com/jobs/companies/aha-agentur-fur-handelsmarketing/junior-art-directorin-cologne-324220",
+      "tags": [
+        "Graphic Arts and Communication Design"
+      ],
+      "job_types": [
+        "Unbefristeter arbeitsvertrag",
+        "berufseinstieg"
+      ],
+      "created_at": 1795701668,
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "(Junior) Account Manager:in (m/w/d)",
+      "company": "aha! Agentur für Handelsmarketing",
+      "location": "Cologne",
+      "remote": false,
+      "url": "https://www.arbeitnow.com/jobs/companies/aha-agentur-fur-handelsmarketing/junior-account-managerin-cologne-65010",
+      "tags": [
+        "Marketing and Communication"
+      ],
+      "job_types": [
+        "Unbefristeter arbeitsvertrag",
+        "berufseinstieg"
+      ],
+      "created_at": 1795701668,
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "Amazon Growth Lead (m/w/d)",
+      "company": "Start To Finish Consulting GmbH",
+      "location": "Hamburg",
+      "remote": true,
+      "url": "https://www.arbeitnow.com/jobs/companies/start-to-finish-consulting-gmbh/amazon-growth-lead-hamburg-380362",
+      "tags": [
+        "Remote",
+        "Online Marketing"
+      ],
+      "job_types": [
+        "Unbefristeter arbeitsvertrag",
+        "berufserfahren"
+      ],
+      "created_at": 1795701667,
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "E-Commerce-Talent (m/w/d)",
+      "company": "Momentum Games GmbH",
+      "location": "Nuremberg",
+      "remote": true,
+      "url": "https://www.arbeitnow.com/jobs/companies/momentum-games-gmbh/e-commerce-talent-nuremberg-352150",
+      "tags": [
+        "Remote",
+        "Online Marketing"
+      ],
+      "job_types": [
+        "Freiberufler / selbstständiger",
+        "freelance",
+        "hilfstätigkeit / student"
+      ],
+      "created_at": 1795701667,
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "(Junior) Influencer Manager (m/w/d) DACH – TEVEO Men",
+      "company": "TEVEO GmbH",
+      "location": "Ansbach",
+      "remote": false,
+      "url": "https://www.arbeitnow.com/jobs/companies/teveo-gmbh/junior-influencer-manager-dach-teveo-men-ansbach-135302",
+      "tags": [
+        "Social Media Manager"
+      ],
+      "job_types": [
+        "Befristeter arbeitsvertrag",
+        "contract",
+        "berufseinstieg"
+      ],
+      "created_at": 1795701666,
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "Projektleiter SF-Bau (m/w/d)",
+      "company": "Riverstate Premium Recruiting",
+      "location": "Stuttgart",
+      "remote": false,
+      "url": "https://www.arbeitnow.com/jobs/companies/riverstate-premium-recruiting/projektleiter-sf-bau-stuttgart-60476",
+      "tags": [
+        "Project Management"
+      ],
+      "job_types": [
+        "Unbefristeter arbeitsvertrag",
+        "teamleitung"
+      ],
+      "created_at": 1795701666,
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "M365 Engineer (m/w/d), 100 % remote",
+      "company": "Kigen IT-Systemhaus",
+      "location": "Berlin",
+      "remote": true,
+      "url": "https://www.arbeitnow.com/jobs/companies/kigen-it-systemhaus/m365-engineer-100-remote-berlin-364735",
+      "tags": [
+        "Remote",
+        "System and Network Administration"
+      ],
+      "job_types": [
+        "Unbefristeter arbeitsvertrag",
+        "berufserfahren"
+      ],
+      "created_at": 1795699871,
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "Digitalisierungs-Lotse/-Lotsin (m/w/d)",
+      "company": "Project Bay Workation Hotel UG (haftungsbeschränkt)",
+      "location": "Lietzow",
+      "remote": false,
+      "url": "https://www.arbeitnow.com/jobs/companies/project-bay-workation-hotel-ug-haftungsbeschrankt/digitalisierungs-lotse-lotsin-lietzow-398153",
+      "tags": [
+        "Process Management"
+      ],
+      "job_types": [
+        "Befristeter arbeitsvertrag",
+        "berufserfahren"
+      ],
+      "created_at": 1795699871,
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "Senior SAP Fiori / SAPUI5 Developer – Plant Maintenance (Freelance)",
+      "company": "Sidekick Network GmbH & Co. KG",
+      "location": "Berlin",
+      "remote": true,
+      "url": "https://www.arbeitnow.com/jobs/companies/sidekick-network-gmbh-co-kg/senior-sap-fiori-sapui5-developer-plant-maintenance-freelance-berlin-298397",
+      "tags": [
+        "Remote",
+        "SAP/ERP Consulting",
+        "Development"
+      ],
+      "job_types": [
+        "Freelancer / independent contractor",
+        "freelance",
+        "professional / experienced"
+      ],
+      "created_at": 1795699871,
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "Werkstudent*in im Kundensupport (20 Wochenstunden)",
+      "company": "otinga GmbH",
+      "location": "Cologne",
+      "remote": false,
+      "url": "https://www.arbeitnow.com/jobs/companies/otinga-gmbh/werkstudentin-im-kundensupport-20-wochenstunden-cologne-401420",
+      "tags": [
+        "Customer Service"
+      ],
+      "job_types": [
+        "Werkstudent",
+        "working student",
+        "hilfstätigkeit / student"
+      ],
+      "created_at": 1795698060,
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "Marketing- & Kommunikations-Manager:in (d/w/m)",
+      "company": "Project Bay Workation Hotel UG (haftungsbeschränkt)",
+      "location": "Berlin",
+      "remote": true,
+      "url": "https://www.arbeitnow.com/jobs/companies/project-bay-workation-hotel-ug-haftungsbeschrankt/marketing-kommunikations-managerin-berlin-299995",
+      "tags": [
+        "Remote",
+        "Online Marketing"
+      ],
+      "job_types": [
+        "Befristeter arbeitsvertrag",
+        "teamleitung"
+      ],
+      "created_at": 1795698060,
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "Kundenberater (m/w/d) Geldtransfer & Währungsservice in TZ",
+      "company": "Western Union Retail Services Germany GmbH",
+      "location": "Bonn",
+      "remote": false,
+      "url": "https://www.arbeitnow.com/jobs/companies/western-union-retail-services-germany-gmbh/kundenberater-geldtransfer-wahrungsservice-in-tz-bonn-403268",
+      "tags": [
+        "Private Banking"
+      ],
+      "job_types": [
+        "Unbefristeter arbeitsvertrag",
+        "berufseinstieg"
+      ],
+      "created_at": 1795698059,
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "Kundenberater (m/w/d) Geldtransfer- und Währungsservice VZ",
+      "company": "Western Union Retail Services Germany GmbH",
+      "location": "Offenbach",
+      "remote": false,
+      "url": "https://www.arbeitnow.com/jobs/companies/western-union-retail-services-germany-gmbh/kundenberater-geldtransfer-und-wahrungsservice-vz-offenbach-430785",
+      "tags": [
+        "Private Banking"
+      ],
+      "job_types": [
+        "Unbefristeter arbeitsvertrag",
+        "berufseinstieg"
+      ],
+      "created_at": 1795698059,
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "Leitung Unternehmensentwicklung (Jurist) und Praxisintegration (m/w/d)",
+      "company": "MVZ Dres. Daniel & Stephan Krause (eGbR)",
+      "location": "Dortmund",
+      "remote": false,
+      "url": "https://www.arbeitnow.com/jobs/companies/mvz-dres-daniel-stephan-krause-egbr/leitung-unternehmensentwicklung-jurist-und-praxisintegration-dortmund-310377",
+      "tags": [
+        "Business Development"
+      ],
+      "job_types": [
+        "Unbefristeter arbeitsvertrag",
+        "teamleitung"
+      ],
+      "created_at": 1795698059,
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "Leitung Personal- und Organisationsentwicklung (m/w/d)",
+      "company": "MVZ Dres. Daniel & Stephan Krause (eGbR)",
+      "location": "Dortmund",
+      "remote": false,
+      "url": "https://www.arbeitnow.com/jobs/companies/mvz-dres-daniel-stephan-krause-egbr/leitung-personal-und-organisationsentwicklung-dortmund-465471",
+      "tags": [
+        "Personnel Specialist"
+      ],
+      "job_types": [
+        "Unbefristeter arbeitsvertrag",
+        "teamleitung"
+      ],
+      "created_at": 1795698059,
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "Controller (m/w/d)",
+      "company": "MVZ Dres. Daniel & Stephan Krause (eGbR)",
+      "location": "Dortmund",
+      "remote": false,
+      "url": "https://www.arbeitnow.com/jobs/companies/mvz-dres-daniel-stephan-krause-egbr/controller-dortmund-341679",
+      "tags": [
+        "Controlling"
+      ],
+      "job_types": [
+        "Unbefristeter arbeitsvertrag",
+        "berufserfahren"
+      ],
+      "created_at": 1795698058,
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "Recruiter / Talent Acquisition Specialist (m/w/d) in 20-30 Std. / Woche",
+      "company": "CUSTOM CAREERS FACTORY GmbH",
+      "location": "Ulm",
+      "remote": false,
+      "url": "https://www.arbeitnow.com/jobs/companies/custom-careers-factory-gmbh/recruiter-talent-acquisition-specialist-in-20-30-std-woche-ulm-261683",
+      "tags": [
+        "Recruitment and Selection"
+      ],
+      "job_types": [
+        "Unbefristeter arbeitsvertrag",
+        "berufserfahren"
+      ],
+      "created_at": 1795698058,
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "Marketing-Managerin (w/m/d) Retail & Franchise",
+      "company": "Perfect Jobs",
+      "location": "Düsseldorf",
+      "remote": false,
+      "url": "https://www.arbeitnow.com/jobs/companies/perfect-jobs/marketing-managerin-retail-franchise-dusseldorf-446621",
+      "tags": [
+        "Marketing Manager"
+      ],
+      "job_types": [
+        "Unbefristeter arbeitsvertrag",
+        "teamleitung"
+      ],
+      "created_at": 1795698058,
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "Senior Fullstack Engineer",
+      "company": "Staffbase",
+      "location": "Berlin; Chemnitz, Sachsen; Dresden, Sachsen",
+      "remote": false,
+      "url": "https://www.arbeitnow.com/jobs/companies/staffbase/senior-fullstack-engineer-berlin-chemnitz-sachsen-dresden-sachsen-492815",
+      "tags": [
+        "Engineering"
+      ],
+      "job_types": [],
+      "created_at": 1795697719,
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "Forward Deployed Engineer",
+      "company": "Staffbase",
+      "location": "Berlin; Chemnitz, Sachsen; Dresden, Sachsen",
+      "remote": false,
+      "url": "https://www.arbeitnow.com/jobs/companies/staffbase/forward-deployed-engineer-berlin-chemnitz-sachsen-dresden-sachsen-203755",
+      "tags": [
+        "Engineering"
+      ],
+      "job_types": [],
+      "created_at": 1795697719,
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "Growth R&D Lead  (FitMe)",
+      "company": "Gismart",
+      "location": "Remote",
+      "remote": true,
+      "url": "https://www.arbeitnow.com/jobs/companies/gismart/remote-growth-rd-lead-fitme-137268",
+      "tags": [
+        "FitMe"
+      ],
+      "job_types": [
+        "Full Time"
+      ],
+      "created_at": 1795696814,
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "Analytics Engineer - Data Platform (m/f/d)",
+      "company": "Statista",
+      "location": "Hamburg or Berlin",
+      "remote": false,
+      "url": "https://www.arbeitnow.com/jobs/companies/statista/analytics-engineer-data-platform-hamburg-or-berlin-437592",
+      "tags": [
+        "Tech"
+      ],
+      "job_types": [
+        "Full Time"
+      ],
+      "created_at": 1795696813,
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "(Junior) Sales Manager - Licensing DACH",
+      "company": "Statista",
+      "location": "Hamburg",
+      "remote": false,
+      "url": "https://www.arbeitnow.com/jobs/companies/statista/junior-sales-manager-licensing-dach-hamburg-167910",
+      "tags": [
+        "Revenue"
+      ],
+      "job_types": [
+        "Full Time"
+      ],
+      "created_at": 1795696813,
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "Graduate Commercial Associate (f/m/d)",
+      "company": "Moss",
+      "location": "Berlin",
+      "remote": false,
+      "url": "https://www.arbeitnow.com/jobs/companies/moss/graduate-commercial-associate-berlin-178990",
+      "tags": [
+        "Commercial"
+      ],
+      "job_types": [
+        "Full Time"
+      ],
+      "created_at": 1795696813,
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "Chief Information Security Officer (CISO)",
+      "company": "Hawk",
+      "location": "Munich",
+      "remote": false,
+      "url": "https://www.arbeitnow.com/jobs/companies/hawk/chief-information-security-officer-ciso-munich-319880",
+      "tags": [
+        "Engineering & Development"
+      ],
+      "job_types": [
+        "Full Time"
+      ],
+      "created_at": 1795696813,
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "Senior Account Executive - DACH (m/f/d)",
+      "company": "Tandem Health",
+      "location": "Frankfurt",
+      "remote": false,
+      "url": "https://www.arbeitnow.com/jobs/companies/tandem-health/senior-account-executive-dach-frankfurt-294902",
+      "tags": [
+        "Commercial"
+      ],
+      "job_types": [
+        "Full Time"
+      ],
+      "created_at": 1795696813,
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "Senior Account Executive - DACH (m/f/d)",
+      "company": "Tandem Health",
+      "location": "Hamburg",
+      "remote": false,
+      "url": "https://www.arbeitnow.com/jobs/companies/tandem-health/senior-account-executive-dach-hamburg-17379",
+      "tags": [
+        "Commercial"
+      ],
+      "job_types": [
+        "Full Time"
+      ],
+      "created_at": 1795696813,
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "Senior Account Executive - DACH (m/f/d)",
+      "company": "Tandem Health",
+      "location": "Cologne",
+      "remote": false,
+      "url": "https://www.arbeitnow.com/jobs/companies/tandem-health/senior-account-executive-dach-cologne-256847",
+      "tags": [
+        "Commercial"
+      ],
+      "job_types": [
+        "Full Time"
+      ],
+      "created_at": 1795696813,
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "Senior Account Executive - DACH (m/f/d)",
+      "company": "Tandem Health",
+      "location": "Berlin",
+      "remote": false,
+      "url": "https://www.arbeitnow.com/jobs/companies/tandem-health/senior-account-executive-dach-berlin-463777",
+      "tags": [
+        "Commercial"
+      ],
+      "job_types": [
+        "Full Time"
+      ],
+      "created_at": 1795696813,
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "Technischer Systemplaner Elektrotechnik (m/w/d)",
+      "company": "GALVANY",
+      "location": "Berlin",
+      "remote": false,
+      "url": "https://www.arbeitnow.com/jobs/companies/galvany/technischer-systemplaner-elektrotechnik-berlin-411061",
+      "tags": [
+        "Operations"
+      ],
+      "job_types": [
+        "Full Time"
+      ],
+      "created_at": 1795696813,
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "(Senior) Enterprise Sales Manager",
+      "company": "Zauber Technology GmbH",
+      "location": "Berlin",
+      "remote": false,
+      "url": "https://www.arbeitnow.com/jobs/companies/zauber-technology-gmbh/senior-enterprise-sales-manager-berlin-429025",
+      "tags": [
+        "Commercial"
+      ],
+      "job_types": [
+        "Full Time"
+      ],
+      "created_at": 1795696813,
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "Agent Deployment Manager",
+      "company": "Zauber Technology GmbH",
+      "location": "Berlin",
+      "remote": false,
+      "url": "https://www.arbeitnow.com/jobs/companies/zauber-technology-gmbh/agent-deployment-manager-berlin-8730",
+      "tags": [
+        "Deployments"
+      ],
+      "job_types": [
+        "Full Time"
+      ],
+      "created_at": 1795696813,
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "Product Engineer",
+      "company": "Zauber Technology GmbH",
+      "location": "Berlin",
+      "remote": false,
+      "url": "https://www.arbeitnow.com/jobs/companies/zauber-technology-gmbh/product-engineer-berlin-432491",
+      "tags": [
+        "Product & Engineering"
+      ],
+      "job_types": [
+        "Full Time"
+      ],
+      "created_at": 1795696813,
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "Founders Associate (Intern)",
+      "company": "Zauber Technology GmbH",
+      "location": "Berlin",
+      "remote": false,
+      "url": "https://www.arbeitnow.com/jobs/companies/zauber-technology-gmbh/founders-associate-intern-berlin-59575",
+      "tags": [
+        "Operations"
+      ],
+      "job_types": [
+        "Intern"
+      ],
+      "created_at": 1795696813,
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "SPS - Programmierer / Automatisierungstechniker (gn)",
+      "company": "Remmert GmbH",
+      "location": "Löhne",
+      "remote": false,
+      "url": "https://www.arbeitnow.com/jobs/companies/remmert-gmbh/sps-programmierer-automatisierungstechniker-gn-lohne-257241",
+      "tags": [
+        "Automation Engineering"
+      ],
+      "job_types": [
+        "Unbefristeter arbeitsvertrag",
+        "berufserfahren"
+      ],
+      "created_at": 1795696289,
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "Pflichtpraktikum Content Management & SEO (w/m/d) – in Teilzeit, remote oder hybrid",
+      "company": "Plantura GmbH",
+      "location": "Munich",
+      "remote": true,
+      "url": "https://www.arbeitnow.com/jobs/companies/plantura-gmbh/pflichtpraktikum-content-management-seo-in-teilzeit-remote-oder-hybrid-munich-300524",
+      "tags": [
+        "Remote",
+        "Social Media Manager"
+      ],
+      "job_types": [
+        "Praktikum",
+        "internship",
+        "hilfstätigkeit / student"
+      ],
+      "created_at": 1795696288,
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "Kundenberater (m/w/d) Geldtransfer & Währungsservice in TZ",
+      "company": "Western Union Retail Services Germany GmbH",
+      "location": "Offenbach",
+      "remote": false,
+      "url": "https://www.arbeitnow.com/jobs/companies/western-union-retail-services-germany-gmbh/kundenberater-geldtransfer-wahrungsservice-in-tz-offenbach-126821",
+      "tags": [
+        "Private Banking"
+      ],
+      "job_types": [
+        "Unbefristeter arbeitsvertrag",
+        "berufseinstieg"
+      ],
+      "created_at": 1795696288,
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "Finanzberater (m/w/d)",
+      "company": "OVB Vogtland",
+      "location": "Rodewisch",
+      "remote": false,
+      "url": "https://www.arbeitnow.com/jobs/companies/ovb-vogtland/finanzberater-rodewisch-84551",
+      "tags": [
+        "Private Banking"
+      ],
+      "job_types": [
+        "Freiberufler / selbstständiger",
+        "freelance",
+        "berufseinstieg"
+      ],
+      "created_at": 1795696287,
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "Senior Data Scientist - Research EU/UK (m/f/x)",
+      "company": "Makersite GmbH",
+      "location": "Remote job",
+      "remote": true,
+      "url": "https://www.arbeitnow.com/jobs/companies/makersite-gmbh/remote-senior-data-scientist-research-eu-uk-berlin-247671",
+      "tags": [
+        "Technology",
+        "Remote"
+      ],
+      "job_types": [
+        "Experienced",
+        "fulltime permanent"
+      ],
+      "created_at": 1795696271,
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "Senior Manager Strategic Projects – Finance & Operations (m/f/x)",
+      "company": "rebuy",
+      "location": "Berlin, Berlin, Germany",
+      "remote": false,
+      "url": "https://www.arbeitnow.com/jobs/companies/rebuy/senior-manager-strategic-projects-finance-operations-berlin-457291",
+      "tags": [
+        "Finance"
+      ],
+      "job_types": [
+        "Executive",
+        "fulltime permanent"
+      ],
+      "created_at": 1795696270,
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "Sytems & Infrastructure Engineer - Robotics (m/f/d)",
+      "company": "Quantum-Systems GmbH",
+      "location": "Rostock, Mecklenburg-Vorpommern, Germany",
+      "remote": false,
+      "url": "https://www.arbeitnow.com/jobs/companies/quantum-systems-gmbh/sytems-infrastructure-engineer-robotics-rostock-182587",
+      "tags": [
+        "Software"
+      ],
+      "job_types": [
+        "Mid",
+        "fulltime permanent"
+      ],
+      "created_at": 1795696270,
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "Senior Accountant / Financial Accountant (Manufacturing) (m/f/d) - Quantum Frontline Industries",
+      "company": "Quantum-Systems GmbH",
+      "location": "QFI Gilching, Bayern, Germany",
+      "remote": false,
+      "url": "https://www.arbeitnow.com/jobs/companies/quantum-systems-gmbh/senior-accountant-financial-accountant-manufacturing-quantum-frontline-industries-qfi-gilching-129168",
+      "tags": [
+        "People & Finance"
+      ],
+      "job_types": [
+        "Experienced",
+        "fulltime fixed term"
+      ],
+      "created_at": 1795696270,
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "Embedded Software Engineer (m/f/d)",
+      "company": "Quantum-Systems GmbH",
+      "location": "Rostock, Mecklenburg-Vorpommern, Germany",
+      "remote": false,
+      "url": "https://www.arbeitnow.com/jobs/companies/quantum-systems-gmbh/embedded-software-engineer-rostock-313058",
+      "tags": [
+        "Software"
+      ],
+      "job_types": [
+        "Mid",
+        "fulltime permanent"
+      ],
+      "created_at": 1795696270,
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "Working Student HR Business Partner (m/f/d)",
+      "company": "Quantum-Systems GmbH",
+      "location": "Gilching, Bayern, Germany",
+      "remote": false,
+      "url": "https://www.arbeitnow.com/jobs/companies/quantum-systems-gmbh/working-student-hr-business-partner-gilching-461033",
+      "tags": [
+        "Student & Early Professionals"
+      ],
+      "job_types": [
+        "Entry",
+        "internship"
+      ],
+      "created_at": 1795696270,
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "Software Provisioning and E/E Vehicle Integration Engineer (m/f/d)",
+      "company": "Quantum-Systems GmbH",
+      "location": "Gilching, Bayern, Germany",
+      "remote": false,
+      "url": "https://www.arbeitnow.com/jobs/companies/quantum-systems-gmbh/software-provisioning-and-e-e-vehicle-integration-engineer-gilching-298269",
+      "tags": [
+        "Hardware"
+      ],
+      "job_types": [
+        "Mid",
+        "fulltime permanent"
+      ],
+      "created_at": 1795696270,
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "Head of Production Factory (m/f/d)",
+      "company": "Quantum-Systems GmbH",
+      "location": "Ergolding , Bayern, Germany",
+      "remote": false,
+      "url": "https://www.arbeitnow.com/jobs/companies/quantum-systems-gmbh/head-of-production-factory-ergolding-201471",
+      "tags": [
+        "Production & Automation"
+      ],
+      "job_types": [
+        "Mid",
+        "fulltime permanent"
+      ],
+      "created_at": 1795696270,
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "Frontend Engineer, Developer (M/W/D)",
+      "company": "INSIDE M2M GmbH",
+      "location": "Garbsen, Niedersachsen, Deutschland",
+      "remote": false,
+      "url": "https://www.arbeitnow.com/jobs/companies/inside-m2m-gmbh/frontend-engineer-developer-garbsen-452452",
+      "tags": [
+        "Entwicklung"
+      ],
+      "job_types": [
+        "Experienced",
+        "fulltime permanent"
+      ],
+      "created_at": 1795696268,
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "Teamleiter Elektrotechnik (m/w/d) – Einsatz bei einem Industriekunden",
+      "company": "PolyTALENT GmbH",
+      "location": "Reinbek, Schleswig-Holstein, Deutschland",
+      "remote": false,
+      "url": "https://www.arbeitnow.com/jobs/companies/polytalent-gmbh/teamleiter-elektrotechnik-einsatz-bei-einem-industriekunden-reinbek-114135",
+      "tags": [
+        "Service"
+      ],
+      "job_types": [
+        "Manager",
+        "fulltime permanent"
+      ],
+      "created_at": 1795696267,
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "Anwendungsberater CAD-Software für Tiefbau und Vermessung (m/w/d)",
+      "company": "PolyTALENT GmbH",
+      "location": "Halle (Saale), Sachsen-Anhalt, Deutschland",
+      "remote": false,
+      "url": "https://www.arbeitnow.com/jobs/companies/polytalent-gmbh/anwendungsberater-cad-software-fur-tiefbau-und-vermessung-halle-saale-8404",
+      "tags": [
+        "Sales"
+      ],
+      "job_types": [
+        "Entry",
+        "fulltime permanent"
+      ],
+      "created_at": 1795696267,
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "Softwareentwickler C# für CAD-Bausoftware (m/w/d)",
+      "company": "PolyTALENT GmbH",
+      "location": "Halle (Saale), Sachsen-Anhalt, Deutschland",
+      "remote": false,
+      "url": "https://www.arbeitnow.com/jobs/companies/polytalent-gmbh/softwareentwickler-c-fur-cad-bausoftware-halle-saale-150279",
+      "tags": [
+        "Sales"
+      ],
+      "job_types": [
+        "Entry",
+        "fulltime permanent"
+      ],
+      "created_at": 1795696267,
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "Product Manager Payment (m/w/d)",
+      "company": "Epay",
+      "location": "Martinsried, Germany",
+      "remote": false,
+      "url": "https://www.arbeitnow.com/jobs/companies/epay/product-manager-payment-martinsried-79038",
+      "tags": [
+        "Product Management",
+        "Information Technology and Services",
+        "epay Germany (Transact)"
+      ],
+      "job_types": [
+        "Full time",
+        "associate"
+      ],
+      "created_at": 1795695613,
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "Medical Data Analyst (m/w/d)",
+      "company": "DocCheck AG",
+      "location": "Köln",
+      "remote": false,
+      "url": "https://www.arbeitnow.com/jobs/companies/doccheck-ag/medical-data-analyst-koln-247112",
+      "tags": [
+        "Marketing and pr",
+        "high school coursework"
+      ],
+      "job_types": [
+        "Full-time fixed-term",
+        "mid"
+      ],
+      "created_at": 1795695612,
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "Talent Acquisition Partner - Tech (f/m/d)",
+      "company": "eleQtron GmbH",
+      "location": "Hamburg",
+      "remote": false,
+      "url": "https://www.arbeitnow.com/jobs/companies/eleqtron-gmbh/talent-acquisition-partner-tech-hamburg-3060",
+      "tags": [
+        "Recruitment and hr",
+        "professional"
+      ],
+      "job_types": [
+        "Full-time permanent",
+        "experienced"
+      ],
+      "created_at": 1795695612,
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "Senior Embedded Software Engineer",
+      "company": "Aeva, Inc.",
+      "location": "Germany",
+      "remote": false,
+      "url": "https://www.arbeitnow.com/jobs/companies/aeva-inc/senior-embedded-software-engineer-germany-385359",
+      "tags": [
+        "Software"
+      ],
+      "job_types": [
+        "Full-Time"
+      ],
+      "created_at": 1795694861,
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "Senior GEO Manager",
+      "company": "Emma – The Sleep Company",
+      "location": "Frankfurt",
+      "remote": false,
+      "url": "https://www.arbeitnow.com/jobs/companies/emma-the-sleep-company/senior-geo-manager-frankfurt-201501",
+      "tags": [
+        "Marketing EU Ecommerce"
+      ],
+      "job_types": [
+        "Permanent – Full Time"
+      ],
+      "created_at": 1795694861,
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "(Senior) Data Engineer - Data Platform (m/f/d)",
+      "company": "Unzer",
+      "location": "Berlin",
+      "remote": false,
+      "url": "https://www.arbeitnow.com/jobs/companies/unzer/senior-data-engineer-data-platform-berlin-423320",
+      "tags": [
+        "Engineering"
+      ],
+      "job_types": [
+        "Full-time"
+      ],
+      "created_at": 1795694859,
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "Werkstudent*in Netzbetreibermanagement (w/m/d)",
+      "company": "Octopus Energy Group",
+      "location": "Berlin (DE)",
+      "remote": false,
+      "url": "https://www.arbeitnow.com/jobs/companies/octopus-energy-group/werkstudentin-netzbetreibermanagement-berlin-de-405483",
+      "tags": [
+        "Operations"
+      ],
+      "job_types": [
+        "Student"
+      ],
+      "created_at": 1795694858,
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "Channel Director EMEA",
+      "company": "Firemon",
+      "location": "Germany, Remote",
+      "remote": false,
+      "url": "https://www.arbeitnow.com/jobs/companies/firemon/remote-channel-director-emea-431501",
+      "tags": [
+        "Channel Sales"
+      ],
+      "job_types": [
+        "Full-Time"
+      ],
+      "created_at": 1795694857,
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "AI Platform Working Student",
+      "company": "CHAPTERS Group AG",
+      "location": "Cologne",
+      "remote": false,
+      "url": "https://www.arbeitnow.com/jobs/companies/chapters-group-ag/ai-platform-working-student-cologne-343289",
+      "tags": [
+        "System and Network Administration"
+      ],
+      "job_types": [
+        "Working student (werkstudent)",
+        "working student",
+        "no experience required / student"
+      ],
+      "created_at": 1795694462,
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "Plattform Project Manager (m/w/d)",
+      "company": "Symporo",
+      "location": "Ludwigsburg",
+      "remote": false,
+      "url": "https://www.arbeitnow.com/jobs/companies/symporo/plattform-project-manager-ludwigsburg-66310",
+      "tags": [
+        "Project Management"
+      ],
+      "job_types": [
+        "teamleitung"
+      ],
+      "created_at": 1795694462,
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "E-Commerce & Content Specialist (m/w/d)",
+      "company": "Symporo",
+      "location": "Ludwigsburg",
+      "remote": false,
+      "url": "https://www.arbeitnow.com/jobs/companies/symporo/e-commerce-content-specialist-ludwigsburg-136295",
+      "tags": [
+        "Online Marketing"
+      ],
+      "job_types": [
+        "berufserfahren"
+      ],
+      "created_at": 1795694462,
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "GTM Engineer (m/w/d)",
+      "company": "SCAILE TECHNOLOGIES GmbH",
+      "location": "Munich",
+      "remote": false,
+      "url": "https://www.arbeitnow.com/jobs/companies/scaile-technologies-gmbh/gtm-engineer-munich-496300",
+      "tags": [
+        "Data Processing",
+        "Data Engineer"
+      ],
+      "job_types": [
+        "Unbefristeter arbeitsvertrag",
+        "berufserfahren"
+      ],
+      "created_at": 1795694461,
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "Founders Associate Growth Marketing (m/w/d) - Praktikum",
+      "company": "SCAILE TECHNOLOGIES GmbH",
+      "location": "Munich",
+      "remote": false,
+      "url": "https://www.arbeitnow.com/jobs/companies/scaile-technologies-gmbh/founders-associate-growth-marketing-praktikum-munich-491455",
+      "tags": [
+        "Social Media Manager"
+      ],
+      "job_types": [
+        "Praktikum",
+        "internship",
+        "hilfstätigkeit / student"
+      ],
+      "created_at": 1795694461,
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "Marketing Manager (m/w/d)",
+      "company": "SCAILE TECHNOLOGIES GmbH",
+      "location": "Munich",
+      "remote": false,
+      "url": "https://www.arbeitnow.com/jobs/companies/scaile-technologies-gmbh/marketing-manager-munich-491127",
+      "tags": [
+        "Marketing Manager"
+      ],
+      "job_types": [
+        "Unbefristeter arbeitsvertrag",
+        "teamleitung"
+      ],
+      "created_at": 1795694461,
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "Pflichtpraktikum Influencer Marketing (w/m/d)",
+      "company": "rsa Media GmbH",
+      "location": "Berlin",
+      "remote": false,
+      "url": "https://www.arbeitnow.com/jobs/companies/rsa-media-gmbh/pflichtpraktikum-influencer-marketing-berlin-90958",
+      "tags": [
+        "Social Media Manager"
+      ],
+      "job_types": [
+        "Praktikum",
+        "internship"
+      ],
+      "created_at": 1795692671,
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "Trainee (m/w/d) Influencer Marketing",
+      "company": "rsa Media GmbH",
+      "location": "Berlin",
+      "remote": false,
+      "url": "https://www.arbeitnow.com/jobs/companies/rsa-media-gmbh/trainee-influencer-marketing-berlin-375586",
+      "tags": [
+        "Social Media Manager"
+      ],
+      "job_types": [
+        "Trainee-programm",
+        "traineeship",
+        "berufseinstieg"
+      ],
+      "created_at": 1795692671,
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "Mitarbeiter Kundenservice (m/w/d)",
+      "company": "WTE Charkos GmbH",
+      "location": "Hamburg",
+      "remote": false,
+      "url": "https://www.arbeitnow.com/jobs/companies/wte-charkos-gmbh/mitarbeiter-kundenservice-hamburg-354592",
+      "tags": [
+        "Customer Service"
+      ],
+      "job_types": [
+        "Befristeter arbeitsvertrag",
+        "berufseinstieg"
+      ],
+      "created_at": 1795692670,
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "Founders Associate Werkstudent (m/w/d) | 17 €/Std.",
+      "company": "AXRO GmbH",
+      "location": "Hamburg",
+      "remote": false,
+      "url": "https://www.arbeitnow.com/jobs/companies/axro-gmbh/founders-associate-werkstudent-17-eur-std-hamburg-268590",
+      "tags": [
+        "Business Operations"
+      ],
+      "job_types": [
+        "Side",
+        "berufserfahren"
+      ],
+      "created_at": 1795692670,
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "Fachplaner HLS (m/w/d)",
+      "company": "Jager und Partner Ingenieurgesellschaft mbH",
+      "location": "Osnabrück",
+      "remote": false,
+      "url": "https://www.arbeitnow.com/jobs/companies/jager-und-partner-ingenieurgesellschaft-mbh/fachplaner-hls-osnabruck-222158",
+      "tags": [
+        "Building",
+        "Supply",
+        "Safety Services Engineering"
+      ],
+      "job_types": [
+        "Unbefristeter arbeitsvertrag",
+        "berufserfahren"
+      ],
+      "created_at": 1795692670,
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "IT Support 1st & 2nd Level (m/w/d)",
+      "company": "hubside - Die Recruitingwerkstatt",
+      "location": "Munich",
+      "remote": false,
+      "url": "https://www.arbeitnow.com/jobs/companies/hubside-die-recruitingwerkstatt/it-support-1st-2nd-level-munich-491174",
+      "tags": [
+        "Helpdesk"
+      ],
+      "job_types": [
+        "Arbeitnehmerüberlassung / zeitarbeit",
+        "interim",
+        "berufseinstieg"
+      ],
+      "created_at": 1795692669,
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "Junior Recruiting Manager / Personalberater (m/w/d)",
+      "company": "Dragon & Gries GmbH & Co. KG",
+      "location": "Aachen",
+      "remote": false,
+      "url": "https://www.arbeitnow.com/jobs/companies/dragon-gries-gmbh-co-kg/junior-recruiting-manager-personalberater-aachen-461286",
+      "tags": [
+        "Recruitment and Selection"
+      ],
+      "job_types": [
+        "Unbefristeter arbeitsvertrag",
+        "berufseinstieg"
+      ],
+      "created_at": 1795692669,
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "(Senior) Recruiting Manager / Personalberater (m/w/d)",
+      "company": "Dragon & Gries GmbH & Co. KG",
+      "location": "Aachen",
+      "remote": false,
+      "url": "https://www.arbeitnow.com/jobs/companies/dragon-gries-gmbh-co-kg/senior-recruiting-manager-personalberater-aachen-412078",
+      "tags": [
+        "Recruitment and Selection"
+      ],
+      "job_types": [
+        "Unbefristeter arbeitsvertrag",
+        "teamleitung"
+      ],
+      "created_at": 1795692669,
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "Berufseinsteiger:in Recruiting & Personalberatung",
+      "company": "Dragon & Gries GmbH & Co. KG",
+      "location": "Aachen",
+      "remote": false,
+      "url": "https://www.arbeitnow.com/jobs/companies/dragon-gries-gmbh-co-kg/berufseinsteigerin-recruiting-personalberatung-aachen-288791",
+      "tags": [
+        "Recruitment and Selection"
+      ],
+      "job_types": [
+        "Unbefristeter arbeitsvertrag",
+        "berufseinstieg"
+      ],
+      "created_at": 1795692669,
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "AI Online Growth Marketing Manager (m/w/d) für Tax SaaS Startup",
+      "company": "Boring.legal GmbH",
+      "location": "Berlin",
+      "remote": false,
+      "url": "https://www.arbeitnow.com/jobs/companies/boringlegal-gmbh/ai-online-growth-marketing-manager-fur-tax-saas-startup-berlin-241773",
+      "tags": [
+        "Online Marketing"
+      ],
+      "job_types": [
+        "Unbefristeter arbeitsvertrag",
+        "teamleitung"
+      ],
+      "created_at": 1795692669,
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "Spezialist für Microsoft Copilot & Künstliche Intelligenz (m/w/d)",
+      "company": "G&H IT Service GmbH I G&H Gruppe",
+      "location": "Viernheim",
+      "remote": false,
+      "url": "https://www.arbeitnow.com/jobs/companies/gh-it-service-gmbh-i-gh-gruppe/spezialist-fur-microsoft-copilot-kunstliche-intelligenz-viernheim-246653",
+      "tags": [
+        "Consulting",
+        "Engineering"
+      ],
+      "job_types": [
+        "Unbefristeter arbeitsvertrag",
+        "berufserfahren"
+      ],
+      "created_at": 1795690863,
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "Senior Creative Strategist (Meta & TikTok Ads) - all genders",
+      "company": "ADBAKER",
+      "location": "Cologne",
+      "remote": false,
+      "url": "https://www.arbeitnow.com/jobs/companies/adbaker/senior-creative-strategist-meta-tiktok-ads-all-genders-cologne-102902",
+      "tags": [
+        "Online Marketing"
+      ],
+      "job_types": [
+        "Unbefristeter arbeitsvertrag",
+        "berufserfahren"
+      ],
+      "created_at": 1795690862,
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "Product Marketing",
+      "company": "Bling",
+      "location": "Berlin",
+      "remote": false,
+      "url": "https://www.arbeitnow.com/jobs/companies/bling/product-marketing-berlin-97637",
+      "tags": [
+        "Product Management"
+      ],
+      "job_types": [
+        "Unbefristeter arbeitsvertrag",
+        "berufseinstieg"
+      ],
+      "created_at": 1795690862,
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "IT-Systemadministrator / IT-Systemtechniker (m/w/d)",
+      "company": "G&H IT Service GmbH I G&H Gruppe",
+      "location": "Viernheim",
+      "remote": false,
+      "url": "https://www.arbeitnow.com/jobs/companies/gh-it-service-gmbh-i-gh-gruppe/it-systemadministrator-it-systemtechniker-viernheim-499013",
+      "tags": [
+        "System and Network Administration"
+      ],
+      "job_types": [
+        "Unbefristeter arbeitsvertrag",
+        "berufserfahren"
+      ],
+      "created_at": 1795690861,
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "Praktikant:in New Business (all genders)",
+      "company": "Mediaplus Germany GmbH & Co. KG",
+      "location": "Munich",
+      "remote": false,
+      "url": "https://www.arbeitnow.com/jobs/companies/mediaplus-germany-gmbh-co-kg/praktikantin-new-business-all-genders-munich-292090",
+      "tags": [
+        "Business Development"
+      ],
+      "job_types": [
+        "Praktikum",
+        "internship",
+        "hilfstätigkeit / student"
+      ],
+      "created_at": 1795689055,
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "Business development Intern in hyper-scale startup",
+      "company": "Vicoland",
+      "location": "Frankfurt am Main",
+      "remote": false,
+      "url": "https://www.arbeitnow.com/jobs/companies/vicoland/business-development-intern-in-hyper-scale-startup-frankfurt-am-main-442390",
+      "tags": [
+        "Business Development"
+      ],
+      "job_types": [
+        "Internship (praktikum)",
+        "internship",
+        "no experience required / student"
+      ],
+      "created_at": 1795689055,
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "Director Business and Digital Product Development (m/w/d): win business and drive platform building",
+      "company": "Vicoland",
+      "location": "Berlin",
+      "remote": false,
+      "url": "https://www.arbeitnow.com/jobs/companies/vicoland/director-business-and-digital-product-development-win-business-and-drive-platform-building-berlin-335901",
+      "tags": [
+        "Business Development"
+      ],
+      "job_types": [
+        "Permanent employment (unbefristeter arbeitsvertrag)",
+        "executive"
+      ],
+      "created_at": 1795689055,
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "Business Development Manager in a disruptive scale-up: be a changemaker and learn to build a company",
+      "company": "Vicoland",
+      "location": "Frankfurt am Main",
+      "remote": false,
+      "url": "https://www.arbeitnow.com/jobs/companies/vicoland/business-development-manager-in-a-disruptive-scale-up-be-a-changemaker-and-learn-to-build-a-company-frankfurt-am-main-462937",
+      "tags": [
+        "Business Development"
+      ],
+      "job_types": [
+        "Permanent employment (unbefristeter arbeitsvertrag)",
+        "manager"
+      ],
+      "created_at": 1795689054,
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "Business Development Director (m/w/d) - excel as entrepreneur through strategy, sales, and AI",
+      "company": "Vicoland",
+      "location": "Berlin",
+      "remote": false,
+      "url": "https://www.arbeitnow.com/jobs/companies/vicoland/business-development-director-excel-as-entrepreneur-through-strategy-sales-and-ai-berlin-61211",
+      "tags": [
+        "Business Development"
+      ],
+      "job_types": [
+        "Permanent employment (unbefristeter arbeitsvertrag)",
+        "executive"
+      ],
+      "created_at": 1795689054,
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "Mid-Senior Full-Stack AI Product Engineer",
+      "company": "Spatial Commerce Ltd",
+      "location": "Berlin",
+      "remote": false,
+      "url": "https://www.arbeitnow.com/jobs/companies/spatial-commerce-ltd/mid-senior-full-stack-ai-product-engineer-berlin-352833",
+      "tags": [
+        "Software Development"
+      ],
+      "job_types": [
+        "Permanent employment (unbefristeter arbeitsvertrag)",
+        "professional / experienced"
+      ],
+      "created_at": 1795689054,
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "Fachassistent:in für Digitalisierung und IT-Prozesse / FAIT-Spezialist:in (m/w/d)",
+      "company": "Dierkes Partner",
+      "location": "Hamburg",
+      "remote": false,
+      "url": "https://www.arbeitnow.com/jobs/companies/dierkes-partner/fachassistentin-fur-digitalisierung-und-it-prozesse-fait-spezialistin-hamburg-427548",
+      "tags": [
+        "Process Management"
+      ],
+      "job_types": [
+        "Unbefristeter arbeitsvertrag",
+        "berufserfahren"
+      ],
+      "created_at": 1795689054,
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "Senior Sales Consultant - Vollzeit (German Speaking)",
+      "company": "Swiss Life Select",
+      "location": "Freiburg",
+      "remote": false,
+      "url": "https://www.arbeitnow.com/jobs/companies/swiss-life-select/senior-sales-consultant-vollzeit-german-speaking-freiburg-75291",
+      "tags": [
+        "Finance",
+        "high school or equivalent"
+      ],
+      "job_types": [
+        "Full-time fixed-term",
+        "mid"
+      ],
+      "created_at": 1795688410,
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "Teamleiter (m/w/d) im Finanzvertrieb (German Speaking)",
+      "company": "XpertsOne",
+      "location": "Celle",
+      "remote": false,
+      "url": "https://www.arbeitnow.com/jobs/companies/xpertsone/teamleiter-im-finanzvertrieb-german-speaking-celle-407264",
+      "tags": [
+        "Finance",
+        "vocational"
+      ],
+      "job_types": [
+        "Full-time permanent",
+        "mid"
+      ],
+      "created_at": 1795688410,
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "Mitverkaufende Verkaufsleitung (m/w/d)",
+      "company": "Autohaus Walter Mulfinger GmbH",
+      "location": "Michelfeld",
+      "remote": false,
+      "url": "https://www.arbeitnow.com/jobs/companies/autohaus-walter-mulfinger-gmbh/mitverkaufende-verkaufsleitung-michelfeld-183963",
+      "tags": [
+        "Management",
+        "Team Leader"
+      ],
+      "job_types": [
+        "Unbefristeter arbeitsvertrag",
+        "teamleitung"
+      ],
+      "created_at": 1795687272,
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "Webentwickler für interne Tools & Automatisierung (m/w/d)",
+      "company": "AdKochMarketing GmbH",
+      "location": "Hamburg",
+      "remote": false,
+      "url": "https://www.arbeitnow.com/jobs/companies/adkochmarketing-gmbh/softwareentwickler-fur-interne-tools-automatisierung-hamburg-421340",
+      "tags": [
+        "Software Development"
+      ],
+      "job_types": [
+        "Unbefristeter arbeitsvertrag",
+        "berufseinstieg"
+      ],
+      "created_at": 1795702672,
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "Senior Live Ops Manager - Onboarding & Retention | Betty CA",
+      "company": "Bettyjobboard",
+      "location": "London",
+      "remote": false,
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/bettyjobboard/senior-live-ops-manager-onboarding-retention-betty-ca-london-406406",
+      "tags": [
+        "LiveOps"
+      ],
+      "job_types": [],
+      "created_at": 1795697719,
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "Senior Sales Director, EMEA",
+      "company": "Pacvue",
+      "location": "",
+      "remote": false,
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/pacvue/senior-sales-director-emea-98277",
+      "tags": [
+        "Pacvue Sales"
+      ],
+      "job_types": [],
+      "created_at": 1795697718,
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "Senior Business Solutions Partner, EMEA",
+      "company": "Pacvue",
+      "location": "",
+      "remote": false,
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/pacvue/senior-business-solutions-partner-emea-62983",
+      "tags": [
+        "Pacvue Sales"
+      ],
+      "job_types": [],
+      "created_at": 1795697718,
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "Senior Programmer, Graphics Tools",
+      "company": "Epicgames",
+      "location": "London",
+      "remote": false,
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/epicgames/senior-programmer-graphics-tools-london-73277",
+      "tags": [
+        "Engineering Generalist"
+      ],
+      "job_types": [],
+      "created_at": 1795697716,
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "Senior Engine Programmer, Verse Framework",
+      "company": "Epicgames",
+      "location": "London",
+      "remote": false,
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/epicgames/senior-engine-programmer-verse-framework-london-191081",
+      "tags": [
+        "Engineering Generalist"
+      ],
+      "job_types": [],
+      "created_at": 1795697716,
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "Staff / Principal Software Engineer, Detection and Response",
+      "company": "Lovable",
+      "location": "London",
+      "remote": false,
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/lovable/staff-principal-software-engineer-detection-and-response-london-444922",
+      "tags": [
+        "EPD"
+      ],
+      "job_types": [
+        "Full Time"
+      ],
+      "created_at": 1795696816,
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "Senior GTM Talent Partner - London",
+      "company": "The Rec Hub",
+      "location": "London - Hybrid",
+      "remote": false,
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/the-rec-hub/senior-gtm-talent-partner-london-284525",
+      "tags": [
+        "Partnerships & Delivery"
+      ],
+      "job_types": [
+        "Contract"
+      ],
+      "created_at": 1795696815,
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "Customer Onboarding Manager",
+      "company": "Moss",
+      "location": "London",
+      "remote": false,
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/moss/customer-onboarding-manager-london-288276",
+      "tags": [
+        "Commercial"
+      ],
+      "job_types": [
+        "Full Time"
+      ],
+      "created_at": 1795696815,
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "Head of Compliance Product",
+      "company": "Elliptic",
+      "location": "London, United Kingdom",
+      "remote": false,
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/elliptic/head-of-compliance-product-london-united-kingdom-496291",
+      "tags": [
+        "Product"
+      ],
+      "job_types": [
+        "Full Time"
+      ],
+      "created_at": 1795696815,
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "Bid Manager",
+      "company": "Tandem Health",
+      "location": "London",
+      "remote": false,
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/tandem-health/bid-manager-london-395743",
+      "tags": [
+        "Commercial"
+      ],
+      "job_types": [
+        "Full Time"
+      ],
+      "created_at": 1795696815,
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "Senior Theatre Practitioner- Orthopaedic and Spinal Scrub",
+      "company": "Fortius",
+      "location": "London, England, United Kingdom",
+      "remote": false,
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/fortius/senior-theatre-practitioner-orthopaedic-and-spinal-scrub-london-442472",
+      "tags": [
+        "Theatre - Direct"
+      ],
+      "job_types": [
+        "Experienced",
+        "fulltime permanent"
+      ],
+      "created_at": 1795696271,
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "Data Engineer - Senior Consultant",
+      "company": "Opencast",
+      "location": "Hybrid - Newcastle, Edinburgh, Glasgow, Leeds, Manchester, Birmingham, Bristol, London",
+      "remote": false,
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/opencast/data-engineer-senior-consultant-hybrid-newcastle-edinburgh-glasgow-leeds-manchester-birmingham-bristol-london-159533",
+      "tags": [
+        "Data engineering"
+      ],
+      "job_types": [
+        "Permanent - Employee"
+      ],
+      "created_at": 1795694864,
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "Manager / Senior Manager, Client Development",
+      "company": "Adlook",
+      "location": "London, United Kingdom",
+      "remote": false,
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/adlook/manager-senior-manager-client-development-london-united-kingdom-151868",
+      "tags": [
+        "Client Development EMEA & US"
+      ],
+      "job_types": [
+        "Full-Time"
+      ],
+      "created_at": 1795694864,
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "Senior Android Engineer",
+      "company": "Zopa",
+      "location": "London",
+      "remote": false,
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/zopa/senior-android-engineer-london-27484",
+      "tags": [
+        "Mobile Products Engineering"
+      ],
+      "job_types": [
+        "Employee - Permanent"
+      ],
+      "created_at": 1795694864,
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "Medical Product Owner",
+      "company": "Vision RT Ltd.",
+      "location": "Finchley Central, North London",
+      "remote": false,
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/vision-rt-ltd/medical-product-owner-finchley-central-north-london-278269",
+      "tags": [
+        "Development"
+      ],
+      "job_types": [
+        "Permanent",
+        "Full-time"
+      ],
+      "created_at": 1795694864,
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "Senior Sales Development Representative - 4 Day Week + Remote",
+      "company": "Laminar Projects",
+      "location": "United Kingdom",
+      "remote": false,
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/laminar-projects/senior-sales-development-representative-4-day-week-remote-united-kingdom-129457",
+      "tags": [
+        "Sales & Marketing"
+      ],
+      "job_types": [
+        "Full-time"
+      ],
+      "created_at": 1795694863,
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "Sales Development Representative (Graduate/Junior) - 4 Day Week + Remote",
+      "company": "Laminar Projects",
+      "location": "United Kingdom",
+      "remote": false,
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/laminar-projects/sales-development-representative-graduate-junior-4-day-week-remote-united-kingdom-85660",
+      "tags": [
+        "Sales & Marketing"
+      ],
+      "job_types": [
+        "Full-time"
+      ],
+      "created_at": 1795694863,
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "Product Owner",
+      "company": "Ivcevidensia",
+      "location": "Keynsham, Bristol, England",
+      "remote": false,
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/ivcevidensia/product-owner-keynsham-bristol-england-103310",
+      "tags": [
+        "E-Commerce"
+      ],
+      "job_types": [
+        "Pet Drugs Online [1035]"
+      ],
+      "created_at": 1795694861,
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "Director, Venture Cafe London",
+      "company": "CIC",
+      "location": "London, UK",
+      "remote": false,
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/cic/director-venture-cafe-london-london-uk-406873",
+      "tags": [
+        "Executive"
+      ],
+      "job_types": [
+        "Full-time"
+      ],
+      "created_at": 1795694861,
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "Senior Management Accountant 12- month FTC",
+      "company": "Octopus Energy Group",
+      "location": "London (GB)",
+      "remote": false,
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/octopus-energy-group/senior-management-accountant-12-month-ftc-london-gb-221050",
+      "tags": [
+        "Finance"
+      ],
+      "job_types": [
+        "Fixed Term Contract"
+      ],
+      "created_at": 1795694860,
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "Senior Data Scientist",
+      "company": "Octopus Energy Group",
+      "location": "London (GB)",
+      "remote": false,
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/octopus-energy-group/senior-data-scientist-london-gb-238127",
+      "tags": [
+        "Data"
+      ],
+      "job_types": [
+        "Full-time"
+      ],
+      "created_at": 1795694860,
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "Senior Backend Engineer (Power Networks)",
+      "company": "Octopus Energy Group",
+      "location": "London (GB)",
+      "remote": false,
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/octopus-energy-group/senior-backend-engineer-power-networks-london-gb-180535",
+      "tags": [
+        "Backend"
+      ],
+      "job_types": [
+        "Full-time"
+      ],
+      "created_at": 1795694860,
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "Product Designer",
+      "company": "Octopus Energy Group",
+      "location": "London (GB)",
+      "remote": false,
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/octopus-energy-group/product-designer-london-gb-197467",
+      "tags": [
+        "Product & Technology"
+      ],
+      "job_types": [
+        "Full-time"
+      ],
+      "created_at": 1795694860,
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "Senior Digital Activation Executive | Lookfantastic",
+      "company": "Thehutgroup",
+      "location": "Manchester",
+      "remote": false,
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/thehutgroup/senior-digital-activation-executive-lookfantastic-manchester-428107",
+      "tags": [
+        "THG Beauty"
+      ],
+      "job_types": [],
+      "created_at": 1795686917,
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "Forward Deployed Engineer",
+      "company": "Tailscale",
+      "location": "",
+      "remote": false,
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/tailscale/forward-deployed-engineer-196985",
+      "tags": [
+        "Customer Success"
+      ],
+      "job_types": [],
+      "created_at": 1795686916,
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "Global Alliance Director",
+      "company": "Catonetworks",
+      "location": "London",
+      "remote": false,
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/catonetworks/global-alliance-director-london-339973",
+      "tags": [
+        "Channel Sales EMEA"
+      ],
+      "job_types": [],
+      "created_at": 1795686915,
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "Engineering Director",
+      "company": "Axon",
+      "location": "London",
+      "remote": false,
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/axon/engineering-director-london-413044",
+      "tags": [
+        "Axon EVG_R&D"
+      ],
+      "job_types": [],
+      "created_at": 1795686914,
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "Project Risk manager - Construction Consultancy",
+      "company": "Cmr.london",
+      "location": "London",
+      "remote": false,
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/cmrlondon/project-risk-manager-construction-consultancy-london-116661",
+      "tags": [
+        "Risk Management"
+      ],
+      "job_types": [
+        "Full Time"
+      ],
+      "created_at": 1795686016,
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "Financial Crime Analyst",
+      "company": "iwoca",
+      "location": "London",
+      "remote": false,
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/iwoca/financial-crime-analyst-london-470539",
+      "tags": [
+        "Customer Operations"
+      ],
+      "job_types": [
+        "Full Time"
+      ],
+      "created_at": 1795686014,
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "Credit Strategy Analyst",
+      "company": "iwoca",
+      "location": "London",
+      "remote": false,
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/iwoca/credit-strategy-analyst-london-190724",
+      "tags": [
+        "Risk and Lending Strategy"
+      ],
+      "job_types": [
+        "Full Time"
+      ],
+      "created_at": 1795686014,
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "Staff Backend Engineer - Ledger Platform",
+      "company": "iwoca",
+      "location": "London",
+      "remote": false,
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/iwoca/staff-backend-engineer-ledger-platform-london-199668",
+      "tags": [
+        "Software Engineering and Tech"
+      ],
+      "job_types": [
+        "Full Time"
+      ],
+      "created_at": 1795686014,
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "Senior Technical Program Manager",
+      "company": "Volta",
+      "location": "London, UK",
+      "remote": false,
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/volta/senior-technical-program-manager-london-435737",
+      "tags": [
+        "Product"
+      ],
+      "job_types": [
+        "Full Time"
+      ],
+      "created_at": 1795686013,
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "Senior Internal Automation Engineer",
+      "company": "Volta",
+      "location": "London, UK",
+      "remote": false,
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/volta/senior-internal-automation-engineer-london-149376",
+      "tags": [
+        "Corporate IT"
+      ],
+      "job_types": [
+        "Full Time"
+      ],
+      "created_at": 1795686013,
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "Partner Solutions Engineer",
+      "company": "Ultralytics",
+      "location": "London",
+      "remote": false,
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/ultralytics/partner-solutions-engineer-london-222391",
+      "tags": [
+        "Growth"
+      ],
+      "job_types": [
+        "Full Time"
+      ],
+      "created_at": 1795686011,
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "Senior Machine Learning Engineer - Recommendations",
+      "company": "Deliveroo ",
+      "location": "London, England, United Kingdom",
+      "remote": false,
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/deliveroo/senior-machine-learning-engineer-recommendations-london-413743",
+      "tags": [],
+      "job_types": [],
+      "created_at": 1795682730,
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "Senior Machine Learning Engineer - Growth & Personalisation",
+      "company": "Deliveroo ",
+      "location": "London, England, United Kingdom",
+      "remote": false,
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/deliveroo/senior-machine-learning-engineer-growth-personalisation-london-492436",
+      "tags": [],
+      "job_types": [],
+      "created_at": 1795682730,
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "SAP QM Consultant - Batch Release Hub",
+      "company": "Market Cloud",
+      "location": "London",
+      "remote": false,
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/market-cloud/sap-qm-consultant-batch-release-hub-london-42883",
+      "tags": [
+        "SAP/ERP Consulting",
+        "Development"
+      ],
+      "job_types": [
+        "Self-employed contractor (freelancer)",
+        "freelance",
+        "professional / experienced"
+      ],
+      "created_at": 1795681851,
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "Senior Press Officer",
+      "company": "Reformuk",
+      "location": "Westminster",
+      "remote": false,
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/reformuk/senior-press-officer-westminster-427492",
+      "tags": [
+        "Press Office"
+      ],
+      "job_types": [],
+      "created_at": 1795676118,
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "Senior Product Owner",
+      "company": "Nmi",
+      "location": "Remote",
+      "remote": true,
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/nmi/remote-senior-product-owner-355662",
+      "tags": [
+        "Product Engineering"
+      ],
+      "job_types": [],
+      "created_at": 1795676116,
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "Business Development Director – Supply Chain Center of Excellence (CoE)",
+      "company": "Cognite",
+      "location": "",
+      "remote": false,
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/cognite/business-development-director-supply-chain-center-of-excellence-coe-152702",
+      "tags": [
+        "Center of Excellence"
+      ],
+      "job_types": [],
+      "created_at": 1795676116,
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "EMEA Counsel",
+      "company": "Clay Labs",
+      "location": "London",
+      "remote": false,
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/clay-labs/emea-counsel-london-413819",
+      "tags": [
+        "G&A"
+      ],
+      "job_types": [
+        "Full Time"
+      ],
+      "created_at": 1795675218,
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "Sr. Account Executive, Retail Media",
+      "company": "Constructor",
+      "location": "Remote",
+      "remote": true,
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/constructor/remote-sr-account-executive-retail-media-499130",
+      "tags": [
+        "Sales"
+      ],
+      "job_types": [
+        "Full Time"
+      ],
+      "created_at": 1795675217,
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "Senior Software Architect",
+      "company": "Hawkeyeinnovations",
+      "location": "United Kingdom",
+      "remote": false,
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/hawkeyeinnovations/senior-software-architect-united-kingdom-337196",
+      "tags": [
+        "Hawk-Eye Innovations (Value Streams)"
+      ],
+      "job_types": [
+        "Full Time"
+      ],
+      "created_at": 1795675215,
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "Manager, Enterprise Application Engineering, EMEA",
+      "company": "Harvey",
+      "location": "London",
+      "remote": false,
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/harvey/manager-enterprise-application-engineering-emea-london-179186",
+      "tags": [
+        "IT"
+      ],
+      "job_types": [
+        "Full Time"
+      ],
+      "created_at": 1795675215,
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "Head of SMB Sales, EMEA",
+      "company": "Harvey",
+      "location": "London",
+      "remote": false,
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/harvey/head-of-smb-sales-emea-london-376368",
+      "tags": [
+        "Go to Market"
+      ],
+      "job_types": [
+        "Full Time"
+      ],
+      "created_at": 1795675215,
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "Field Solutions Engineer",
+      "company": "Shield",
+      "location": "London, UK",
+      "remote": false,
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/shield/field-solutions-engineer-london-368596",
+      "tags": [
+        "Corporate"
+      ],
+      "job_types": [
+        "Full Time"
+      ],
+      "created_at": 1795675214,
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "FP&A Lead",
+      "company": "Montu Uk",
+      "location": "London",
+      "remote": false,
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/montu-uk/fpa-lead-london-336453",
+      "tags": [
+        "Montu"
+      ],
+      "job_types": [
+        "Full Time"
+      ],
+      "created_at": 1795675212,
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "Patient Support Coordinator",
+      "company": "Montu Uk",
+      "location": "London",
+      "remote": false,
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/montu-uk/patient-support-coordinator-london-247691",
+      "tags": [
+        "Alternaleaf [Non Clinical]"
+      ],
+      "job_types": [
+        "Full Time"
+      ],
+      "created_at": 1795675212,
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "Montu Pharmacy Assessment Centre",
+      "company": "Montu Uk",
+      "location": "Winnersh",
+      "remote": false,
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/montu-uk/montu-pharmacy-assessment-centre-winnersh-403881",
+      "tags": [
+        "Montu"
+      ],
+      "job_types": [
+        "Full Time"
+      ],
+      "created_at": 1795675212,
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "Clinical Training and Education Lead",
+      "company": "Montu Uk",
+      "location": "London",
+      "remote": false,
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/montu-uk/clinical-training-and-education-lead-london-146992",
+      "tags": [
+        "Montu"
+      ],
+      "job_types": [
+        "Full Time"
+      ],
+      "created_at": 1795675212,
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "Senior Process Autoreverse and Quality Manager",
+      "company": "A2Mac1",
+      "location": "Hary, France",
+      "remote": false,
+      "url": "https://www.arbeitnow.fr/jobs/companies/a2mac1/senior-process-autoreverse-and-quality-manager-hary-181164",
+      "tags": [
+        "Engineering",
+        "Automotive",
+        "A2MAC1 EURL"
+      ],
+      "job_types": [
+        "Full time",
+        "entry"
+      ],
+      "created_at": 1795702816,
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "Senior Cloud Operations Engineer (Azure) - H/F",
+      "company": "A2Mac1",
+      "location": "Boulogne-Billancourt, France",
+      "remote": false,
+      "url": "https://www.arbeitnow.fr/jobs/companies/a2mac1/senior-cloud-operations-engineer-azure-h-f-boulogne-billancourt-216241",
+      "tags": [
+        "Automotive",
+        "A2MAC1 EURL"
+      ],
+      "job_types": [],
+      "created_at": 1795702816,
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "CDI - Senior Copywriter",
+      "company": "We Are Social 1",
+      "location": "Paris, France",
+      "remote": false,
+      "url": "https://www.arbeitnow.fr/jobs/companies/we-are-social-1/cdi-senior-copywriter-paris-261188",
+      "tags": [
+        "Marketing and Advertising",
+        "Creative"
+      ],
+      "job_types": [
+        "Full time",
+        "mid-senior"
+      ],
+      "created_at": 1795702814,
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "Chargé.e de communication marketing",
+      "company": "Lowit",
+      "location": "Lyon",
+      "remote": false,
+      "url": "https://www.arbeitnow.fr/jobs/companies/lowit/chargee-de-communication-marketing-lyon-408500",
+      "tags": [
+        "Social Media Manager"
+      ],
+      "job_types": [
+        "Convention de stage",
+        "internship",
+        "débutant"
+      ],
+      "created_at": 1795701668,
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "Manager, Data Centers",
+      "company": "Godaddy",
+      "location": "",
+      "remote": false,
+      "url": "https://www.arbeitnow.fr/jobs/companies/godaddy/manager-data-centers-224136",
+      "tags": [
+        "Data Center"
+      ],
+      "job_types": [],
+      "created_at": 1795697720,
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "Business Operations (Revenue & GTM)",
+      "company": "Vocca",
+      "location": "Paris",
+      "remote": false,
+      "url": "https://www.arbeitnow.fr/jobs/companies/vocca/business-operations-revenue-gtm-paris-106383",
+      "tags": [
+        "Internal Operations"
+      ],
+      "job_types": [
+        "Full Time"
+      ],
+      "created_at": 1795696816,
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "Business Development Representative (BDR) €45–50K + BSPCE",
+      "company": "Vocca",
+      "location": "Paris",
+      "remote": false,
+      "url": "https://www.arbeitnow.fr/jobs/companies/vocca/business-development-representative-bdr-eur45-50k-bspce-paris-235058",
+      "tags": [
+        "Sales"
+      ],
+      "job_types": [
+        "Full Time"
+      ],
+      "created_at": 1795696816,
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "Founder Associate to the CEO - End-of-studies internship (2K€/month)",
+      "company": "Vocca",
+      "location": "Paris",
+      "remote": false,
+      "url": "https://www.arbeitnow.fr/jobs/companies/vocca/founder-associate-to-the-ceo-end-of-studies-internship-2keur-month-paris-188211",
+      "tags": [
+        "Corporate"
+      ],
+      "job_types": [
+        "Full Time"
+      ],
+      "created_at": 1795696816,
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "Product Engineer (TypeScript)",
+      "company": "Vocca",
+      "location": "Paris",
+      "remote": false,
+      "url": "https://www.arbeitnow.fr/jobs/companies/vocca/product-engineer-typescript-paris-448478",
+      "tags": [
+        "Product & Engineering"
+      ],
+      "job_types": [
+        "Full Time"
+      ],
+      "created_at": 1795696816,
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "GTM Engineer",
+      "company": "Vocca",
+      "location": "Paris",
+      "remote": false,
+      "url": "https://www.arbeitnow.fr/jobs/companies/vocca/gtm-engineer-paris-266837",
+      "tags": [
+        "Internal Operations"
+      ],
+      "job_types": [
+        "Full Time"
+      ],
+      "created_at": 1795696816,
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "Senior Solution Engineer",
+      "company": "UiPath",
+      "location": "Paris",
+      "remote": false,
+      "url": "https://www.arbeitnow.fr/jobs/companies/uipath/senior-solution-engineer-paris-13817",
+      "tags": [
+        "Sales Support"
+      ],
+      "job_types": [
+        "Full Time"
+      ],
+      "created_at": 1795696813,
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "AI Engineer - HF",
+      "company": "Hubvisory",
+      "location": "Paris, Île-de-France, France",
+      "remote": false,
+      "url": "https://www.arbeitnow.fr/jobs/companies/hubvisory/ai-engineer-hf-paris-286099",
+      "tags": [
+        "IA"
+      ],
+      "job_types": [
+        "Mid",
+        "fulltime permanent"
+      ],
+      "created_at": 1795696271,
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "Business Development Manager - New Customer Acquisition",
+      "company": "Signode",
+      "location": "Remote job",
+      "remote": true,
+      "url": "https://www.arbeitnow.fr/jobs/companies/signode/remote-business-development-manager-new-customer-acquisition-creteil-381862",
+      "tags": [
+        "Commercial EMEA",
+        "Remote"
+      ],
+      "job_types": [
+        "Mid",
+        "fulltime permanent"
+      ],
+      "created_at": 1795696270,
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "Head of Search (Paid+SEO/GEO)",
+      "company": "Les Pépites",
+      "location": "Paris, Île-de-France, France",
+      "remote": false,
+      "url": "https://www.arbeitnow.fr/jobs/companies/les-pepites/head-of-search-paidseo-geo-paris-191192",
+      "tags": [],
+      "job_types": [
+        "Manager",
+        "fulltime permanent"
+      ],
+      "created_at": 1795696268,
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "Senior SecOps Engineer",
+      "company": "Equativ",
+      "location": "Paris",
+      "remote": false,
+      "url": "https://www.arbeitnow.fr/jobs/companies/equativ/senior-secops-engineer-paris-272358",
+      "tags": [
+        "Engineering"
+      ],
+      "job_types": [
+        "Permanent"
+      ],
+      "created_at": 1795694862,
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "Stage - Chargé(e) de projet Média  H/F/X - Janvier 2027",
+      "company": "Veepee",
+      "location": "Saint-Denis",
+      "remote": false,
+      "url": "https://www.arbeitnow.fr/jobs/companies/veepee/stage-chargee-de-projet-media-janvier-2027-saint-denis-149263",
+      "tags": [
+        "Homepage / Trade Marketing"
+      ],
+      "job_types": [
+        "Internship"
+      ],
+      "created_at": 1795694859,
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "Stage - Auditeur interne H/F/X - Janvier 2027",
+      "company": "Veepee",
+      "location": "Saint-Denis",
+      "remote": false,
+      "url": "https://www.arbeitnow.fr/jobs/companies/veepee/stage-auditeur-interne-janvier-2027-saint-denis-194008",
+      "tags": [
+        "Audit & Internal Control"
+      ],
+      "job_types": [
+        "Internship"
+      ],
+      "created_at": 1795694859,
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "Stage - Account Manager- Secteur Fashion H/F/X - Janvier 2027",
+      "company": "Veepee",
+      "location": "Saint-Denis",
+      "remote": false,
+      "url": "https://www.arbeitnow.fr/jobs/companies/veepee/stage-account-manager-secteur-fashion-janvier-2027-saint-denis-426276",
+      "tags": [
+        "Business Development"
+      ],
+      "job_types": [
+        "Internship"
+      ],
+      "created_at": 1795694859,
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "Staff Engineer / Paris (W/M/X)",
+      "company": "Veepee",
+      "location": "Paris",
+      "remote": false,
+      "url": "https://www.arbeitnow.fr/jobs/companies/veepee/staff-engineer-paris-248278",
+      "tags": [
+        "Engineering"
+      ],
+      "job_types": [
+        "Permanent"
+      ],
+      "created_at": 1795694859,
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "Responsable Comptable Process & outils - CDI (H/F/X)",
+      "company": "Veepee",
+      "location": "Saint-Denis",
+      "remote": false,
+      "url": "https://www.arbeitnow.fr/jobs/companies/veepee/responsable-comptable-process-outils-cdi-saint-denis-185016",
+      "tags": [
+        "Accounting and consolidation"
+      ],
+      "job_types": [
+        "Permanent"
+      ],
+      "created_at": 1795694859,
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "Key Account Manager Fashion - W/M/X Fixed Term",
+      "company": "Veepee",
+      "location": "Saint-Denis",
+      "remote": false,
+      "url": "https://www.arbeitnow.fr/jobs/companies/veepee/key-account-manager-fashion-fixed-term-saint-denis-69558",
+      "tags": [
+        "Business Development"
+      ],
+      "job_types": [
+        "Fixed term"
+      ],
+      "created_at": 1795694859,
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "Key Account Manager - Kids (Jeux/Jouets) - F/H/X CDD",
+      "company": "Veepee",
+      "location": "Saint-Denis",
+      "remote": false,
+      "url": "https://www.arbeitnow.fr/jobs/companies/veepee/key-account-manager-kids-jeux-jouets-cdd-saint-denis-195405",
+      "tags": [
+        "Business Development"
+      ],
+      "job_types": [
+        "Fixed term"
+      ],
+      "created_at": 1795694859,
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "Backend Developer (.Net) - Freelancer Only  (W/M/X)",
+      "company": "Veepee",
+      "location": "Paris",
+      "remote": false,
+      "url": "https://www.arbeitnow.fr/jobs/companies/veepee/backend-developer-net-freelancer-only-paris-155356",
+      "tags": [
+        "Engineering"
+      ],
+      "job_types": [
+        "Freelancer"
+      ],
+      "created_at": 1795694859,
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "B2C Marketing Project manager  - (M/W/X)",
+      "company": "Veepee",
+      "location": "Paris",
+      "remote": false,
+      "url": "https://www.arbeitnow.fr/jobs/companies/veepee/b2c-marketing-project-manager-paris-229025",
+      "tags": [
+        "Operational Marketing / E-Merchandising"
+      ],
+      "job_types": [
+        "Permanent"
+      ],
+      "created_at": 1795694859,
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "Quality Engineer",
+      "company": "Odaseva",
+      "location": "Paris",
+      "remote": false,
+      "url": "https://www.arbeitnow.fr/jobs/companies/odaseva/quality-engineer-paris-373340",
+      "tags": [
+        "Engineering"
+      ],
+      "job_types": [
+        "Full time"
+      ],
+      "created_at": 1795694858,
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "Responsable Comptable Général (H/F/X)",
+      "company": "Biggie",
+      "location": "Paris",
+      "remote": false,
+      "url": "https://www.arbeitnow.fr/jobs/companies/biggie/responsable-comptable-general-paris-184376",
+      "tags": [
+        "Finance"
+      ],
+      "job_types": [
+        "Full Time"
+      ],
+      "created_at": 1795694857,
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "Programmatic Analyst - Alternance (H/F/X)",
+      "company": "Biggie",
+      "location": "Paris",
+      "remote": false,
+      "url": "https://www.arbeitnow.fr/jobs/companies/biggie/programmatic-analyst-alternance-paris-163099",
+      "tags": [
+        "Consulting Specialist"
+      ],
+      "job_types": [
+        "Apprenticeship"
+      ],
+      "created_at": 1795694857,
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "Digital Account Strategist - Stage (6 mois) (H/F/X)",
+      "company": "Biggie",
+      "location": "Paris",
+      "remote": false,
+      "url": "https://www.arbeitnow.fr/jobs/companies/biggie/digital-account-strategist-stage-6-mois-paris-83208",
+      "tags": [
+        "Account Manager"
+      ],
+      "job_types": [
+        "Internship"
+      ],
+      "created_at": 1795694857,
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "Consultant Senior SEO/GEO - Freelance",
+      "company": "Biggie",
+      "location": "Paris",
+      "remote": false,
+      "url": "https://www.arbeitnow.fr/jobs/companies/biggie/consultant-senior-seo-geo-freelance-paris-413616",
+      "tags": [
+        "Consulting Specialist"
+      ],
+      "job_types": [
+        "Freelance"
+      ],
+      "created_at": 1795694857,
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "Consultant Plurimedia - Stage (6 mois) (H/F/X)",
+      "company": "Biggie",
+      "location": "Paris",
+      "remote": false,
+      "url": "https://www.arbeitnow.fr/jobs/companies/biggie/consultant-plurimedia-stage-6-mois-paris-111333",
+      "tags": [
+        "Account Manager"
+      ],
+      "job_types": [
+        "Internship"
+      ],
+      "created_at": 1795694857,
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "Assistant Chef de Projet Influence - Alternance 12 mois (H/F/X)",
+      "company": "Biggie",
+      "location": "Paris",
+      "remote": false,
+      "url": "https://www.arbeitnow.fr/jobs/companies/biggie/assistant-chef-de-projet-influence-alternance-12-mois-paris-59393",
+      "tags": [
+        "Account Manager"
+      ],
+      "job_types": [
+        "Apprenticeship"
+      ],
+      "created_at": 1795694857,
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "Technicien (ne) Support IT - Anglais",
+      "company": "OTO TECHNOLOGY",
+      "location": "Levallois-Perret",
+      "remote": false,
+      "url": "https://www.arbeitnow.fr/jobs/companies/oto-technology/technicien-ne-support-it-anglais-levallois-perret-444983",
+      "tags": [
+        "Helpdesk"
+      ],
+      "job_types": [
+        "Cdi - contrat à durée indéterminée",
+        "professionnel / expérimenté"
+      ],
+      "created_at": 1795694462,
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "Technicien (ne) Support IT",
+      "company": "OTO TECHNOLOGY",
+      "location": "Levallois-Perret",
+      "remote": false,
+      "url": "https://www.arbeitnow.fr/jobs/companies/oto-technology/technicien-ne-support-it-levallois-perret-423350",
+      "tags": [
+        "Helpdesk"
+      ],
+      "job_types": [
+        "Cdi - contrat à durée indéterminée",
+        "débutant"
+      ],
+      "created_at": 1795694461,
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "Chargé de facturation maintenance H/F",
+      "company": "Edl",
+      "location": "Berre-l'Étang",
+      "remote": false,
+      "url": "https://www.arbeitnow.fr/jobs/companies/edl/charge-de-facturation-maintenance-h-f-berre-letang-233668",
+      "tags": [
+        "Accounts Receivable"
+      ],
+      "job_types": [
+        "professionnel / expérimenté"
+      ],
+      "created_at": 1795692670,
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "Gestionnaire facturation et comptabilité (H/F)",
+      "company": "TimeLapse Go",
+      "location": "Boulogne-Billancourt",
+      "remote": false,
+      "url": "https://www.arbeitnow.fr/jobs/companies/timelapse-go/gestionnaire-facturation-et-comptabilite-h-f-boulogne-billancourt-296923",
+      "tags": [
+        "Accounts Receivable"
+      ],
+      "job_types": [
+        "Cdi - contrat à durée indéterminée",
+        "professionnel / expérimenté"
+      ],
+      "created_at": 1795689054,
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "Social Media Manager – Gastronomie & Hospitality (H/F)",
+      "company": "CULINARY AGENCY",
+      "location": "Lyon",
+      "remote": false,
+      "url": "https://www.arbeitnow.fr/jobs/companies/culinary-agency/social-media-manager-gastronomie-hospitality-h-f-lyon-30411",
+      "tags": [
+        "Social Media Manager"
+      ],
+      "job_types": [
+        "Cdi - contrat à durée indéterminée",
+        "professionnel / expérimenté"
+      ],
+      "created_at": 1795687273,
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "Director, Sales Engineering (Southern Europe)",
+      "company": "Pingidentity",
+      "location": "",
+      "remote": false,
+      "url": "https://www.arbeitnow.fr/jobs/companies/pingidentity/director-sales-engineering-southern-europe-264855",
+      "tags": [
+        "6300 Sales Engineering"
+      ],
+      "job_types": [],
+      "created_at": 1795686918,
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "Lead Video Producer (x/f/m)",
+      "company": "Doctolib",
+      "location": "Paris",
+      "remote": false,
+      "url": "https://www.arbeitnow.fr/jobs/companies/doctolib/lead-video-producer-levallois-perret-319144",
+      "tags": [
+        "Business Functions"
+      ],
+      "job_types": [
+        "Full Time"
+      ],
+      "created_at": 1795686016,
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "AFC Sanctions & Investigations Officer",
+      "company": "Qonto",
+      "location": "Paris, France",
+      "remote": false,
+      "url": "https://www.arbeitnow.fr/jobs/companies/qonto/afc-sanctions-investigations-officer-paris-50293",
+      "tags": [
+        "Risk & Compliance"
+      ],
+      "job_types": [
+        "Full Time"
+      ],
+      "created_at": 1795686016,
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "Banking Operations Juridical Officer Deutschland - Deutsch & Französisch (m/w/d)",
+      "company": "Qonto",
+      "location": "Paris, France",
+      "remote": false,
+      "url": "https://www.arbeitnow.fr/jobs/companies/qonto/banking-operations-juridical-officer-deutschland-deutsch-franzosisch-paris-456690",
+      "tags": [
+        "Operations & Customer Success"
+      ],
+      "job_types": [
+        "Full Time"
+      ],
+      "created_at": 1795686016,
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "Customer Success Manager - French Market 🇫🇷",
+      "company": "Qonto",
+      "location": "Paris, France",
+      "remote": false,
+      "url": "https://www.arbeitnow.fr/jobs/companies/qonto/customer-success-manager-french-market-paris-207933",
+      "tags": [
+        "Operations & Customer Success"
+      ],
+      "job_types": [
+        "Full Time"
+      ],
+      "created_at": 1795686016,
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "Anti-Financial Crime Expert - French Market 🇫🇷",
+      "company": "Qonto",
+      "location": "Paris, France",
+      "remote": false,
+      "url": "https://www.arbeitnow.fr/jobs/companies/qonto/anti-financial-crime-expert-french-market-paris-359404",
+      "tags": [
+        "Risk & Compliance"
+      ],
+      "job_types": [
+        "Full Time"
+      ],
+      "created_at": 1795686016,
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "Software Engineering Manager - Accounting Product",
+      "company": "Qonto",
+      "location": "Paris, France",
+      "remote": false,
+      "url": "https://www.arbeitnow.fr/jobs/companies/qonto/software-engineering-manager-accounting-product-paris-16775",
+      "tags": [
+        "Tech & Data"
+      ],
+      "job_types": [
+        "Full Time"
+      ],
+      "created_at": 1795686016,
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "GTM & Value Creation Lead",
+      "company": "Hexa",
+      "location": "Paris",
+      "remote": false,
+      "url": "https://www.arbeitnow.fr/jobs/companies/hexa/gtm-value-creation-lead-paris-326164",
+      "tags": [
+        "Hexa"
+      ],
+      "job_types": [
+        "Full Time"
+      ],
+      "created_at": 1795686013,
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "Auditeur préleveur (H/F) en restauration collective",
+      "company": "IFBM et Qualtech Groupe",
+      "location": "Quimper",
+      "remote": false,
+      "url": "https://www.arbeitnow.fr/jobs/companies/ifbm-et-qualtech-groupe/auditeur-preleveur-h-f-en-restauration-collective-quimper-220547",
+      "tags": [
+        "Quality Management"
+      ],
+      "job_types": [
+        "Cdd (contrat à durée déterminée)",
+        "contract",
+        "débutant"
+      ],
+      "created_at": 1795700861,
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "Chargé·e de Communication (événementiel, RP, communication interne)",
+      "company": "Le Média Positif SAS",
+      "location": "Paris",
+      "remote": false,
+      "url": "https://www.arbeitnow.fr/jobs/companies/le-media-positif-sas/chargee-de-communication-evenementiel-rp-communication-interne-paris-444695",
+      "tags": [
+        "Social Media Manager"
+      ],
+      "job_types": [
+        "Contract",
+        "professionnel / expérimenté"
+      ],
+      "created_at": 1795683674,
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "AI Engineer Intern (2027)",
+      "company": "Qantev",
+      "location": "Paris",
+      "remote": false,
+      "url": "https://www.arbeitnow.fr/jobs/companies/qantev/ai-engineer-intern-2027-paris-102648",
+      "tags": [
+        "Data Scientist"
+      ],
+      "job_types": [
+        "Internship contract (convention de stage)",
+        "internship",
+        "no experience required / student"
+      ],
+      "created_at": 1795683674,
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "Sales Partner - Core Banking Solutions (France)",
+      "company": "Fioneer",
+      "location": "Paris, France",
+      "remote": false,
+      "url": "https://www.arbeitnow.fr/jobs/companies/fioneer/sales-partner-core-banking-solutions-france-paris-443017",
+      "tags": [
+        "Sales",
+        "Information Technology and Services",
+        "Banking"
+      ],
+      "job_types": [
+        "Full time",
+        "director"
+      ],
+      "created_at": 1795681218,
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "Conversational AI Specialist",
+      "company": "Miraklfr",
+      "location": "Paris",
+      "remote": false,
+      "url": "https://www.arbeitnow.fr/jobs/companies/miraklfr/conversational-ai-specialist-paris-392279",
+      "tags": [
+        "Customer Success"
+      ],
+      "job_types": [],
+      "created_at": 1795676117,
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "Sr. Customer Success Manager (French Speaking)",
+      "company": "Constructor",
+      "location": "Remote - France",
+      "remote": false,
+      "url": "https://www.arbeitnow.fr/jobs/companies/constructor/remote-sr-customer-success-manager-french-speaking-422782",
+      "tags": [
+        "Customer Success"
+      ],
+      "job_types": [
+        "Full Time"
+      ],
+      "created_at": 1795675217,
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "Senior SAP Basis Engineer (SAP HANA &#38; Avantra)",
+      "company": "PROSTAFF Schweiz GmbH",
+      "location": "Zürich",
+      "remote": false,
+      "url": "https://www.arbeitnow.ch/jobs/companies/prostaff-schweiz-gmbh/senior-sap-basis-engineer-sap-hana-38-avantra-zurich-451112",
+      "tags": [
+        "SAP/ERP Consulting",
+        "Development"
+      ],
+      "job_types": [
+        "Unbefristeter arbeitsvertrag",
+        "berufserfahren"
+      ],
+      "created_at": 1795703482,
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "Werkstudent (m/w/d) 50-100%",
+      "company": "Elis (Suisse) AG",
+      "location": "Bern",
+      "remote": false,
+      "url": "https://www.arbeitnow.ch/jobs/companies/elis-suisse-ag/werkstudent-50-100-bern-111281",
+      "tags": [
+        "Consulting",
+        "Engineering"
+      ],
+      "job_types": [
+        "Unbefristeter arbeitsvertrag",
+        "hilfstätigkeit / student"
+      ],
+      "created_at": 1795703481,
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "Professional System Engineer (Linux/Automation, 80-100%) - ID261126",
+      "company": "Adfinis AG",
+      "location": "Bern",
+      "remote": false,
+      "url": "https://www.arbeitnow.ch/jobs/companies/adfinis-ag/professional-system-engineer-linux-automation-80-100-id261126-bern-350363",
+      "tags": [
+        "System and Network Administration"
+      ],
+      "job_types": [
+        "Unbefristeter arbeitsvertrag",
+        "berufserfahren"
+      ],
+      "created_at": 1795703481,
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "E-Commerce & Digital Sales Manager (m/w/d) 80–100 %",
+      "company": "AMESCO AG",
+      "location": "Lindau",
+      "remote": false,
+      "url": "https://www.arbeitnow.ch/jobs/companies/amesco-ag/e-commerce-digital-sales-manager-80-100-lindau-221013",
+      "tags": [
+        "Online Marketing"
+      ],
+      "job_types": [
+        "Unbefristeter arbeitsvertrag",
+        "teamleitung"
+      ],
+      "created_at": 1795701667,
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "IT Supporter / Rollout-Techniker Windows 11 (56384)",
+      "company": "IQ Plus AG",
+      "location": "Egerkingen",
+      "remote": false,
+      "url": "https://www.arbeitnow.ch/jobs/companies/iq-plus-ag/it-supporter-rollout-techniker-windows-11-56384-egerkingen-173336",
+      "tags": [
+        "Helpdesk"
+      ],
+      "job_types": [
+        "Unbefristeter arbeitsvertrag",
+        "berufserfahren"
+      ],
+      "created_at": 1795701667,
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "QA Senior Specialist – CSV / MES Projects",
+      "company": "gloor&lang AG",
+      "location": "Neuchâtel",
+      "remote": false,
+      "url": "https://www.arbeitnow.ch/jobs/companies/gloorlang-ag/qa-senior-specialist-csv-mes-projects-neuchatel-194032",
+      "tags": [
+        "Quality Management"
+      ],
+      "job_types": [
+        "Indefinite contract (unbefristeter arbeitsvertrag)",
+        "professional / experienced"
+      ],
+      "created_at": 1795699871,
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "Senior Requirements Engineer (w/m/d) 60-100%",
+      "company": "p3b AG",
+      "location": "Bern",
+      "remote": false,
+      "url": "https://www.arbeitnow.ch/jobs/companies/p3b-ag/senior-requirements-engineer-60-100-bern-376073",
+      "tags": [
+        "Consulting",
+        "Engineering"
+      ],
+      "job_types": [
+        "Unbefristeter arbeitsvertrag",
+        "berufserfahren"
+      ],
+      "created_at": 1795698059,
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "Fachspezialist Projekte IT/OT (a)",
+      "company": "two.jobs",
+      "location": "Sissach",
+      "remote": false,
+      "url": "https://www.arbeitnow.ch/jobs/companies/twojobs/fachspezialist-projekte-it-ot-a-sissach-132121",
+      "tags": [
+        "System and Network Administration"
+      ],
+      "job_types": [
+        "Unbefristeter arbeitsvertrag",
+        "berufserfahren"
+      ],
+      "created_at": 1795698059,
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "Senior Enterprise Account Executive",
+      "company": "conga",
+      "location": "",
+      "remote": false,
+      "url": "https://www.arbeitnow.ch/jobs/companies/conga/senior-enterprise-account-executive-75242",
+      "tags": [
+        "Sales"
+      ],
+      "job_types": [],
+      "created_at": 1795697719,
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "Staff Product Designer (B2C)",
+      "company": "Getyourguide",
+      "location": "Zurich",
+      "remote": false,
+      "url": "https://www.arbeitnow.ch/jobs/companies/getyourguide/staff-product-designer-b2c-zurich-221000",
+      "tags": [
+        "UX"
+      ],
+      "job_types": [
+        "Full Time"
+      ],
+      "created_at": 1795696816,
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "Staff Product Manager",
+      "company": "Snyk",
+      "location": "Switzerland - Zurich Office",
+      "remote": false,
+      "url": "https://www.arbeitnow.ch/jobs/companies/snyk/staff-product-manager-zurich-314258",
+      "tags": [
+        "R&D"
+      ],
+      "job_types": [
+        "Full Time"
+      ],
+      "created_at": 1795696815,
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "Business Analyst / Business Engineer (m/w/d) (Ref.Nr.: 48402)",
+      "company": "Wavestone Germany AG",
+      "location": "Zürich",
+      "remote": false,
+      "url": "https://www.arbeitnow.ch/jobs/companies/wavestone-germany-ag/business-analyst-business-engineer-refnr-48402-zurich-68601",
+      "tags": [
+        "Consulting",
+        "Engineering"
+      ],
+      "job_types": [
+        "Selbstständiger / freelancer",
+        "freelance",
+        "berufserfahren"
+      ],
+      "created_at": 1795696288,
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "Senior Payments Business Analyst (m/w/d) (Ref.Nr.: 48401)",
+      "company": "Wavestone Germany AG",
+      "location": "Zürich",
+      "remote": false,
+      "url": "https://www.arbeitnow.ch/jobs/companies/wavestone-germany-ag/senior-payments-business-analyst-refnr-48401-zurich-434189",
+      "tags": [
+        "Consulting",
+        "Engineering"
+      ],
+      "job_types": [
+        "Selbstständiger / freelancer",
+        "freelance",
+        "berufserfahren"
+      ],
+      "created_at": 1795696288,
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "Senior Client Partner - Microsoft Advertising",
+      "company": "Aleph",
+      "location": "Zurich, Switzerland",
+      "remote": false,
+      "url": "https://www.arbeitnow.ch/jobs/companies/aleph/senior-client-partner-microsoft-advertising-zurich-switzerland-139492",
+      "tags": [
+        "Microsoft"
+      ],
+      "job_types": [
+        "Full time - permanent"
+      ],
+      "created_at": 1795694858,
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "Senior Quantitative Risk Manager",
+      "company": "Swissblock",
+      "location": "Baar ZG",
+      "remote": false,
+      "url": "https://www.arbeitnow.ch/jobs/companies/swissblock/senior-quantitative-risk-manager-baar-zg-357658",
+      "tags": [
+        "Risk"
+      ],
+      "job_types": [
+        "Full-time"
+      ],
+      "created_at": 1795694857,
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "Senior Procurement Specialist",
+      "company": "Anybotics",
+      "location": "Zurich",
+      "remote": false,
+      "url": "https://www.arbeitnow.ch/jobs/companies/anybotics/senior-procurement-specialist-zurich-142412",
+      "tags": [
+        "Operations"
+      ],
+      "job_types": [
+        "Employee",
+        "full time (100%)"
+      ],
+      "created_at": 1795694856,
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "Robotics Systems Engineer (Mechanical)",
+      "company": "Anybotics",
+      "location": "Zurich, Switzerland",
+      "remote": false,
+      "url": "https://www.arbeitnow.ch/jobs/companies/anybotics/robotics-systems-engineer-mechanical-zurich-switzerland-323895",
+      "tags": [
+        "ANYmal X Robotics"
+      ],
+      "job_types": [],
+      "created_at": 1795694856,
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "Marketing Intern - Events & Community",
+      "company": "Anybotics",
+      "location": "Zurich",
+      "remote": false,
+      "url": "https://www.arbeitnow.ch/jobs/companies/anybotics/marketing-intern-events-community-zurich-424876",
+      "tags": [
+        "Marketing"
+      ],
+      "job_types": [
+        "Internship"
+      ],
+      "created_at": 1795694856,
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "Head of Revenue & Commercial Operations",
+      "company": "Anybotics",
+      "location": "Zurich",
+      "remote": false,
+      "url": "https://www.arbeitnow.ch/jobs/companies/anybotics/head-of-revenue-commercial-operations-zurich-192815",
+      "tags": [
+        "Revenue Operations"
+      ],
+      "job_types": [
+        "Employee",
+        "full or part time flexible (100-80%)"
+      ],
+      "created_at": 1795694856,
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "Head of Design",
+      "company": "Anybotics",
+      "location": "Zurich",
+      "remote": false,
+      "url": "https://www.arbeitnow.ch/jobs/companies/anybotics/head-of-design-zurich-488979",
+      "tags": [
+        "Product Design"
+      ],
+      "job_types": [
+        "Employee",
+        "full time (100%)"
+      ],
+      "created_at": 1795694856,
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "Project Manager & Key Account Manager in Design & Build interior fit-out - 100%",
+      "company": "codes sa I Corporate Design",
+      "location": "Zürich",
+      "remote": false,
+      "url": "https://www.arbeitnow.ch/jobs/companies/codes-sa-i-corporate-design/project-manager-key-account-manager-in-design-build-interior-fit-out-100-zurich-438672",
+      "tags": [
+        "Project Management"
+      ],
+      "job_types": [
+        "Unbefristeter arbeitsvertrag",
+        "teamleitung"
+      ],
+      "created_at": 1795694461,
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "Change Manager Senior - Transformation Digitale & Industrielle (H/F)",
+      "company": "Enova Consulting",
+      "location": "Lausanne",
+      "remote": false,
+      "url": "https://www.arbeitnow.ch/jobs/companies/enova-consulting/change-manager-senior-transformation-digitale-industrielle-h-f-lausanne-351702",
+      "tags": [
+        "Business Consulting"
+      ],
+      "job_types": [
+        "Contrat à durée indéterminée (unbefristeter arbeitsvertrag)",
+        "manager / superviseur"
+      ],
+      "created_at": 1795690863,
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "Senior Automation Engineer (SPS, Robotics & Commissioning)",
+      "company": "Coopers Group AG",
+      "location": "Zürich",
+      "remote": false,
+      "url": "https://www.arbeitnow.ch/jobs/companies/coopers-group-ag/senior-automation-engineer-sps-robotics-commissioning-zurich-299244",
+      "tags": [
+        "Automation Engineering"
+      ],
+      "job_types": [
+        "Befristeter arbeitsvertrag",
+        "contract",
+        "berufserfahren"
+      ],
+      "created_at": 1795689055,
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "Qualifizierung / Validierung Ingenieur/in 80–100%",
+      "company": "gloor&lang AG",
+      "location": "Zürich",
+      "remote": false,
+      "url": "https://www.arbeitnow.ch/jobs/companies/gloorlang-ag/qualifizierung-validierung-ingenieur-in-80-100-zurich-484642",
+      "tags": [
+        "Quality Management"
+      ],
+      "job_types": [
+        "Unbefristeter arbeitsvertrag",
+        "berufserfahren"
+      ],
+      "created_at": 1795689054,
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "(Junior) Data Scientist / Strategic Marketing / Fund Investment",
+      "company": "coni+partner AG",
+      "location": "Zürich",
+      "remote": false,
+      "url": "https://www.arbeitnow.ch/jobs/companies/conipartner-ag/junior-data-scientist-strategic-marketing-fund-investment-zurich-118133",
+      "tags": [
+        "Data Scientist"
+      ],
+      "job_types": [
+        "Indefinite contract (unbefristeter arbeitsvertrag)",
+        "entry"
+      ],
+      "created_at": 1795687272,
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "Mitarbeiter/in Factoring (Deutsch/Französisch/Italienisch) 100%",
+      "company": "Lixt AG",
+      "location": "Baar",
+      "remote": false,
+      "url": "https://www.arbeitnow.ch/jobs/companies/lixt-ag/mitarbeiter-in-factoring-deutsch-franzosisch-italienisch-100-baar-214994",
+      "tags": [
+        "Accounts Receivable"
+      ],
+      "job_types": [
+        "Unbefristeter arbeitsvertrag",
+        "berufserfahren"
+      ],
+      "created_at": 1795687271,
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "Senior Software Engineer",
+      "company": "Auterion",
+      "location": "Zurich",
+      "remote": false,
+      "url": "https://www.arbeitnow.ch/jobs/companies/auterion/senior-software-engineer-zurich-310577",
+      "tags": [
+        "Engineering"
+      ],
+      "job_types": [],
+      "created_at": 1795686916,
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "Technical Founder Associate to the CTO",
+      "company": "Lyceum",
+      "location": "Zürich",
+      "remote": false,
+      "url": "https://www.arbeitnow.ch/jobs/companies/lyceum/technical-founder-associate-to-the-cto-zurich-346708",
+      "tags": [
+        "Engineering"
+      ],
+      "job_types": [
+        "Full Time"
+      ],
+      "created_at": 1795686015,
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "Projektleiter/in Hochbau – Ausführung Grossprojekt Wohnungsbau, 80–100%",
+      "company": "two.jobs",
+      "location": "Opfikon",
+      "remote": false,
+      "url": "https://www.arbeitnow.ch/jobs/companies/twojobs/projektleiter-in-hochbau-ausfuhrung-grossprojekt-wohnungsbau-80-100-opfikon-282285",
+      "tags": [
+        "Project Management"
+      ],
+      "job_types": [
+        "Unbefristeter arbeitsvertrag",
+        "teamleitung"
+      ],
+      "created_at": 1795683674,
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "Junior Cloud Operations Engineer (all genders) CH",
+      "company": "BSI Software",
+      "location": "Homeoffice",
+      "remote": true,
+      "url": "https://www.arbeitnow.ch/jobs/companies/bsi-software/remote-junior-cloud-operations-engineer-all-genders-ch-baar-288099",
+      "tags": [
+        "Services",
+        "Remote"
+      ],
+      "job_types": [
+        "Mid",
+        "fulltime permanent"
+      ],
+      "created_at": 1795674681,
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "Senior Planning Manager - Data Centre Infrastructure",
+      "company": "Stack Infrastructure Emea",
+      "location": "Gland, Switzerland",
+      "remote": false,
+      "url": "https://www.arbeitnow.ch/jobs/companies/stack-infrastructure-emea/senior-planning-manager-data-centre-infrastructure-geneva-373206",
+      "tags": [
+        "Delivery"
+      ],
+      "job_types": [
+        "Full Time"
+      ],
+      "created_at": 1795664584,
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "Azure Data Engineer with Databricks & PySpark",
+      "company": "Jobgether",
+      "location": "Switzerland",
+      "remote": false,
+      "url": "https://www.arbeitnow.ch/jobs/companies/jobgether/azure-data-engineer-with-databricks-pyspark-switzerland-287961",
+      "tags": [
+        "IT"
+      ],
+      "job_types": [
+        "Full-time"
+      ],
+      "created_at": 1795663615,
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "Architect – Customer Demos & Key Accounts – English, German, Korean",
+      "company": "Jobgether",
+      "location": "Switzerland",
+      "remote": false,
+      "url": "https://www.arbeitnow.ch/jobs/companies/jobgether/architect-customer-demos-key-accounts-english-german-korean-switzerland-424413",
+      "tags": [
+        "IT"
+      ],
+      "job_types": [
+        "Full-time"
+      ],
+      "created_at": 1795663615,
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "Accounting Manager",
+      "company": "Jobgether",
+      "location": "Switzerland",
+      "remote": false,
+      "url": "https://www.arbeitnow.ch/jobs/companies/jobgether/accounting-manager-switzerland-436143",
+      "tags": [
+        "Accounting"
+      ],
+      "job_types": [
+        "Full-time"
+      ],
+      "created_at": 1795663615,
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "Account Executive",
+      "company": "Jobgether",
+      "location": "Switzerland",
+      "remote": false,
+      "url": "https://www.arbeitnow.ch/jobs/companies/jobgether/account-executive-switzerland-292276",
+      "tags": [
+        "Account Executive"
+      ],
+      "job_types": [
+        "Full-time"
+      ],
+      "created_at": 1795663615,
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "Infrastructure & Cybersecurity Manager and Project Manager (f/m/d)",
+      "company": "Phenogyag",
+      "location": "Root, Lucerne, Germany",
+      "remote": false,
+      "url": "https://www.arbeitnow.ch/jobs/companies/phenogyag/infrastructure-cybersecurity-manager-and-project-manager-root-lucerne-germany-327907",
+      "tags": [
+        "IT"
+      ],
+      "job_types": [],
+      "created_at": 1795654525,
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "Head of Digital Platform & Data",
+      "company": "Phenogyag",
+      "location": "Root, Lucerne",
+      "remote": false,
+      "url": "https://www.arbeitnow.ch/jobs/companies/phenogyag/head-of-digital-platform-data-root-lucerne-361456",
+      "tags": [
+        "IT"
+      ],
+      "job_types": [],
+      "created_at": 1795654525,
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "Internal Audit Senior Specialist",
+      "company": "Nubank",
+      "location": "Zurich",
+      "remote": false,
+      "url": "https://www.arbeitnow.ch/jobs/companies/nubank/internal-audit-senior-specialist-zurich-106479",
+      "tags": [
+        "Enterprise Functions"
+      ],
+      "job_types": [
+        "Full Time"
+      ],
+      "created_at": 1795653612,
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "Staff Electrical Engineer",
+      "company": "Electraaero",
+      "location": "Olten",
+      "remote": false,
+      "url": "https://www.arbeitnow.ch/jobs/companies/electraaero/staff-electrical-engineer-olten-343402",
+      "tags": [
+        "Product Development"
+      ],
+      "job_types": [],
+      "created_at": 1795643736,
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "Product Manager ISR & Strike",
+      "company": "Harmattan Ai",
+      "location": "Lausanne",
+      "remote": false,
+      "url": "https://www.arbeitnow.ch/jobs/companies/harmattan-ai/product-manager-isr-strike-lausanne-302685",
+      "tags": [
+        "P&P"
+      ],
+      "job_types": [
+        "Contract"
+      ],
+      "created_at": 1795642818,
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "Heavy-Duty Mechanical Engineer",
+      "company": "Harmattan Ai",
+      "location": "Lausanne",
+      "remote": false,
+      "url": "https://www.arbeitnow.ch/jobs/companies/harmattan-ai/heavy-duty-mechanical-engineer-lausanne-271256",
+      "tags": [
+        "R&D"
+      ],
+      "job_types": [
+        "Full Time"
+      ],
+      "created_at": 1795642818,
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "Heavy- Duty Automation Engineer",
+      "company": "Harmattan Ai",
+      "location": "Lausanne",
+      "remote": false,
+      "url": "https://www.arbeitnow.ch/jobs/companies/harmattan-ai/heavy-duty-automation-engineer-lausanne-379498",
+      "tags": [
+        "R&D"
+      ],
+      "job_types": [
+        "Full Time"
+      ],
+      "created_at": 1795642818,
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "Forward Deployed Engineer - Zurich",
+      "company": "OpenAI",
+      "location": "Zurich, Switzerland",
+      "remote": false,
+      "url": "https://www.arbeitnow.ch/jobs/companies/openai/forward-deployed-engineer-zurich-462829",
+      "tags": [
+        "Forward Deployed Engineering"
+      ],
+      "job_types": [
+        "Full Time"
+      ],
+      "created_at": 1795642814,
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "Senior Frontend Developer",
+      "company": "Divio",
+      "location": "Switzerland",
+      "remote": true,
+      "url": "https://www.arbeitnow.ch/jobs/companies/divio/remote-senior-frontend-developer-switzerland-292678",
+      "tags": [
+        "Engineering",
+        "Computer Software",
+        "Remote"
+      ],
+      "job_types": [
+        "Full time",
+        "mid-senior"
+      ],
+      "created_at": 1795641604,
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "Projekt Assistenz Field Marketing und Promotion",
+      "company": "salespace (Schweiz) GmbH",
+      "location": "Opfikon",
+      "remote": false,
+      "url": "https://www.arbeitnow.ch/jobs/companies/salespace-schweiz-gmbh/projekt-assistenz-field-marketing-und-promotion-opfikon-9284",
+      "tags": [
+        "Marketing Assistant"
+      ],
+      "job_types": [
+        "Unbefristeter arbeitsvertrag",
+        "berufseinstieg"
+      ],
+      "created_at": 1795635049,
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "Product Engineer, AI (Junior to Mid-Level)",
+      "company": "PastaHR",
+      "location": "Zürich",
+      "remote": false,
+      "url": "https://www.arbeitnow.ch/jobs/companies/pastahr/product-engineer-ai-junior-to-mid-level-zurich-200831",
+      "tags": [
+        "Software Development"
+      ],
+      "job_types": [
+        "Indefinite contract (unbefristeter arbeitsvertrag)",
+        "entry"
+      ],
+      "created_at": 1795631453,
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "ERP Support Specialist (50%) (m/w/d)",
+      "company": "unisite ag",
+      "location": "Aesch",
+      "remote": false,
+      "url": "https://www.arbeitnow.ch/jobs/companies/unisite-ag/erp-support-specialist-50-aesch-317319",
+      "tags": [
+        "SAP/ERP Consulting",
+        "Development"
+      ],
+      "job_types": [
+        "Nebentätigkeit",
+        "side",
+        "berufserfahren"
+      ],
+      "created_at": 1795629654,
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "Senior Account Manager EAM",
+      "company": "coni+partner AG",
+      "location": "Zürich",
+      "remote": false,
+      "url": "https://www.arbeitnow.ch/jobs/companies/conipartner-ag/senior-account-manager-eam-zurich-69975",
+      "tags": [
+        "Private Banking"
+      ],
+      "job_types": [
+        "Indefinite contract (unbefristeter arbeitsvertrag)",
+        "manager"
+      ],
+      "created_at": 1795626054,
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "Quantitative Ex-ante & Ex-post Risk and Performance Analyst Asset Management",
+      "company": "coni+partner AG",
+      "location": "Zürich",
+      "remote": false,
+      "url": "https://www.arbeitnow.ch/jobs/companies/conipartner-ag/quantitative-ex-ante-ex-post-risk-and-performance-analyst-asset-management-zurich-40030",
+      "tags": [
+        "Asset",
+        "Fund Management"
+      ],
+      "job_types": [
+        "Indefinite contract (unbefristeter arbeitsvertrag)",
+        "professional / experienced"
+      ],
+      "created_at": 1795683762,
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "B1 Aircraft or B2 Avionics Engineer (EASA) - Base Maintenance",
+      "company": "OnTarget Communications",
+      "location": "Basel, Basel-Stadt, Switzerland",
+      "remote": false,
+      "url": "https://www.arbeitnow.ch/jobs/companies/ontarget-communications/b1-aircraft-or-b2-avionics-engineer-easa-base-maintenance-basel-263970",
+      "tags": [],
+      "job_types": [
+        "Experienced",
+        "fulltime permanent"
+      ],
+      "created_at": 1795620694,
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "Senior Category Lead Modern Art",
+      "company": "Catawiki",
+      "location": "Amsterdam",
+      "remote": false,
+      "url": "https://www.arbeitnow.nl/jobs/companies/catawiki/senior-category-lead-modern-art-amsterdam-415254",
+      "tags": [
+        "Category Management"
+      ],
+      "job_types": [],
+      "created_at": 1795686917,
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "Customer Marketing Manager, EMEA",
+      "company": "Horizon3Ai",
+      "location": "Amsterdam, Netherlands",
+      "remote": false,
+      "url": "https://www.arbeitnow.nl/jobs/companies/horizon3ai/customer-marketing-manager-emea-amsterdam-385802",
+      "tags": [
+        "Marketing"
+      ],
+      "job_types": [
+        "Full Time"
+      ],
+      "created_at": 1795686017,
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "Elektromonteur (Senior)",
+      "company": "VDK Groep B.V.",
+      "location": "Uitgeest, Noord-Holland, Nederland",
+      "remote": false,
+      "url": "https://www.arbeitnow.nl/jobs/companies/vdk-groep-bv/elektromonteur-senior-uitgeest-118563",
+      "tags": [
+        "Monteur"
+      ],
+      "job_types": [
+        "Mid",
+        "fulltime fixed term"
+      ],
+      "created_at": 1795685485,
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "Elektromonteur Beveiligingsinstallaties | Datacenters",
+      "company": "VDK Groep B.V.",
+      "location": "Assendelft, Noord-Holland, Nederland",
+      "remote": false,
+      "url": "https://www.arbeitnow.nl/jobs/companies/vdk-groep-bv/elektromonteur-beveiligingsinstallaties-datacenters-assendelft-35607",
+      "tags": [
+        "Monteur"
+      ],
+      "job_types": [
+        "Mid",
+        "fulltime permanent"
+      ],
+      "created_at": 1795685485,
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "Hoofd Monteur - Beveiligingstechniek - Datacenters - Midden-Nederland",
+      "company": "VDK Groep B.V.",
+      "location": "Werken op afstand",
+      "remote": true,
+      "url": "https://www.arbeitnow.nl/jobs/companies/vdk-groep-bv/remote-hoofd-monteur-beveiligingstechniek-datacenters-midden-nederland-assendelft-101384",
+      "tags": [
+        "Monteur",
+        "Remote"
+      ],
+      "job_types": [
+        "Mid",
+        "fulltime permanent"
+      ],
+      "created_at": 1795685485,
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "Junior Business Controller (Data specialist)",
+      "company": "HG International b.v.",
+      "location": "Almere, Flevoland, Nederland",
+      "remote": false,
+      "url": "https://www.arbeitnow.nl/jobs/companies/hg-international-bv/junior-business-controller-data-specialist-almere-394785",
+      "tags": [
+        "Finance"
+      ],
+      "job_types": [
+        "Mid",
+        "fulltime fixed term"
+      ],
+      "created_at": 1795685481,
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "HR-Stagiair(e)",
+      "company": "Benchmark",
+      "location": "Almelo, Overijssel, Nederland",
+      "remote": false,
+      "url": "https://www.arbeitnow.nl/jobs/companies/benchmark/hr-stagiaire-almelo-111104",
+      "tags": [
+        "HR"
+      ],
+      "job_types": [
+        "Student college",
+        "internship"
+      ],
+      "created_at": 1795674684,
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "Junior Data Consultant",
+      "company": "LOGEX",
+      "location": "Amsterdam, Noord-Holland, Netherlands",
+      "remote": false,
+      "url": "https://www.arbeitnow.nl/jobs/companies/logex/junior-data-consultant-amsterdam-151895",
+      "tags": [],
+      "job_types": [
+        "Entry",
+        "fulltime permanent"
+      ],
+      "created_at": 1795674683,
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "Android Engineer",
+      "company": "Aquablu B.V",
+      "location": "Amsterdam, Noord-Holland, Netherlands",
+      "remote": false,
+      "url": "https://www.arbeitnow.nl/jobs/companies/aquablu-bv/android-engineer-amsterdam-442072",
+      "tags": [
+        "Product & Engineering"
+      ],
+      "job_types": [
+        "Mid",
+        "fulltime fixed term"
+      ],
+      "created_at": 1795674680,
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "Account Executive (m/f/x)",
+      "company": "Eye Security",
+      "location": "The Hague - hybrid",
+      "remote": false,
+      "url": "https://www.arbeitnow.nl/jobs/companies/eye-security/account-executive-the-hague-341624",
+      "tags": [
+        "Business"
+      ],
+      "job_types": [
+        "Full Time"
+      ],
+      "created_at": 1795664588,
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "Senior Data Engineer",
+      "company": "Everfield",
+      "location": "Netherlands - Amsterdam | Hybrid",
+      "remote": false,
+      "url": "https://www.arbeitnow.nl/jobs/companies/everfield/senior-data-engineer-amsterdam-area-421741",
+      "tags": [
+        "Everfield HQ"
+      ],
+      "job_types": [
+        "Full Time"
+      ],
+      "created_at": 1795664587,
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "Enterprise Account Executive Benelux (Remote Benelux)",
+      "company": "N8N",
+      "location": "Netherlands",
+      "remote": false,
+      "url": "https://www.arbeitnow.nl/jobs/companies/n8n/enterprise-account-executive-benelux-remote-benelux-netherlands-454653",
+      "tags": [
+        "Sales"
+      ],
+      "job_types": [
+        "Full Time"
+      ],
+      "created_at": 1795664586,
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "Founding Account Manager, SMB (NL)",
+      "company": "Dandy",
+      "location": "Netherlands - Amsterdam",
+      "remote": false,
+      "url": "https://www.arbeitnow.nl/jobs/companies/dandy/founding-account-manager-smb-nl-netherlands-amsterdam-272037",
+      "tags": [
+        "Commercial"
+      ],
+      "job_types": [
+        "Full Time"
+      ],
+      "created_at": 1795664585,
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "Senior Network Architect (Relocation Provided)",
+      "company": "Wypoon",
+      "location": "Amsterdam",
+      "remote": false,
+      "url": "https://www.arbeitnow.nl/jobs/companies/wypoon/senior-network-architect-relocation-provided-amsterdam-442276",
+      "tags": [
+        "Network & Security Engineer"
+      ],
+      "job_types": [
+        "Permanent"
+      ],
+      "created_at": 1795663618,
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "Network Security & Automation Engineer (Relocation Provided)",
+      "company": "Wypoon",
+      "location": "Amsterdam",
+      "remote": false,
+      "url": "https://www.arbeitnow.nl/jobs/companies/wypoon/network-security-automation-engineer-relocation-provided-amsterdam-260825",
+      "tags": [
+        "Network & Security Engineer"
+      ],
+      "job_types": [
+        "Permanent"
+      ],
+      "created_at": 1795663618,
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "Senior Paid Media Specialist",
+      "company": "Karl Lagerfeld",
+      "location": "Amsterdam (HQ), North Holland",
+      "remote": false,
+      "url": "https://www.arbeitnow.nl/jobs/companies/karl-lagerfeld/senior-paid-media-specialist-amsterdam-hq-north-holland-8497",
+      "tags": [
+        "E-Commerce"
+      ],
+      "job_types": [
+        "Full-Time"
+      ],
+      "created_at": 1795663616,
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "Azure Data Engineer with Databricks & PySpark",
+      "company": "Jobgether",
+      "location": "Netherlands",
+      "remote": false,
+      "url": "https://www.arbeitnow.nl/jobs/companies/jobgether/azure-data-engineer-with-databricks-pyspark-netherlands-367179",
+      "tags": [
+        "IT"
+      ],
+      "job_types": [
+        "Full-time"
+      ],
+      "created_at": 1795663616,
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "Architect – Customer Demos & Key Accounts – English, German, Korean",
+      "company": "Jobgether",
+      "location": "Netherlands",
+      "remote": false,
+      "url": "https://www.arbeitnow.nl/jobs/companies/jobgether/architect-customer-demos-key-accounts-english-german-korean-netherlands-13894",
+      "tags": [
+        "IT"
+      ],
+      "job_types": [
+        "Full-time"
+      ],
+      "created_at": 1795663615,
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "Account Executive (Remote from Net)",
+      "company": "Jobgether",
+      "location": "Netherlands",
+      "remote": false,
+      "url": "https://www.arbeitnow.nl/jobs/companies/jobgether/account-executive-remote-from-net-netherlands-487643",
+      "tags": [
+        "Account Executive"
+      ],
+      "job_types": [
+        "Full-time"
+      ],
+      "created_at": 1795663615,
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "Software Engineering Internship - API Management",
+      "company": "Tomtom",
+      "location": "Amsterdam, The Netherlands",
+      "remote": false,
+      "url": "https://www.arbeitnow.nl/jobs/companies/tomtom/software-engineering-internship-api-management-amsterdam-the-netherlands-291887",
+      "tags": [
+        "PF AI and Engineering Platform"
+      ],
+      "job_types": [
+        "Intern"
+      ],
+      "created_at": 1795663613,
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "Platform Engineering Internship - Observability",
+      "company": "Tomtom",
+      "location": "Amsterdam, The Netherlands",
+      "remote": false,
+      "url": "https://www.arbeitnow.nl/jobs/companies/tomtom/platform-engineering-internship-observability-amsterdam-the-netherlands-61393",
+      "tags": [
+        "PF AI and Engineering Platform"
+      ],
+      "job_types": [
+        "Intern"
+      ],
+      "created_at": 1795663613,
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "Director - Corporate, Issues & Crisis",
+      "company": "Bursonglobalcareers",
+      "location": "Amsterdam",
+      "remote": false,
+      "url": "https://www.arbeitnow.nl/jobs/companies/bursonglobalcareers/director-corporate-issues-crisis-amsterdam-224833",
+      "tags": [
+        "Corporate Affairs - Axicom"
+      ],
+      "job_types": [],
+      "created_at": 1795643734,
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "Senior Director, Head of Quality & Responsible Person for Encaleret, International",
+      "company": "Bridgebio",
+      "location": "",
+      "remote": false,
+      "url": "https://www.arbeitnow.nl/jobs/companies/bridgebio/senior-director-head-of-quality-responsible-person-for-encaleret-international-46753",
+      "tags": [
+        "GMP QA"
+      ],
+      "job_types": [],
+      "created_at": 1795643728,
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "Dutch speaking Support Specialist",
+      "company": "Lightspeedhq",
+      "location": "Remote in the Netherlands",
+      "remote": false,
+      "url": "https://www.arbeitnow.nl/jobs/companies/lightspeedhq/remote-dutch-speaking-support-specialist-217780",
+      "tags": [
+        "Customers"
+      ],
+      "job_types": [
+        "Full Time"
+      ],
+      "created_at": 1795642815,
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "Senior Brand Manager Biodermal",
+      "company": "Karohealthcare",
+      "location": "Rotterdam, Netherlands",
+      "remote": false,
+      "url": "https://www.arbeitnow.nl/jobs/companies/karohealthcare/senior-brand-manager-biodermal-rotterdam-409467",
+      "tags": [
+        "Consumer Goods",
+        "Business to Consumer"
+      ],
+      "job_types": [
+        "Temporary",
+        "mid-senior"
+      ],
+      "created_at": 1795634412,
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "Content Marketeer",
+      "company": "TAGGRS",
+      "location": "Heerenveen",
+      "remote": false,
+      "url": "https://www.arbeitnow.nl/jobs/companies/taggrs/content-marketeer-heerenveen-198575",
+      "tags": [
+        "Social Media Manager"
+      ],
+      "job_types": [
+        "Tijdelijk contract",
+        "professional / ervaren"
+      ],
+      "created_at": 1795633244,
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "Senior Director, HR - Field Operations (Europe)",
+      "company": "hellofresh",
+      "location": "Amsterdam",
+      "remote": false,
+      "url": "https://www.arbeitnow.nl/jobs/companies/hellofresh/senior-director-hr-field-operations-europe-amsterdam-270249",
+      "tags": [
+        "People"
+      ],
+      "job_types": [],
+      "created_at": 1795632931,
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "Senior Project Manager Creative",
+      "company": "wppmedia",
+      "location": "Eindhoven",
+      "remote": false,
+      "url": "https://www.arbeitnow.nl/jobs/companies/wppmedia/senior-project-manager-creative-eindhoven-448071",
+      "tags": [
+        "Strategy"
+      ],
+      "job_types": [],
+      "created_at": 1795632927,
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "Senior Director of Brand",
+      "company": "wppmedia",
+      "location": "Amsterdam",
+      "remote": false,
+      "url": "https://www.arbeitnow.nl/jobs/companies/wppmedia/senior-director-of-brand-amsterdam-303828",
+      "tags": [
+        "Marketing"
+      ],
+      "job_types": [],
+      "created_at": 1795632927,
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "Senior AI Solution Specialist",
+      "company": "Sunweb Group",
+      "location": "Rotterdam, Zuid-Holland, Netherlands",
+      "remote": false,
+      "url": "https://www.arbeitnow.nl/jobs/companies/sunweb-group/senior-ai-solution-specialist-rotterdam-5230",
+      "tags": [
+        "Tech"
+      ],
+      "job_types": [
+        "Experienced",
+        "fulltime fixed term"
+      ],
+      "created_at": 1795631495,
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "Hbo/Bachelor Technische Bedrijfskunde / Logistiek Stage",
+      "company": "Bufab Flos B.V.",
+      "location": "Eindhoven, Noord-Brabant, Nederland",
+      "remote": false,
+      "url": "https://www.arbeitnow.nl/jobs/companies/bufab-flos-bv/hbo-bachelor-technische-bedrijfskunde-logistiek-stage-eindhoven-257412",
+      "tags": [
+        "Operations"
+      ],
+      "job_types": [
+        "Student college",
+        "internship"
+      ],
+      "created_at": 1795631495,
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "Software Engineer (Python & Cloud)",
+      "company": "GIGA STORAGE",
+      "location": "Amsterdam, Noord-Holland, Netherlands",
+      "remote": false,
+      "url": "https://www.arbeitnow.nl/jobs/companies/giga-storage/software-engineer-python-cloud-amsterdam-185139",
+      "tags": [
+        "IT"
+      ],
+      "job_types": [
+        "Mid",
+        "fulltime permanent"
+      ],
+      "created_at": 1795631495,
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "Account Executive - Enterprise",
+      "company": "Vesper",
+      "location": "Amsterdam, Noord-Holland, Netherlands",
+      "remote": false,
+      "url": "https://www.arbeitnow.nl/jobs/companies/vesper/account-executive-enterprise-amsterdam-259810",
+      "tags": [
+        "Enterprise Sales"
+      ],
+      "job_types": [
+        "Mid",
+        "fulltime fixed term"
+      ],
+      "created_at": 1795631495,
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "Medior Software Developer",
+      "company": "Vesper",
+      "location": "Amsterdam, Noord-Holland, Netherlands",
+      "remote": false,
+      "url": "https://www.arbeitnow.nl/jobs/companies/vesper/medior-software-developer-amsterdam-477842",
+      "tags": [
+        "Development"
+      ],
+      "job_types": [
+        "Experienced",
+        "fulltime fixed term"
+      ],
+      "created_at": 1795631495,
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "iOS Developer",
+      "company": "CM.com",
+      "location": "Breda, Noord-Brabant, Netherlands",
+      "remote": false,
+      "url": "https://www.arbeitnow.nl/jobs/companies/cmcom/ios-developer-breda-291217",
+      "tags": [
+        "Live"
+      ],
+      "job_types": [
+        "Mid",
+        "fulltime fixed term"
+      ],
+      "created_at": 1795631489,
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "Senior Engineering Manager - Infra Platform Group",
+      "company": "Channable",
+      "location": "Utrecht, Utrecht, Netherlands",
+      "remote": false,
+      "url": "https://www.arbeitnow.nl/jobs/companies/channable/senior-engineering-manager-infra-platform-group-utrecht-157004",
+      "tags": [
+        "Engineering"
+      ],
+      "job_types": [
+        "Mid",
+        "fulltime permanent"
+      ],
+      "created_at": 1795631489,
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "Coördinator Informatiebeveiliging & Privacy",
+      "company": "Berenschot Groep B.V.",
+      "location": "Utrecht, Utrecht, Nederland",
+      "remote": false,
+      "url": "https://www.arbeitnow.nl/jobs/companies/berenschot-groep-bv/coordinator-informatiebeveiliging-privacy-utrecht-285529",
+      "tags": [
+        "IT"
+      ],
+      "job_types": [
+        "Senior executive",
+        "fulltime fixed term"
+      ],
+      "created_at": 1795620694,
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "Senior Adviseur Financiële Bedrijfsvoering | Ministerie van Binnenlandse Zaken en Koninkrijkrelaties",
+      "company": "Berenschot Groep B.V.",
+      "location": "Den Haag, Zuid-Holland, Nederland",
+      "remote": false,
+      "url": "https://www.arbeitnow.nl/jobs/companies/berenschot-groep-bv/senior-adviseur-financiele-bedrijfsvoering-ministerie-van-binnenlandse-zaken-en-koninkrijkrelaties-den-haag-335578",
+      "tags": [
+        "Interim management"
+      ],
+      "job_types": [
+        "Senior executive",
+        "temporary"
+      ],
+      "created_at": 1795620694,
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "Data Analyst - Logistics",
+      "company": "All Your BI",
+      "location": "Rotterdam, Zuid-Holland, Netherlands",
+      "remote": false,
+      "url": "https://www.arbeitnow.nl/jobs/companies/all-your-bi/data-analyst-logistics-rotterdam-125833",
+      "tags": [
+        "Delivery"
+      ],
+      "job_types": [
+        "Mid",
+        "fulltime permanent"
+      ],
+      "created_at": 1795620693,
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "Senior HR Business Partner",
+      "company": "Talk360",
+      "location": "Amsterdam, Noord-Holland, Netherlands",
+      "remote": false,
+      "url": "https://www.arbeitnow.nl/jobs/companies/talk360/senior-hr-business-partner-amsterdam-398975",
+      "tags": [
+        "Human resources"
+      ],
+      "job_types": [
+        "Experienced",
+        "fulltime fixed term"
+      ],
+      "created_at": 1795620691,
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "Senior Analytics Engineer",
+      "company": "Talk360",
+      "location": "Amsterdam, Noord-Holland, Netherlands",
+      "remote": false,
+      "url": "https://www.arbeitnow.nl/jobs/companies/talk360/senior-analytics-engineer-amsterdam-396595",
+      "tags": [
+        "Commercial"
+      ],
+      "job_types": [
+        "Experienced",
+        "fulltime fixed term"
+      ],
+      "created_at": 1795620691,
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "Interim Payments & Operations Senior Specialist - Freelance Assignment",
+      "company": "Talk360",
+      "location": "Amsterdam, Noord-Holland, Netherlands",
+      "remote": false,
+      "url": "https://www.arbeitnow.nl/jobs/companies/talk360/interim-payments-operations-senior-specialist-freelance-assignment-amsterdam-137042",
+      "tags": [
+        "Ops"
+      ],
+      "job_types": [
+        "Experienced",
+        "fulltime fixed term"
+      ],
+      "created_at": 1795620691,
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "Senior UI/ UX Artist Freelance Talent Pool (2027)",
+      "company": "Keywords Intl1",
+      "location": "Netherlands",
+      "remote": true,
+      "url": "https://www.arbeitnow.nl/jobs/companies/keywords-intl1/remote-senior-ui-ux-artist-freelance-talent-pool-2027-netherlands-147530",
+      "tags": [
+        "Art/Creative",
+        "Computer Games",
+        "Art Services",
+        "Remote"
+      ],
+      "job_types": [
+        "Contract",
+        "mid-senior"
+      ],
+      "created_at": 1795612812,
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "Senior U.I. Programmer - Freelance Talent Pool (2027 Opportunities)",
+      "company": "Keywords Intl1",
+      "location": "Netherlands",
+      "remote": true,
+      "url": "https://www.arbeitnow.nl/jobs/companies/keywords-intl1/remote-senior-ui-programmer-freelance-talent-pool-2027-opportunities-netherlands-432078",
+      "tags": [
+        "Engineering",
+        "Computer Games",
+        "Game Development",
+        "Remote"
+      ],
+      "job_types": [
+        "Contract",
+        "mid-senior"
+      ],
+      "created_at": 1795612812,
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "Senior Technical/ VFX Artist - Freelance Talent Pool (2027 Opportunities)",
+      "company": "Keywords Intl1",
+      "location": "Netherlands",
+      "remote": true,
+      "url": "https://www.arbeitnow.nl/jobs/companies/keywords-intl1/remote-senior-technical-vfx-artist-freelance-talent-pool-2027-opportunities-netherlands-243915",
+      "tags": [
+        "Art/Creative",
+        "Computer Games",
+        "Art Services",
+        "Remote"
+      ],
+      "job_types": [
+        "Contract",
+        "mid-senior"
+      ],
+      "created_at": 1795612812,
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "Senior Technical Designer - Freelance Talent Pool (2027 Opportunities",
+      "company": "Keywords Intl1",
+      "location": "Netherlands",
+      "remote": true,
+      "url": "https://www.arbeitnow.nl/jobs/companies/keywords-intl1/remote-senior-technical-designer-freelance-talent-pool-2027-opportunities-netherlands-483492",
+      "tags": [
+        "Computer Games",
+        "Game Development",
+        "Remote"
+      ],
+      "job_types": [
+        "Contract",
+        "mid-senior"
+      ],
+      "created_at": 1795612812,
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "Senior Systems Designer - Freelance Talent Pool (2027 Opportunities",
+      "company": "Keywords Intl1",
+      "location": "Netherlands",
+      "remote": true,
+      "url": "https://www.arbeitnow.nl/jobs/companies/keywords-intl1/remote-senior-systems-designer-freelance-talent-pool-2027-opportunities-netherlands-253379",
+      "tags": [
+        "Computer Games",
+        "Game Development",
+        "Remote"
+      ],
+      "job_types": [
+        "Contract",
+        "mid-senior"
+      ],
+      "created_at": 1795612812,
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "Senior Rendering/ Graphics Engineer - Freelance Talent Pool (2027 Opportunities)",
+      "company": "Keywords Intl1",
+      "location": "Netherlands",
+      "remote": true,
+      "url": "https://www.arbeitnow.nl/jobs/companies/keywords-intl1/remote-senior-rendering-graphics-engineer-freelance-talent-pool-2027-opportunities-netherlands-358816",
+      "tags": [
+        "Engineering",
+        "Computer Games",
+        "Game Development",
+        "Remote"
+      ],
+      "job_types": [
+        "Contract",
+        "mid-senior"
+      ],
+      "created_at": 1795612812,
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "Senior Level Designer - Freelance Talent Pool (2027 Opportunities",
+      "company": "Keywords Intl1",
+      "location": "Netherlands",
+      "remote": true,
+      "url": "https://www.arbeitnow.nl/jobs/companies/keywords-intl1/remote-senior-level-designer-freelance-talent-pool-2027-opportunities-netherlands-292459",
+      "tags": [
+        "Computer Games",
+        "Game Development",
+        "Remote"
+      ],
+      "job_types": [
+        "Contract",
+        "mid-senior"
+      ],
+      "created_at": 1795612812,
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "Senior Character Artist - Freelance Talent Pool (2027 Opportunities)",
+      "company": "Keywords Intl1",
+      "location": "Netherlands",
+      "remote": true,
+      "url": "https://www.arbeitnow.nl/jobs/companies/keywords-intl1/remote-senior-character-artist-freelance-talent-pool-2027-opportunities-netherlands-104704",
+      "tags": [
+        "Art/Creative",
+        "Computer Games",
+        "Art Services",
+        "Remote"
+      ],
+      "job_types": [
+        "Contract",
+        "mid-senior"
+      ],
+      "created_at": 1795612812,
+      "source": "Arbeitnow"
     }
   ]
 }
