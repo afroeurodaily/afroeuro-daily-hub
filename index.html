@@ -325,6 +325,10 @@ async function loadFeeds() {
     ).textContent = 'Updates unavailable. Check back later.';
   }
 }
+let allJobs = [];
+let jobsLimit = 10;
+let jobsUI = null;
+
 async function loadJobs() {
   const section = document.getElementById('jobs');
   if (!section) return;
@@ -334,79 +338,175 @@ async function loadJobs() {
     if (!response.ok) throw new Error('Jobs unavailable');
 
     const data = await response.json();
-    const jobs = Array.isArray(data.jobs) ? data.jobs : [];
+    allJobs = Array.isArray(data.jobs) ? data.jobs : [];
 
     section.querySelector('.pill').textContent =
-      jobs.length + ' JOBS';
+      allJobs.length + ' JOBS';
 
-    section.querySelector('.heading p').textContent =
-      'Latest jobs and career opportunities';
+    if (!jobsUI) {
+      section.querySelectorAll('.listing').forEach(el => el.remove());
 
-    section.querySelectorAll('.listing').forEach(el => el.remove());
-
-    let feed = document.getElementById('jobs-feed');
-
-    if (!feed) {
-      feed = document.createElement('div');
-      feed.id = 'jobs-feed';
-      feed.style.maxHeight = '650px';
-      feed.style.overflowY = 'auto';
-      section.appendChild(feed);
-    }
-
-    feed.replaceChildren();
-
-    if (!jobs.length) {
-      feed.textContent = 'No jobs available right now.';
-      return;
-    }
-
-    jobs.forEach(job => {
-      const card = document.createElement('div');
-      card.className = 'listing';
-
-      const title = document.createElement('strong');
-      title.textContent = job.title || 'Job opportunity';
-      card.appendChild(title);
-
-      const details = document.createElement('div');
-      details.className = 'small';
-      details.textContent =
-        (job.company || '') + ' | ' + (job.location || '');
-      card.appendChild(details);
-
-      const type = document.createElement('div');
-      type.className = 'small';
-      type.textContent = Array.isArray(job.job_types)
-        ? job.job_types.join(', ')
-        : '';
-      card.appendChild(type);
-
-      const badge = document.createElement('span');
-      badge.className = 'chip';
-      badge.textContent = job.remote ? 'Remote' : 'On-site / Hybrid';
-      card.appendChild(badge);
-
-      if (typeof job.url === 'string' &&
-          job.url.startsWith('https://')) {
-        const link = document.createElement('a');
-        link.href = job.url;
-        link.target = '_blank';
-        link.rel = 'noopener noreferrer';
-        link.textContent = 'Apply Now →';
-        link.style.display = 'block';
-        link.style.marginTop = '10px';
-        link.style.fontWeight = 'bold';
-        card.appendChild(link);
+      const subtitle = section.querySelector('.heading p');
+      if (subtitle) {
+        subtitle.textContent = 'Find your next career opportunity';
       }
 
-      feed.appendChild(card);
-    });
+      const controls = document.createElement('div');
+      controls.style.cssText = 'display:grid;gap:10px;margin:18px 0;';
+
+      controls.innerHTML = `
+        <input id="job-search" type="search"
+          placeholder="Search jobs or companies"
+          aria-label="Search jobs or companies">
+
+        <input id="job-location" type="search"
+          placeholder="Country or city"
+          aria-label="Country or city">
+
+        <select id="job-remote" aria-label="Work location">
+          <option value="">All work locations</option>
+          <option value="remote">Remote jobs</option>
+          <option value="onsite">On-site / Hybrid</option>
+        </select>
+
+        <select id="job-type" aria-label="Employment type">
+          <option value="">All employment types</option>
+          <option value="full">Full-time</option>
+          <option value="part">Part-time</option>
+          <option value="training">Apprenticeship</option>
+          <option value="freelance">Freelance</option>
+        </select>
+
+        <div id="job-count" class="small"></div>
+      `;
+
+      controls.querySelectorAll('input,select').forEach(el => {
+        el.style.cssText = 'width:100%;padding:12px;border:1px solid #d5e0e5;border-radius:10px;background:white;color:#102c40;font-size:15px;box-sizing:border-box;';
+
+        el.addEventListener('input', () => {
+          jobsLimit = 10;
+          renderJobs();
+        });
+      });
+
+      section.appendChild(controls);
+
+      const feed = document.createElement('div');
+      feed.id = 'jobs-results';
+      section.appendChild(feed);
+
+      const more = document.createElement('button');
+      more.type = 'button';
+      more.textContent = 'Load More Jobs';
+      more.style.cssText = 'width:100%;padding:14px;margin-top:15px;background:#102c40;color:white;border:0;border-radius:10px;font-weight:bold;cursor:pointer;';
+
+      more.addEventListener('click', () => {
+        jobsLimit += 10;
+        renderJobs();
+      });
+
+      section.appendChild(more);
+      jobsUI = { feed, more };
+    }
+
+    renderJobs();
 
   } catch (error) {
     console.error('Jobs update failed:', error);
     section.querySelector('.pill').textContent = 'UNAVAILABLE';
   }
+}
+
+function renderJobs() {
+  if (!jobsUI) return;
+
+  const search = document.getElementById('job-search').value.toLowerCase().trim();
+  const location = document.getElementById('job-location').value.toLowerCase().trim();
+  const remote = document.getElementById('job-remote').value;
+  const type = document.getElementById('job-type').value;
+
+  const filtered = allJobs.filter(job => {
+    const text = [
+      job.title,
+      job.company,
+      job.location,
+      job.tags,
+      job.job_types
+    ].join(' ').toLowerCase();
+
+    const place = String(job.location || '').toLowerCase();
+
+    if (search && !text.includes(search)) return false;
+    if (location && !place.includes(location)) return false;
+    if (remote === 'remote' && !job.remote) return false;
+    if (remote === 'onsite' && job.remote) return false;
+
+    if (type === 'full' &&
+        !/full.time|vollzeit/.test(text)) return false;
+
+    if (type === 'part' &&
+        !/part.time|teilzeit/.test(text)) return false;
+
+    if (type === 'training' &&
+        !/ausbildung|apprentice|azubi/.test(text)) return false;
+
+    if (type === 'freelance' &&
+        !/freelance|freiberuf/.test(text)) return false;
+
+    return true;
+  });
+
+  document.getElementById('job-count').textContent =
+    'Showing ' + Math.min(jobsLimit, filtered.length) +
+    ' of ' + filtered.length + ' jobs';
+
+  jobsUI.feed.replaceChildren();
+
+  if (!filtered.length) {
+    jobsUI.feed.textContent = 'No matching jobs found. Try another search.';
+  }
+
+  filtered.slice(0, jobsLimit).forEach(job => {
+    const card = document.createElement('div');
+    card.className = 'listing';
+
+    const title = document.createElement('strong');
+    title.textContent = job.title || 'Job opportunity';
+    card.appendChild(title);
+
+    const details = document.createElement('div');
+    details.className = 'small';
+    details.textContent = [job.company, job.location]
+      .filter(Boolean).join(' | ');
+    card.appendChild(details);
+
+    const tags = document.createElement('div');
+    tags.className = 'small';
+    tags.textContent = Array.isArray(job.tags)
+      ? job.tags.join(', ') : '';
+    card.appendChild(tags);
+
+    const badge = document.createElement('span');
+    badge.className = 'chip';
+    badge.textContent = job.remote
+      ? 'Remote' : 'On-site / Hybrid';
+    card.appendChild(badge);
+
+    if (typeof job.url === 'string' &&
+        job.url.startsWith('https://')) {
+      const link = document.createElement('a');
+      link.href = job.url;
+      link.target = '_blank';
+      link.rel = 'noopener noreferrer';
+      link.textContent = 'Apply Now →';
+      link.style.cssText = 'display:block;margin-top:10px;font-weight:bold;';
+      card.appendChild(link);
+    }
+
+    jobsUI.feed.appendChild(card);
+  });
+
+  jobsUI.more.hidden = filtered.length <= jobsLimit;
 }
 
 loadJobs();
