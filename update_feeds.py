@@ -52,7 +52,7 @@ LEAGUES = {
 
 def football():
     today = dt.datetime.now(dt.timezone.utc).date()
-    start = (today - dt.timedelta(days=7)).strftime('%Y%m%d')
+    start = (today - dt.timedelta(days=1)).strftime('%Y%m%d')
     end = (today + dt.timedelta(days=2)).strftime('%Y%m%d')
 
     out = []
