@@ -62,7 +62,7 @@ def football():
             url = (
                 'https://site.api.espn.com/apis/site/v2/'
                 f'sports/soccer/{league}/scoreboard'
-                f'?dates={start}-{end}&limit=1000'
+                f'?dates={start}-{end}'
             )
 
             payload = json.loads(get(url))
