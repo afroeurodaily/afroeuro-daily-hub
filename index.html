@@ -508,6 +508,129 @@ function renderJobs() {
 
   jobsUI.more.hidden = filtered.length <= jobsLimit;
 }
+const opportunityStyle = document.createElement('style');
+
+opportunityStyle.textContent = `
+.opportunity-grid {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 10px;
+  margin: 15px 0 20px;
+}
+.opportunity-card {
+  display: block;
+  background: #f4f9f8;
+  border: 1px solid #dce9e5;
+  border-radius: 12px;
+  padding: 14px;
+}
+.opportunity-card:hover {
+  border-color: #16c79a;
+  background: #e7f8f2;
+}
+.opportunity-icon {
+  font-size: 25px;
+  margin-bottom: 8px;
+}
+.opportunity-card strong {
+  display: block;
+  font-size: 14px;
+  margin-bottom: 5px;
+}
+.opportunity-card small {
+  color: #667986;
+  font-size: 11px;
+  line-height: 1.5;
+}
+`;
+
+document.head.append(opportunityStyle);
+
+function addOpportunityCategories() {
+  const section = document.getElementById('jobs');
+
+  if (!section ||
+      document.getElementById('opportunity-categories')) return;
+
+  const panel = document.createElement('div');
+  panel.id = 'opportunity-categories';
+
+  panel.innerHTML = `
+    <h3 style="margin-top:20px">
+      Explore Opportunities
+    </h3>
+
+    <p class="small">
+      Discover career and education resources
+      across Africa and Europe.
+    </p>
+
+    <div class="opportunity-grid">
+
+      <a class="opportunity-card"
+         href="https://eures.europa.eu/"
+         target="_blank" rel="noopener noreferrer">
+        <div class="opportunity-icon">🇪🇺</div>
+        <strong>European Jobs</strong>
+        <small>European employment portal</small>
+      </a>
+
+      <a class="opportunity-card"
+         href="https://www.jobberman.com/"
+         target="_blank" rel="noopener noreferrer">
+        <div class="opportunity-icon">🌍</div>
+        <strong>African Jobs</strong>
+        <small>Career opportunities in Nigeria</small>
+      </a>
+
+      <a class="opportunity-card"
+         href="https://remotive.com/"
+         target="_blank" rel="noopener noreferrer">
+        <div class="opportunity-icon">💻</div>
+        <strong>Remote Jobs</strong>
+        <small>International remote opportunities</small>
+      </a>
+
+      <a class="opportunity-card"
+         href="https://www.arbeitsagentur.de/"
+         target="_blank" rel="noopener noreferrer">
+        <div class="opportunity-icon">🇩🇪</div>
+        <strong>Ausbildung</strong>
+        <small>German vocational training</small>
+      </a>
+
+      <a class="opportunity-card"
+         href="https://www.make-it-in-germany.com/"
+         target="_blank" rel="noopener noreferrer">
+        <div class="opportunity-icon">✈️</div>
+        <strong>Work Abroad</strong>
+        <small>Visa and international career guidance</small>
+      </a>
+
+      <a class="opportunity-card"
+         href="https://www.daad.de/"
+         target="_blank" rel="noopener noreferrer">
+        <div class="opportunity-icon">🎓</div>
+        <strong>Scholarships</strong>
+        <small>Study and funding opportunities</small>
+      </a>
+
+    </div>
+
+    <p class="small">
+      External resources. Always check eligibility,
+      application requirements and deadlines.
+    </p>
+
+    <h3 style="margin-top:22px">
+      Latest Job Vacancies
+    </h3>
+  `;
+
+  section.querySelector('.heading').after(panel);
+}
+
+addOpportunityCategories();
 
 loadJobs();
 setInterval(loadJobs, 300000);
