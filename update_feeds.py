@@ -52,84 +52,91 @@ LEAGUES = {
 
 def football():
     today = dt.datetime.now(dt.timezone.utc).date()
-    start = (today - dt.timedelta(days=1)).strftime('%Y%m%d')
-    end = (today + dt.timedelta(days=2)).strftime('%Y%m%d')
-
     out = []
 
     for league, name in LEAGUES.items():
-        try:
-            url = (
-                'https://site.api.espn.com/apis/site/v2/'
-                f'sports/soccer/{league}/scoreboard'
-                f'?dates={today.strftime("%Y%m%d")}'
-            )
+        for offset in (-1, 0, 1, 2):
+            day = today + dt.timedelta(days=offset)
+            date_key = day.strftime('%Y%m%d')
 
-            payload = json.loads(get(url))
-
-            for event in payload.get('events', []):
-                competition = (
-                    event.get('competitions') or [{}]
-                )[0]
-
-                competitors = competition.get('competitors') or []
-
-                home = next(
-                    (x for x in competitors
-                     if x.get('homeAway') == 'home'),
-                    None
+            try:
+                url = (
+                    'https://site.api.espn.com/apis/site/v2/'
+                    f'sports/soccer/{league}/scoreboard'
+                    f'?dates={date_key}'
                 )
 
-                away = next(
-                    (x for x in competitors
-                     if x.get('homeAway') == 'away'),
-                    None
-                )
+                payload = json.loads(get(url))
 
-                if not home or not away:
-                    continue
+                for event in payload.get('events', []):
+                    competition = (
+                        event.get('competitions') or [{}]
+                    )[0]
 
-                home_team = home.get('team') or {}
-                away_team = away.get('team') or {}
+                    competitors = competition.get('competitors') or []
 
-                status_data = (
-                    event.get('status')
-                    or competition.get('status')
-                    or {}
-                ).get('type', {})
-
-                state = status_data.get('state', 'pre')
-                status = status_data.get('shortDetail', 'Scheduled')
-
-                score = ''
-
-                if state in ('in', 'post'):
-                    score = (
-                        f"{home.get('score', '?')}"
-                        f"–{away.get('score', '?')}"
+                    home = next(
+                        (x for x in competitors
+                         if x.get('homeAway') == 'home'),
+                        None
                     )
 
-                out.append({
-                    'home': home_team.get('displayName', 'Home'),
-                    'away': away_team.get('displayName', 'Away'),
-                    'home_logo': home_team.get('logo', ''),
-                    'away_logo': away_team.get('logo', ''),
-                    'status': status,
-                    'state': state,
-                    'score': score,
-                    'date': event.get('date', ''),
-                    'league': league,
-                    'league_name': name
-                })
+                    away = next(
+                        (x for x in competitors
+                         if x.get('homeAway') == 'away'),
+                        None
+                    )
 
-            print(
-                'Football collected:',
-                name,
-                len(payload.get('events', []))
-            )
+                    if not home or not away:
+                        continue
 
-        except Exception as exc:
-            print('Football feed unavailable:', league, str(exc))
+                    home_team = home.get('team') or {}
+                    away_team = away.get('team') or {}
+
+                    status_data = (
+                        event.get('status')
+                        or competition.get('status')
+                        or {}
+                    ).get('type', {})
+
+                    state = status_data.get('state', 'pre')
+                    status = status_data.get('shortDetail', 'Scheduled')
+
+                    score = ''
+
+                    if state in ('in', 'post'):
+                        score = (
+                            f"{home.get('score', '?')}"
+                            f"–{away.get('score', '?')}"
+                        )
+
+                    out.append({
+                        'home': home_team.get('displayName', 'Home'),
+                        'away': away_team.get('displayName', 'Away'),
+                        'home_logo': home_team.get('logo', ''),
+                        'away_logo': away_team.get('logo', ''),
+                        'status': status,
+                        'state': state,
+                        'score': score,
+                        'date': event.get('date', ''),
+                        'league': league,
+                        'league_name': name
+                    })
+
+                print(
+                    'Football collected:',
+                    name,
+                    date_key,
+                    len(payload.get('events', []))
+                )
+
+            except Exception as exc:
+                print(
+                    'Football feed unavailable:',
+                    league,
+                    date_key,
+                    str(exc)
+                )
 
     unique = {
         (g['league'], g['home'], g['away'], g['date']): g
