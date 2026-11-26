@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-26T20:35:39.338098+00:00",
+  "updated_at": "2026-11-26T20:40:44.798449+00:00",
   "football": [
     {
       "home": "Sabah FK",
@@ -402,7 +402,7 @@
       "away": "Real Sociedad",
       "home_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/384.png",
       "away_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/89.png",
-      "status": "35'",
+      "status": "40'",
       "state": "in",
       "score": "0–0",
       "date": "2026-11-26T20:00Z",
@@ -414,7 +414,7 @@
       "away": "NK Celje",
       "home_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/622.png",
       "away_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/3362.png",
-      "status": "35'",
+      "status": "40'",
       "state": "in",
       "score": "0–0",
       "date": "2026-11-26T20:00Z",
@@ -426,9 +426,9 @@
       "away": "Omonia Nicosia",
       "home_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/111.png",
       "away_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/617.png",
-      "status": "35'",
+      "status": "40'",
       "state": "in",
-      "score": "0–1",
+      "score": "1–1",
       "date": "2026-11-26T20:00Z",
       "league": "uefa.europa",
       "league_name": "Europa League"
@@ -438,7 +438,7 @@
       "away": "Lillestrom",
       "home_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/167.png",
       "away_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/987.png",
-      "status": "35'",
+      "status": "40'",
       "state": "in",
       "score": "0–0",
       "date": "2026-11-26T20:00Z",
@@ -450,9 +450,9 @@
       "away": "Stade Rennais",
       "home_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/147.png",
       "away_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/169.png",
-      "status": "35'",
+      "status": "40'",
       "state": "in",
-      "score": "1–0",
+      "score": "1–1",
       "date": "2026-11-26T20:00Z",
       "league": "uefa.europa",
       "league_name": "Europa League"
@@ -462,9 +462,9 @@
       "away": "Anderlecht",
       "home_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/1010.png",
       "away_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/441.png",
-      "status": "35'",
+      "status": "40'",
       "state": "in",
-      "score": "0–1",
+      "score": "0–2",
       "date": "2026-11-26T20:00Z",
       "league": "uefa.europa",
       "league_name": "Europa League"
@@ -474,7 +474,7 @@
       "away": "AZ Alkmaar",
       "home_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/433.png",
       "away_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/140.png",
-      "status": "35'",
+      "status": "40'",
       "state": "in",
       "score": "2–0",
       "date": "2026-11-26T20:00Z",
@@ -486,7 +486,7 @@
       "away": "Jagiellonia Bialystok",
       "home_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/366.png",
       "away_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/11505.png",
-      "status": "35'",
+      "status": "40'",
       "state": "in",
       "score": "0–0",
       "date": "2026-11-26T20:00Z",
@@ -498,7 +498,7 @@
       "away": "Celtic",
       "home_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/21615.png",
       "away_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/256.png",
-      "status": "34'",
+      "status": "39'",
       "state": "in",
       "score": "1–1",
       "date": "2026-11-26T20:00Z",
@@ -510,7 +510,7 @@
       "away": "SK Sturm Graz",
       "home_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/7911.png",
       "away_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/3746.png",
-      "status": "35'",
+      "status": "40'",
       "state": "in",
       "score": "0–0",
       "date": "2026-11-26T20:00Z",
@@ -522,7 +522,7 @@
       "away": "Atalanta",
       "home_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/20710.png",
       "away_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/105.png",
-      "status": "35'",
+      "status": "40'",
       "state": "in",
       "score": "2–0",
       "date": "2026-11-26T20:00Z",
@@ -534,7 +534,7 @@
       "away": "KuPS Kuopio",
       "home_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/2994.png",
       "away_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/8169.png",
-      "status": "35'",
+      "status": "40'",
       "state": "in",
       "score": "2–0",
       "date": "2026-11-26T20:00Z",
@@ -546,7 +546,7 @@
       "away": "Trabzonspor",
       "home_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/10834.png",
       "away_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/997.png",
-      "status": "35'",
+      "status": "40'",
       "state": "in",
       "score": "1–0",
       "date": "2026-11-26T20:00Z",
@@ -558,7 +558,7 @@
       "away": "Panathinaikos",
       "home_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/3101.png",
       "away_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/443.png",
-      "status": "35'",
+      "status": "40'",
       "state": "in",
       "score": "0–0",
       "date": "2026-11-26T20:00Z",
@@ -570,7 +570,7 @@
       "away": "Sint-Truidense",
       "home_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/489.png",
       "away_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/936.png",
-      "status": "34'",
+      "status": "39'",
       "state": "in",
       "score": "0–0",
       "date": "2026-11-26T20:00Z",
@@ -582,7 +582,7 @@
       "away": "F.C. København",
       "home_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/20703.png",
       "away_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/909.png",
-      "status": "34'",
+      "status": "40'",
       "state": "in",
       "score": "1–0",
       "date": "2026-11-26T20:00Z",
@@ -594,7 +594,7 @@
       "away": "Red Star Belgrade",
       "home_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/3611.png",
       "away_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/2290.png",
-      "status": "33'",
+      "status": "38'",
       "state": "in",
       "score": "1–0",
       "date": "2026-11-26T20:00Z",
@@ -606,7 +606,7 @@
       "away": "FC Twente",
       "home_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/126.png",
       "away_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/152.png",
-      "status": "35'",
+      "status": "40'",
       "state": "in",
       "score": "1–0",
       "date": "2026-11-26T20:00Z",
@@ -1456,6 +1456,22 @@
       "category": "America"
     },
     {
+      "title": "Opinion: Why solidarity with Gaza failed to stop the genocide - Middle East Eye",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNOG1fRHNtNERKWEh5VXdyU1JKam5iVmNtYW5jSGxlTEd4MU9jdjFFOWZUN3d0MHZWX3l2ZE1pWE1FRHV3XzBnVUUxcHUzblU1YjR3NzhQXzF4VDVJOG5oYkdIZXdzZjFNRXVDWjA3bE80Z0VINlV3YVRRS191VWJtTXItbmNGZXdpek5PTERhY25YRWxsZlVtbjZndWNwcEVENDMzZENiU3o?oc=5",
+      "source": "Middle East Eye",
+      "date": "Thu, 26 Nov 2026 19:44",
+      "published_at": "2026-11-26T19:44:00+00:00",
+      "category": "Middle East"
+    },
+    {
+      "title": "Tinubu Approves Houses, N100m Each For Families Of NAF Crash Victims - News Agency of Nigeria",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNVVVPOU9ySG9ZLWtZcDBjekRfcFQtSkVGTENsQzNkQWxwNHRkYllOLWFXNTZWOXBmTXlzdnNWUVl3MGNhTDRJQm12bWtmaHRINHhyZXN3UHN0NF9FcmYtamFrX3pBdUxuVTBqeHlOSXMtT21DaVdvRi1hS2p5QUduU1ZKMk5RUlJUQUltU21jQWU?oc=5",
+      "source": "News Agency of Nigeria",
+      "date": "Thu, 26 Nov 2026 19:39",
+      "published_at": "2026-11-26T19:39:23+00:00",
+      "category": "Nigeria"
+    },
+    {
       "title": "Child star Christian Cousins found dead at home after brother didn't hear from him - Daily Express US",
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNc0ttNFNKV25vRzYtN3JqR3lrRzRyNzVwRDgzWF9PbWV1eTlwTlpvVV80elBRNWstekpsUnBVMjRyT29SZzhDWDgyQ2pHZjBPbUhrMGg5NXdpUmZWNmpBSXFvZ1dITFI4a3pGN3lIeFoybXZIY3NueXR5ajlRNUh3aFRreXg2LVJ4b25OLTRBR291WlhfaGltU0VxV2Nad9IBowFBVV95cUxNZmFsSmdpamxWY3pRZXlRVzMtbGhia3hUUl93T2ppZy0yVkQ2N2NwZzc3dUxDWU9pZ1pJWmMxNnFRQWFRN1JRM1Bhd2NnOVl1MVFzTk1hNmdDSUpHUDE5bFF5VmtCSHVORVU2azZDbjExVEZxVDlTaDN4XzFfbklVS0xJYUFmMXlLcnJCRGVQLVpXdmxFMVVLSnByUDNuZ0UwZmlz?oc=5",
       "source": "Daily Express US",
@@ -1464,12 +1480,12 @@
       "category": "Entertainment"
     },
     {
-      "title": "Jacopo Cerutti out of Africa Eco Race 2027 due to injury - Enduro21 | News",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQZVRJT09idm5vc1lzMmYyTVZvSkhxWTZwczFtMml6WWlmb3M5TlVUOTJoYWRZdmFieXRIYkJRT3ZnWExuT2F4cjMteUhrUmh3TDdQRUMxRWRPSVZmUm1GTkhhdW8tMHlQNERqZXB0R3g0Rkd4ekFYM2pqRlU1c2dNcEtHRXFJNldkM2JfNHZn?oc=5",
-      "source": "Enduro21 | News",
-      "date": "Thu, 26 Nov 2026 19:09",
-      "published_at": "2026-11-26T19:09:15+00:00",
-      "category": "Africa"
+      "title": "Tea and the Taliban: Joho’s Diplomatic Freelancing - Kenyan Foreign Policy",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQYVpIOWl6U0RRTUp6dzRHMTFwclhZcnlSLVg0MmlDSGdlZGpmaGNjT1lCWnZBdzd2Q09tbWQ2R2FfTl9iZW9XaEZLaXVmQmZoNEdQa0RGUVdPQldMeDlzWFU3YUhQNzhFbmM2Y3BJQ1pNZUhIeG1qUVFQYUkzM0VuRllDLWdZYldx?oc=5",
+      "source": "Kenyan Foreign Policy",
+      "date": "Thu, 26 Nov 2026 19:17",
+      "published_at": "2026-11-26T19:17:56+00:00",
+      "category": "Politics"
     },
     {
       "title": "What are tariffs, how do they work and why is Trump using them? - BBC",
@@ -1486,14 +1502,6 @@
       "date": "Thu, 26 Nov 2026 18:54",
       "published_at": "2026-11-26T18:54:07+00:00",
       "category": "World"
-    },
-    {
-      "title": "Firm, Chamber Seal Deal To Unlock Nigeria-China Trade Opportunities - LEADERSHIP Newspapers",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPTkNsbDBvRWMwZjlyeE8ycEpoWFFvWThzLV92VDM2THZTWTNISG5VajdkYlpRaGV6M0xWQnRUb1NvZ1dJQmE4OUFQdVdoTTNhWnVXOWVzZWQ3bVlCX3BjdU1BVmRaTk1tM3B3WHQ4VE83WFY0OWRWMllBVHUzU1ZVZV9zN1NVWGRaNmtZVlVlZnhVM2s?oc=5",
-      "source": "LEADERSHIP Newspapers",
-      "date": "Thu, 26 Nov 2026 18:39",
-      "published_at": "2026-11-26T18:39:44+00:00",
-      "category": "Nigeria"
     },
     {
       "title": "Weekly quiz: Which music icon's house did Miley Cyrus get married at? - BBC",
@@ -1520,20 +1528,20 @@
       "category": "Nigeria"
     },
     {
+      "title": "Norse Atlantic Airways suspends all flights as carrier faces bankruptcy - Sky News",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNMU5vWF8zdENpUWc5SnZwUHRDUWtCWWEtSTRZSlc0MDVHSnZweHB4TVBZMUNwQ1FMQUduYUNnTTltRW5YQTFjTW9tNThPUlkwWm5HWlB4UXhTYmJZX0gxU0Y1ZnV6cWhlTk1pcFRzTTZDS0Vqc1B6OXY3STZIU2ZXcFMtNmRjQ3loZmVKRUhuTGt5azJJM2xkdG94cFNpNXVWRDVlSDFmNmxiNUU?oc=5",
+      "source": "Sky News",
+      "date": "Thu, 26 Nov 2026 18:22",
+      "published_at": "2026-11-26T18:22:54+00:00",
+      "category": "World"
+    },
+    {
       "title": "Exclusive: Nostos hires Warne as Middle East CEO - Global Reinsurance",
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNVWFyT0NsSWhnT3NQWGhkbFVTamp3bjFxdTdmbnEtdXZNNzVGM3Z2MVNGQnkyOTJNX0d5Z0YxQkJXTjhmeHdEWGxoN05HVEVpQmQ0S29FNlhsMXRoVmhvclMtVlc0bTJXZkZpVDRSWnlwQjFkc1g4YlJYanphQUgwQ056Z2xOM1JxWlREVjFiVnJad293OV8xSHpibkhEdzZzTW10Qw?oc=5",
       "source": "Global Reinsurance",
       "date": "Thu, 26 Nov 2026 18:20",
       "published_at": "2026-11-26T18:20:57+00:00",
       "category": "Middle East"
-    },
-    {
-      "title": "Berlin Opens Espionage Trial of Woman Accused of Working for Russian Intelligence in Germany - UNITED24 Media",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOWnJnNDN5VnpjdVVSX1NoQUFnbHlvVTUxOVhZRWE2cEw1S28yY001VFl0S3F4QWhFVl9Nc0JVZzZFTm0wdEYzcmF4UkREWU14QnFnMGh0TnhqRDQyLTMySFZUODBqc0F2VUIwZ0hzczdyTjFIZEZpaGVDQURjZk9tNGd2amM3b0NqaXBPODJkRE05VGMwVjI3S2JKeEVraUw2Rm91SnVmbC1PWkhQNm01TzBNZWhsRXQ5TE5oaVAycW5WVmR5NTNFV0ZR?oc=5",
-      "source": "UNITED24 Media",
-      "date": "Thu, 26 Nov 2026 18:20",
-      "published_at": "2026-11-26T18:20:34+00:00",
-      "category": "Germany"
     },
     {
       "title": "Middle East latest: Two Italians killed in Iranian drone attack in Kuwait - The National",
@@ -1614,6 +1622,14 @@
       "date": "Thu, 26 Nov 2026 17:21",
       "published_at": "2026-11-26T17:21:20+00:00",
       "category": "World"
+    },
+    {
+      "title": "German court rejects firearm permit revocations tied to AfD youth wing - Arab News",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNUmVSMWtidXVEbENlcU1yNzJnYnpwWGRFY1hGYThySG01QlZ0anhhRGI5NmVCT3Fva045TnRnbFp4cjZ2OUVqMUxvY0tWWXJsM1V3bFZIYk1jVGNGMnFGMXUwZEJQT1NTeUMyTW02dkRxWkJOa0dEbVY3aGtGR3kzbjFYU25qR3U3emx5SmlrRUxHdGxkZXBTdVZjcGVwVXpjVVlOb3VkY2IxQVVTeXc?oc=5",
+      "source": "Arab News",
+      "date": "Thu, 26 Nov 2026 17:17",
+      "published_at": "2026-11-26T17:17:05+00:00",
+      "category": "Germany"
     },
     {
       "title": "Laura Freigang: Germany forward banned for missing drugs tests - BBC",
@@ -1736,14 +1752,6 @@
       "category": "Nigeria"
     },
     {
-      "title": "America's Reading Crisis Demands More Than Concern. It Demands Action. - National Urban League",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOUm85alBfSzI4Y2szODlIcXZhOGM0TC1yVnNuNUJnbzhtS0Z1dWdYSk9qS3hZc1dSd3UxTEhoSlB4YThReU1ldXRJMHgwbERVTndVckJpV3duZmtCMlEycXZhTXZQV3gwY19jX1dZcW9TaUJWZ0NPZ1VGS3JXOE53eG1jZVpzbXJuWnNB?oc=5",
-      "source": "National Urban League",
-      "date": "Thu, 26 Nov 2026 16:00",
-      "published_at": "2026-11-26T16:00:00+00:00",
-      "category": "America"
-    },
-    {
       "title": "British SMEs hail government's EU food deal - GOV.UK",
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNSDBoSGhwWEhPd0YzUjRydVBDOEtCTTNUYXpxSDF4Tm53RjVhTlpHZkZGSF9GMm5vMDlZSGpobGF6RGUtTHMtclZGZ1ZYSzc5dFlaLUZYWlgzUWhid1hqdW12dTVWZ01VN2VRdHItbFBPYzBlUWlRWEgzMzBQaHBocnlyOA?oc=5",
       "source": "GOV.UK",
@@ -1752,12 +1760,12 @@
       "category": "Europe"
     },
     {
-      "title": "Zverev’s Germany miss out on Davis Cup semi with defeat by Great Britain - Arab News",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNV1dVQnBzakNVS0YzZEM3N2RoaWNyWWN4ZmpSekxPWU9SbkpCNmdUMkhlbmEtSzZzUmxoTVpXZjZvdHhnTHZTQ2RreEdLeTNYRjRXTjB3b20yalVoZHV2VC1YbG1GNVlJNWZHc1JrNHM1ZGgycFFvakI1bVpUY1VSWHRjUkNJWm9wT1YzZmtiTDdsa0o2S3JacDNXU2JBRFNJMEV4eWI2VUdOS2YxUUNRbA?oc=5",
-      "source": "Arab News",
-      "date": "Thu, 26 Nov 2026 15:44",
-      "published_at": "2026-11-26T15:44:46+00:00",
-      "category": "Germany"
+      "title": "Houthi attack targets oil refinery in southwestern Saudi Arabia: Coalition - Middle East Monitor",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNSDRtbmd0dkVXbU5qRjFhRXJfWElrMGZsSHBzTVpJUkhCaUJ5akVjbVZYQkVhbE82X3BzRkpMZWRzNS1Gck9YUF96NjBxTkJjR3pvU1JBQnN4V0pnMERKdGtYaU9PNlJTSFRXNmJDMktvR2h5YlJSS3FMUVR4RWlVYVBvMWJHdF96dUFCUDJFRnpraTRiNkFqaFU1VExVY1cxYk10QkZrQWlvSk9uREdmRExvUVJ5blZv0gG-AUFVX3lxTE9sc25oeUhiSUZhcTFnbWNuU1NXQlZZRmh3MXN3Q2YxLWRoQlpqTXFrZUZ5MzZ5RFlva1oxRUxBSkFiZGM0TmVsdmI3VEZ2aG1TVXNlS1BCZGRGS3VuR042LXN5dVpKczFpVkFXaEN0QWZ0MnFUT2NHMldBWUR2TkN5ZmplOGxjUmNrcTExQlRzLW5GRzFoVGVQWWFSU2h6YW9LdzliUVN4LXlRSVY4NTdxVXVTS3hqNjNIR0dkTlE?oc=5",
+      "source": "Middle East Monitor",
+      "date": "Thu, 26 Nov 2026 15:29",
+      "published_at": "2026-11-26T15:29:00+00:00",
+      "category": "Middle East"
     },
     {
       "title": "Plenary votes on Horizon Europe and ECF open way to tough trilogue talks - Science|Business",
@@ -1792,6 +1800,14 @@
       "category": "Entertainment"
     },
     {
+      "title": "Air Tanzania Deploys SITA Connect Go Across 15 Airports to Strengthen Network Security - TechAfrica News",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNTy0wWGd5bERjVmJraVQzQ1I1Y0JDNURyTEk4enRWcHU2RnBkNVRFQVdyMmJ6eUJpUncydllsWWZPajM0TEtwY1NMMlJOTVd6OENCMUFoMFZFRVZEdmthT0tuQTZLRmdfNWo0amp1U0dZcTVVTXE1UnpTclhaS05LQ2ZIem54aTlsampwU1BxRHNfOHJSRDd4ZFVB?oc=5",
+      "source": "TechAfrica News",
+      "date": "Thu, 26 Nov 2026 15:05",
+      "published_at": "2026-11-26T15:05:08+00:00",
+      "category": "Africa"
+    },
+    {
       "title": "Aid cuts push starving Nigerians into militant embrace - Arab News",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOT1ZnZHdELTJUTnY3ZXBKbU5rMWhKOWliMUNNd0IxWWEtT2JFSVVVMzVTUHpFdjB2RDZGcnVTMV9xdDUzdG81NTlfVmR0OXVSWUhmTUZvZk1pLW5JckltOHNlR3o3d2dvRV9EZmxqeS01ZUpYRDRTZVVSbHA4V0N1NUIyTTJLdFppeXV0LW5vRzFPTlBXZzdJcA?oc=5",
       "source": "Arab News",
@@ -1819,8 +1835,8 @@
       "title": "Safeguarding the UK against economic coercion - Chatham House",
       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOVUVWM09Dc28zeTJPcV8wRjFfS1dzSG8zemFWbTFIMmxIZ09ZSno2eThZTjlMTE40bFNnSGdIakk3VHlnSkhaNDBuMDdHS1V2ci1DSjFYckZyODJOZVp5SlMzOWtNSE9scVBWMTluVEs3QnlQbXpRNW5MYVBGMFJoQzVNZEs?oc=5",
       "source": "Chatham House",
-      "date": "Thu, 26 Nov 2026 14:36",
-      "published_at": "2026-11-26T14:36:38+00:00",
+      "date": "Thu, 26 Nov 2026 14:37",
+      "published_at": "2026-11-26T14:37:31+00:00",
       "category": "Politics"
     },
     {
@@ -1838,6 +1854,30 @@
       "date": "Thu, 26 Nov 2026 14:13",
       "published_at": "2026-11-26T14:13:45+00:00",
       "category": "Politics"
+    },
+    {
+      "title": "Germany’s push to recruit a new generation of soldiers | the breakdown - Channel 4",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNRzdJQUJlTHpRZ0R5MVBwQXdnaEJDaDJDLWZrZjEtZ1NVSTZMTXgyRkNCQUhBWjJVc0g5b1BzU0VqTTlSZUNfamkxZEM3dUc5c3lCdlVXa2lMcEpaNGxVRXQtVEZQWjJUS2wwRHp1YmtHTWhfb1RkOFQ3RnZ1eE5UTzY2aUtzSV9LaTN3ZkFrRU1odWRuaXlCRFlQYkhodw?oc=5",
+      "source": "Channel 4",
+      "date": "Thu, 26 Nov 2026 14:12",
+      "published_at": "2026-11-26T14:12:15+00:00",
+      "category": "Germany"
+    },
+    {
+      "title": "The last dance of the Spanish left - New Statesman",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPSkM2T0Y1UG5yTVNHMEpPdENha19jaVl4bWQ5WlpneDVYMzNVenVwcXNXTk5iY2NZX2ZIUWkzRDBKelZlOG5lLVIyME9VZGs0WUw4SGdibHRUUVhESDB1YXFCM0xxZ0ZpS0ZIR21VSXNQRG93VFNqVElXNjExa2pBRHUySk56STNjRzQ2bUV5bE9SZmliVTVZUWl3?oc=5",
+      "source": "New Statesman",
+      "date": "Thu, 26 Nov 2026 14:07",
+      "published_at": "2026-11-26T14:07:52+00:00",
+      "category": "Politics"
+    },
+    {
+      "title": "English restructuring plans in Germany: Frankfurt court confirms cross-border recognition - Freshfields",
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNX1kteUFHSXdJNHlkcV9qUFJkWUppa3dlU0hKWXBYTkh1amJuUktqVGJKUlVPLWlwdjFaSll5dVBFWlhqaXE3dXBlc05PdUVtWmtvT0ZSRW00LVZFbDM0bktsTml0Qzh6RFRMXzAzcV9nQ0doT2k4dlF4amVrNXZyM29uT2RhOVFUZExzbjRyS3ZfdzJTVV90MnlXSHJUVlAxRG9kZE5SdTY1NGotcGEtaUVTdjJyYWxvWVFjenlMSE0xTE9pQVpMbHp4X2V6ektmRVR5LUpBUVJ5VFZZbWZoWU00RUg1UQ?oc=5",
+      "source": "Freshfields",
+      "date": "Thu, 26 Nov 2026 13:54",
+      "published_at": "2026-11-26T13:54:06+00:00",
+      "category": "Germany"
     },
     {
       "title": "ITV News appoints first Middle East Editor - Broadcast",
@@ -1880,19 +1920,19 @@
       "category": "Business"
     },
     {
+      "title": "Ransomware Attacks in Africa Could Cost Businesses Over $368,000 Per Incident - FF News",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPZDY2eS1IdVNaVFI4OFNXZFZnR2xnOXBSQWtacFpoMzVreUpWNzUwWVdEbTl3VzY0NVBXQWZKcjQxMWNSQWdHaGptdTBKc1d4RnpuZTR2ZFZ2clU5ZmppRDktUjVJVWViaG03RndGbDRibDBNbHRCaGVSemVxQjBIZDdlRG9fZmNJT1E?oc=5",
+      "source": "FF News",
+      "date": "Thu, 26 Nov 2026 13:28",
+      "published_at": "2026-11-26T13:28:06+00:00",
+      "category": "Africa"
+    },
+    {
       "title": "Global anti-doping community, including the Council of Europe, gathers in Astana - Council of Europe",
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPNXhKdjl6eGtZWXMxSFZ2VUNUOHo0aElWRFMzajFLa1A0elJ4Q3VQZDREeDR5Z01zRkoyV3gxYW1jV0RFNTIzdEFLTlNaYm1oeEpWdzA1SldXYVQ5OWhxcWQ2RHlaZ2lNXzE0MC10d2dpMXBjLWFUTW1NUGNZVEF0OGFtWHQzV2VqTjhGc3NISWtlQ2JXek1CQWVGRlNjMWRESlpkNG9QelIzZ21qQlhPcFBsMFI?oc=5",
       "source": "Council of Europe",
       "date": "Thu, 26 Nov 2026 13:17",
       "published_at": "2026-11-26T13:17:33+00:00",
-      "category": "World"
-    },
-    {
-      "title": "The Council of Europe calls for responsible governance of AI at UN Security Council - Council of Europe",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPOGhtT1ZHNzdYTlhfZUpHdF81NVY2SHlXR0E0V19kdWc4WndxeDFCLU9uM2FZeWhqYnZIalF0TkY2cHlZaEdWazZBTDZnN2dTMVBzeWNDaGE3YXgwd09GeGVPRWFMV0RlUTFYSFk4Q3pCYzZCbk9TQzhHc1JHREd0Zmw1RGl3dWFDUEZnSWJpRTV5cWRINldIZGdtdU8wLUJBZjNfSXhoT3YyRlRxTlFSNEJnRk1lVV9SMmln?oc=5",
-      "source": "Council of Europe",
-      "date": "Thu, 26 Nov 2026 13:16",
-      "published_at": "2026-11-26T13:16:01+00:00",
       "category": "Europe"
     },
     {
@@ -1928,6 +1968,14 @@
       "category": "America"
     },
     {
+      "title": "A Game-Changing Move Just Gave America the Edge Over China in AI - WSJ",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNc1dvWjR3SFB3M2hyVEtON1huQkRwWGJsX3g3aWZZS3ZpYVpsRjgtR3VfWjQyNGRhSWpRbENpTWVzNGNoNEhZbzBxaU51aE5lb3otbDF4d0JtRm0yak1lX1dtV1k2My1TZlBKbVA5OU9sRjhxZlk1NGVrX1FGcVFoZHdOcVNhMERSZkhaSHlPN2FKcHFVbTZUbm5FUmdtbmc?oc=5",
+      "source": "WSJ",
+      "date": "Thu, 26 Nov 2026 12:42",
+      "published_at": "2026-11-26T12:42:00+00:00",
+      "category": "America"
+    },
+    {
       "title": "Hochschild Mining plc (LSE:HOC) Climbs as Silver and Gold Output Across the Americas Keeps Attention Firm - kalkine.co.uk",
       "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOSTJRbkw0NFB0clp2TGVxdjYtbTZ6cWotenBaV2NObU5ualZXVDNnamdrblRUcmlIQ1pndUE0RnJKeE0yVDJXN3Q2SmhpWVFqOGttTEhKa1IzN2QzZGpieHZzMVF4a3dqOW5fVmRacGdMM3NNZlV2X2txdGd0eUthWHJBRWN5d2t0Rnp6QnhYU1BnNlBNSHNFZlFKc0djTUNBRGRfREV5T3JLVXZjbDFlWHpIU01KZTJQQ1VGNlNyZ05GanRiVnExeUE0aU0tbjBkaUE?oc=5",
       "source": "kalkine.co.uk",
@@ -1952,14 +2000,6 @@
       "category": "Politics"
     },
     {
-      "title": "High spending, low impact: Can Germany’s defence policy deliver on strategic ambition – and deter Russia? - Wired Gov",
-      "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPWEI4US0tTk5tNkZwY3JfcTY1d2pIZ0tuc0loaGlsMmE0RDJic1I0Vl81TnNDcUtaTExqVDd0cjJiYVhSQnVGYUNUeWxVV09ueWhNWEI2ODZLRFF4MVJaUXNtbHl4cGItQ0ZFZ29hLUhNVFhoVTlPU1FBYmllV1RWUlZfbXkzQ3NQQklCNU90WVZwRjl0MjJmd1lNN0JYOG1jSm9pd01Vbkx4QUNyQ3Q3X0hNamZfbm5FWnZHUTJBNmM2TUNVVjJCbUw5aE91UHBjR3lPdEFGZDBrVHBmWUhkVmhMNVlHS0ZyNWRNWFZiZkdEYm8zam91VS1MRQ?oc=5",
-      "source": "Wired Gov",
-      "date": "Thu, 26 Nov 2026 12:24",
-      "published_at": "2026-11-26T12:24:55+00:00",
-      "category": "Germany"
-    },
-    {
       "title": "Lebara Nigeria Partners OPay to Enable Direct Mobile Line Recharges - TechAfrica News",
       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOZkNnSkVob2MxdnhfTWhMT21CWkxXekZIX2diWDk2TlROX3pvUXZacEhkTFlFU1o1anVkVTNzTzR0WURwdG1xU2tkblo0M1AtdDI5XzV4R1dnWWE0eDRreWpSamZraXNzRVNZQjhxd1BEYmhsRjdkVDBFM0FTV0NJd2N2Q05leDNsLU9UTjRfQ0Q5VlQ4SFE?oc=5",
       "source": "TechAfrica News",
@@ -1976,14 +2016,6 @@
       "category": "Entertainment"
     },
     {
-      "title": "Women leaders in HE: Participation-progression gap persists - University World News",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE04VkVNel9BNE9BTlpUYU5BM183MU5tbmREQUdzNG1TVWIyeHRwZzhILS1jWlVLNkkwTEtXYmlsYnRKYlNfaTUtb0FYS0lYbzAzMWh2X2ViX1J6ZFNFUGk4amV2UU03M3RfSnU3ZEZfXzFmTldvb3Fr?oc=5",
-      "source": "University World News",
-      "date": "Thu, 26 Nov 2026 12:09",
-      "published_at": "2026-11-26T12:09:40+00:00",
-      "category": "World"
-    },
-    {
       "title": "What should a university in Africa be for? What AI reveals - University World News",
       "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9JTVNXMlU0RlFuOElkZl95LW1zQlUzN09SdU8xLXI4SV9QOHl1Wnh4TUJZR3Nwa1ozT0FQVEdPQWRraS0tMVM3c2o2ak9OTTl2UFRtckI4cENQRWpZUENXTVV5M0ZIOWkwejU5OWxWR09QZEZEOC1N?oc=5",
       "source": "University World News",
@@ -1998,14 +2030,6 @@
       "date": "Thu, 26 Nov 2026 12:06",
       "published_at": "2026-11-26T12:06:43+00:00",
       "category": "Sports"
-    },
-    {
-      "title": "Energy: Africa's industrial push meets transition pressures [Business Africa] - Africanews",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxORWNCRUJiR2Vfdkw3MnhqODZtTER0ZmhfcG9XcGtKRGlGbmg1ZG0zMHFwdXduSUl4ODloYnNzbDRrejBwdThOLXQxenpESkpNZVVjMmlUd3RPR2VWNEx5b0U1bzRhR0FEdWVLcnd4X2JoaEV5SFBOUTlnWm5aTFRwdGtSamw0UTVkb1N5b0ZYLS1Va21aVl9Zekd0aUF6RnczbUhILWxHbGJrRGVXWDJNRkRn0gG3AUFVX3lxTE1oOWtCYVdmMFNwc0RqMkFTallLSk1ZNWlUa2QwNWxQTzRpa2ZkMmhyTTYweExRTlcxUnJPX0NGMng4bkM1UWRFYnRIbHpKTlByZzBydHdvcjB6OHRkMnp4Y0hvYk9hX0V4cUVVbC1YZzZUdURnclhiT0o0ZTJncEVtWlM0YWZ4RU1XYTdnYzVmR1BPYnZqNTNYWjJJNVExVHdsUkg3ZHpnWkJUOEd1eUtRNnFFZmlObw?oc=5",
-      "source": "Africanews",
-      "date": "Thu, 26 Nov 2026 12:01",
-      "published_at": "2026-11-26T12:01:31+00:00",
-      "category": "Africa"
     },
     {
       "title": "UPDATED: Oshoala celebrates new milestone with MSc in International Sports Management - Premium Times Nigeria",
@@ -2046,6 +2070,14 @@
       "date": "Thu, 26 Nov 2026 11:00",
       "published_at": "2026-11-26T11:00:39+00:00",
       "category": "Africa"
+    },
+    {
+      "title": "Electric trucks gain ground as Europe faces the wider challenge of making transport sustainable - European Environment Agency (EEA)",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNRXZSNHZhd0xTM3d1SU1NRVhIVW85d3I3YlBTbTc4bkhnUUhpNkNqTjlOMWJweVd4b2dPeVZpTUg1eXl5WHE5S0RFZmp5RGZpMERld3lPU0xzQzJ5NmlKeEtSYXE1SGZ1WkpBS3dZb0c2M0xRbTN4LVFwUGRvZlZ5ZFZuVWN5ODlfaUN5MWxQTXlfX2RpY1Fnay03bVR6WjMzQTFiS21qTXNPSm1raTQ0T1ZBdUJvYnBVX2VWc05yREpsUDVidjlpdURyQVFsYlp2aHRkdQ?oc=5",
+      "source": "European Environment Agency (EEA)",
+      "date": "Thu, 26 Nov 2026 11:00",
+      "published_at": "2026-11-26T11:00:00+00:00",
+      "category": "Europe"
     },
     {
       "title": "South Africa consults on tightening controls on illegal mining and metal theft - Pinsent Masons",
@@ -2096,14 +2128,6 @@
       "category": "Middle East"
     },
     {
-      "title": "Prince Harry 'misses' being part of Royal Family, former politician Nadine Dorries says - Daily Express US",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNNzFpa2g4UEJtTTRFZGNrT0RzdHREa21MdGl5VjNxNi1ySHl3S2hOR24zUkFMaTVSUXBKOGZqTlhjbUhnbmxISHlpOEZGSHM3NHdFaE12OVpmUS1JYThGTG8zZUF1QXoxaHVrTTRHWXpUZk9iTnViS01OT3IzQnI5Zlp4S3p2UThRM3B1cnJaZnBneUV4TFhhX2hzTzM5VG1EUlHSAaIBQVVfeXFMTTcxaWtoOFBCbU00RWRja09Ec3R0RGttTHRpeVYzcTYtckh5d0toTkduM1JBTGk1UlFwSjhmak5YY21IZ25sSEh5aThGRkhzNzR3RWhNdjlaZlEtSWE4RkxvM2VBdUF6MWh1a000R1l6VGZPYk51YktNTk9yM0JyOWZaeEt6dlE4UTNwdXJyWmZwZ3lFeExYYV9oc08zOVRtRFJR?oc=5",
-      "source": "Daily Express US",
-      "date": "Thu, 26 Nov 2026 10:21",
-      "published_at": "2026-11-26T10:21:15+00:00",
-      "category": "Entertainment"
-    },
-    {
       "title": "Housing in Europe – 2026: latest facts and figures - European Commission",
       "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9KYnM0LUUxcGoxcFFRMElSYnVYQVNqMHRsUFdRVmJPQ2NLR2tsVXBwalYwNlU5VGJHbnl3LVBxZGpkbm5MU3ZNSDZlNHI3MDd3Tkl3M2RBSVE4RjFOczlSWjl4R3pUUktmbzk5OVBqSENEMTIwQlNqU0JGTXJzZw?oc=5",
       "source": "European Commission",
@@ -2134,14 +2158,6 @@
       "date": "Thu, 26 Nov 2026 09:27",
       "published_at": "2026-11-26T09:27:08+00:00",
       "category": "Middle East"
-    },
-    {
-      "title": "Russell Group statement on landmark UK-EU summit - Russell Group",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOUXk5bURpSW12N0tWYXdzZzNLSDJZaWFIZzVJczBnUXU4S05rX21WTHl1U003WVZaUzVNdTNCNXd0Q01tMmhQSWprSnptekI0enAyYTJhOU45NTZnaXNFSVJQSGJVdUZQZG9CLVItMXNOUzdsUGk0cGF0ZzkzNnZNMklHdU41Q2h5?oc=5",
-      "source": "Russell Group",
-      "date": "Thu, 26 Nov 2026 09:19",
-      "published_at": "2026-11-26T09:19:28+00:00",
-      "category": "Europe"
     },
     {
       "title": "'Cutting Costs' Bill to make doing business with Europe cheaper and easier - GOV.UK",
@@ -2176,36 +2192,12 @@
       "category": "Politics"
     },
     {
-      "title": "Tourism Manifesto Press Release EES Implementation Issues: EU Action Required - Airports Council International Europe | ACI EUROPE",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPTmJBZ1FzS3JYNkQybGdaQ2RfakFsMEpKUXRLMXB5Y3I3QzFPclJzaGIwdEZzdE44VndBb2V3TkREVUtTR0k0RzJSYUg3TDdWam1PbkRWN1RPYUJDMVFTaE1kalNpOURZb0J5MF83ZldjVG1KMHFiQlQ5SVc3YXcwblRaQkxDY0x4QVRNXzNCRVg1dkVWNWRSYWM0Vkw2WUQ2MThOekM4bFBKa0hVQ0x1NHFnUlFKYUlCd19xZG02R05CandE?oc=5",
-      "source": "Airports Council International Europe | ACI EUROPE",
-      "date": "Thu, 26 Nov 2026 08:13",
-      "published_at": "2026-11-26T08:13:40+00:00",
-      "category": "Europe"
-    },
-    {
-      "title": "Morning update - Middle East Eye",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOM3BtdTZSaE1XU1AtZlhsYkhocWNPMWJjUmZ0bE5DQ2VQaHJhUnZDbDFpZndQa3RjZGNzck5hUTd5b0pQT2dmUkdIblJZXzkzQkl3ZUdkU01fMVZ6RTlnOVZSYjE3eFY4bDdScDk4dHJWekhFSlYtTHA4VmlRdGVvdw?oc=5",
-      "source": "Middle East Eye",
-      "date": "Thu, 26 Nov 2026 07:44",
-      "published_at": "2026-11-26T07:44:00+00:00",
-      "category": "Middle East"
-    },
-    {
       "title": "Lukoil's global retreat driven by politics, co-founder says - Reuters",
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNVmNXS0Y1OVU5UjE3ZnlFSUhmT3dIVlhlM1hxS0NLMnExWmxQaGdRQWpPSmlxdEdUdzRfQzBOX3BpRnNEMjhZRnBoc1pzSnhRQTNVamRZM2Jyd3UxbEw5b3lxcDJwMlVZcjhWa0tvcjVWdHFpczRrNG16N0cwUWZqN1BkUmpxZnpfem1UazZuQXNsMDFVWmhHQ0hONjhDVUtyNW5YVzJrQkR4TFpOMGc?oc=5",
       "source": "Reuters",
       "date": "Thu, 26 Nov 2026 07:34",
       "published_at": "2026-11-26T07:34:00+00:00",
       "category": "Politics"
-    },
-    {
-      "title": "Houthis claim attacks on Saudi ports of Jeddah and Jizan in response to Hodeidah strike - Middle East Monitor",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNbDEybG5ZUGJ3V19MTjhzUXdQZ3AwZlJsUU81VFNVcTFfTV9WQi1PRFJyZzJmdVVuLWIwVXFXcHEydU5JeVVmdEk1YkZyejQyZ2ZQLThmTExWY1pzdnRGam12OGZqencyM0V3U3hiaU9XbGdSajdoc19oRWo3alpmYTk2UlVER25YbFFPMDRuRTJHbTF6Umwwdks3OGtuZVRVT3kwTjdFbVowRHpGSmZGbWlJUHlZYVgzWUd2Q0ZGZ2JhM1ZDZlVSbVZaWdIB0AFBVV95cUxOMFdiZVlWcVVaUzY3cm9VTUotTkRpNXZWMkJHWTdHZ2VpZ3FVX256d3lzYUxuV3pRYzF0dDFQU0J5My1wdnUyckJQMzRIX0hNODdUODVhNXduSG5iRXZxSGh4MHg2ME82TFpjWVc0OTNmMmdsT0ROWG5nRk5IMGhoMHNUVjhBOHFLMmFpTkJ4X1BkdjNqVVBPT3ZwcE1QMEJLZy1QTWZlS1hhd3Zud1FVS2F0cGt3RVd4elFibkFOVmk0TFhubXNPTk9sdFR5aUxv?oc=5",
-      "source": "Middle East Monitor",
-      "date": "Thu, 26 Nov 2026 07:33",
-      "published_at": "2026-11-26T07:33:00+00:00",
-      "category": "Middle East"
     },
     {
       "title": "Trump's new tariffs aim to prise global trade from China's grip - Reuters",
@@ -2280,12 +2272,28 @@
       "category": "Business"
     },
     {
+      "title": "Extreme violence sweeps country where witchcraft is feared - Sky News",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPbW94c2g1STQwa1NBRUpoY2hKZ1RNTmcwTVhwYWpMUDNWVmx2eDNWc3JleFJrQ2loRUs0WVNrb2RnZjJJdmVnZUIxd2pRQ3RiVzVYOW1uUFU4Mjk3UXZWOEVhZzllVUpmYWFhNDJaajBXU1R0eWV0X05vbVlJOVZWUDJPekNlQ25Kb3NvaTlUTVEtcUNjVW0yakFrNUlycXJnRGdyeVVUM0c?oc=5",
+      "source": "Sky News",
+      "date": "Thu, 26 Nov 2026 04:01",
+      "published_at": "2026-11-26T04:01:47+00:00",
+      "category": "World"
+    },
+    {
       "title": "Michael McIntyre to make Dubai Opera debut in January - Gulf News",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQOEJBaTU1dXE3S0Q4MUFkZml5aTZsQnp6LVlDVi0wRHRibkRQYzhnd2ZjZlFocUNPNVZLMUd1cWM3bzlaMW9hMno3VEpvelZ0UERWbFB6bXBkdkFWM2FjNHlDOHNMdXdiTDVSb19LdXNMZE9rYWM2Wjc1QTgxSjZVTlFiVzZETnNfdDNGVm9rbFpaWDVqdXJqdVBQUVdCYklIenfSAbIBQVVfeXFMUE9DRUZxX3ZBVTJDVlduNDRHS0ZEbHFScDM1MEtLUkt2TElNQUtTbmV0WG55REtIWWZiTEw5c1pFOThTRFpoaU9TSkRhc2RPNi1zLWg3N3dlRzdISktHVDNaRVhNa3haLXlsZVp1RENFb0pnMlA4YmVLal9EMFRfZERVMXM0eWxURGQtSjd4LU16Z0M0YldnWGRjTGZrbFRNOWFmeEJqLUVXQUZ4a3l0eXRKZw?oc=5",
       "source": "Gulf News",
       "date": "Thu, 26 Nov 2026 04:00",
       "published_at": "2026-11-26T04:00:00+00:00",
       "category": "Entertainment"
+    },
+    {
+      "title": "New UK-EU treaty has 10-year termination clause - BBC",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9xM2NsTTBibWlhUDM0Q1NtMjdYRWhTRzF6aDBWWC0zSmRSZEpjbFYzOXcxNm9OR3RZWFk1eTdjb3pWLUM4Qy0wT2NNekJKUWN6aUU5eEpocEJ3dTRqb0E?oc=5",
+      "source": "BBC",
+      "date": "Thu, 26 Nov 2026 02:13",
+      "published_at": "2026-11-26T02:13:00+00:00",
+      "category": "Europe"
     },
     {
       "title": "PAHO calls for stronger surveillance amid increase in mpox cases in the Americas - Pan American Health Organization (PAHO)",
@@ -2296,14 +2304,6 @@
       "category": "America"
     },
     {
-      "title": "Business in a slowing economy, but a faster pace of change - William Buck Australia",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNMnh0elJHSFRvQUpZZWFYb21oY1ZwUm9VSEtIZ09vaGFFd1NzY1h5bEdILWpJeE9qU2QxZWJud3hvN0xfbC1lTTRMTk5WajRHVmdoeG1qQm4yNkRaRk93LVRTX2FxZHpLUEFYcWJ3Ny1vaWxJc3B1OUVCTjMzSHd5RVZFa1VpYzRPMnBGNDdVbmJzMFYxZktMdS1zR0d6YUw0NjRPT3dnbw?oc=5",
-      "source": "William Buck Australia",
-      "date": "Thu, 26 Nov 2026 00:03",
-      "published_at": "2026-11-26T00:03:19+00:00",
-      "category": "Business"
-    },
-    {
       "title": "Raheem Sterling: Former England international given suspended 12-month jail sentence for dangerous driving - Sky Sports",
       "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPWVhIZGhoR3N6OUJfb0Vxd2NxaXNFV05jdGZUT2dXMDZmUVVKT1Jua1V2U3h2VUN2Z04yTzcxbW5QZmtWbEU2VTlXTG1fdUthSTZxcUFKQks3UTBBM0xYT0ZZdVN2bm04Y3lIdThmZzdGNDdHcVFtREhuc2ZoRzJwR3JJbUFVQmkySi1UQWQxdjBlRVdVdkF3UEhtMjZTakFacWVTcFNjTVNnYkVHUGxvVWJMV2NMeGM4Tkp0TEF5YXp3QzR4bGxpV2JUR1VDTnlUNmZESlZCdGdMVTgwZXFfeTROdG9Db29ObUE?oc=5",
       "source": "Sky Sports",
@@ -2312,12 +2312,20 @@
       "category": "Sports"
     },
     {
-      "title": "Good Playlist: Global inequality ▶️ - Good Authority",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE0yVVBnMVNDN0k4MU9ZekN1SW54djMyaEhTRXZDV1B3X09OYjRiTDhNQWdBYzlscmRIeU9BVXVNOGZJSy1rak42bER1aUZqUml4Q1lzbUdnQk1yWnpDc1p2MmlDWkp4RmxfNUZCRW83SWU?oc=5",
-      "source": "Good Authority",
-      "date": "Wed, 25 Nov 2026 21:42",
-      "published_at": "2026-11-25T21:42:08+00:00",
-      "category": "Politics"
+      "title": "Duran Duran guitarist Andy Taylor dead at 65 after 'courageous' cancer battle - The Mirror US",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQNzdvRFdhNG9HRktDcmNjVmdvV21DMEtENEhKZUh2WXJpbWViYWhETzhnUkFDUjNsNmVwcTVTaEJqVi1WdWtRbUoxclpHbWVVemdzUm1jcXRSZ1QwTl85cFVGZlRQNHJyWHFScVJCaVR0anNpYWpzODdVR0tIM0JFTFI4dE8xejJvRFBrcWFCQXIzWC1sT085S2R2TdIBmwFBVV95cUxQNzdvRFdhNG9HRktDcmNjVmdvV21DMEtENEhKZUh2WXJpbWViYWhETzhnUkFDUjNsNmVwcTVTaEJqVi1WdWtRbUoxclpHbWVVemdzUm1jcXRSZ1QwTl85cFVGZlRQNHJyWHFScVJCaVR0anNpYWpzODdVR0tIM0JFTFI4dE8xejJvRFBrcWFCQXIzWC1sT085S2R2TQ?oc=5",
+      "source": "The Mirror US",
+      "date": "Wed, 25 Nov 2026 21:44",
+      "published_at": "2026-11-25T21:44:00+00:00",
+      "category": "Entertainment"
+    },
+    {
+      "title": "LOS ANGELES AUTO SHOW HEADS INTO THANKSGIVING FOR FIVE MORE EXCITING DAYS OF AUTOMOTIVE ENTERTAINMENT, CELEBRITY APPEARANCES AND FAMILY FUN - PR Newswire",
+      "url": "https://news.google.com/rss/articles/CBMinwJBVV95cUxQM2xIODZFWEgzLXJqZVNaRU5rbEJ1RXR4VnFpOGZtemMwZEhXaWNJTi1CSnA3dWVjX013Qy1wcHFHRGZtdjRvNnZVU2c4NFh3eHo5TlRpcGtkUTJNVkJiU1FBUjUzLUVMTVZNUWZWZXVDZGgwbV9hcDlsSkRCVGJheWRoXzBvUnNwclpVdnpZRlNPRGVmclVlaEIzMGVhZlZkRFZraFRMMTd1ZnkxY3dVSFU2dGVLWWhLY2cyYkNGbk9DWTl2dHNVQmI2UklMQmItTExzWXAtTjJ0RGZhMW53SVJtbjRpaDZFc3VaUU5UUjIydFkwYnFkTFFiQVBFQWpOeThfUFpaZkpJR0ZEbzFoLXA1NjhXOVNOYndmUHR5bw?oc=5",
+      "source": "PR Newswire",
+      "date": "Wed, 25 Nov 2026 19:55",
+      "published_at": "2026-11-25T19:55:00+00:00",
+      "category": "Entertainment"
     },
     {
       "title": "Nigeria’s Tinubu pledges to bring peace to rebellion-hit border region - Al Jazeera",
@@ -2368,12 +2376,12 @@
       "category": "Entertainment"
     },
     {
-      "title": "Man falls to death from Hollywood building home to stars - including Katy Perry - The Mirror US",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPckZ3a3I3VEJpemZndTd5ZU93cHhCcktYYWxPeTVOY2xZbFRBZFZ4bU03MlpvNlM2R09ycmxIQWZGSXFuMks1czdTTGdJeG5EdkZYLXVCd2lDbkl2ZnZ4VmJfVDU5bHQ0MEhMcHVzU3Fqd0FfZlFvNjJWbnU4Q0NQQUY3TmtkZHFyVl9TbEZyU1VHc2paNWgtYlZRWnpUM3I20gGgAUFVX3lxTE9yRndrcjdUQml6Zmd1N3llT3dweEJyS1hhbE95NU5jbFlsVEFkVnhtTTcyWm82UzZHT3JybEhBZkZJcW4ySzVzN1NMZ0l4bkR2RlgtdUJ3aUNuSXZmdnhWYl9UNTlsdDQwSExwdXNTcWp3QV9mUW82MlZudThDQ1BBRjdOa2RkcXJWX1NsRnJTVUdzalo1aC1iVlFaelQzcjY?oc=5",
-      "source": "The Mirror US",
-      "date": "Wed, 25 Nov 2026 02:21",
-      "published_at": "2026-11-25T02:21:00+00:00",
-      "category": "Entertainment"
+      "title": "Iran war starts to hit global economy, business surveys show - DD News",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQaE9DUWFpZGFtZU9ibW1rZTJ4cmhOaS15Sl9YbjNzczNoa1IwLXVVTkxaQWlnRy1NcE5FYWI3R2NGR2FxeHFxc0FxX0JlendiMEdXR3RDOWpaV3JlRl80TUtJdi1jalpOT0RjX0dqU0t5QkdrX1dLX2dUOFN0al9TNUxVa3ltdEtpTE1KRWtR?oc=5",
+      "source": "DD News",
+      "date": "Wed, 25 Nov 2026 06:26",
+      "published_at": "2026-11-25T06:26:52+00:00",
+      "category": "Business"
     },
     {
       "title": "US announces new tariffs on host of countries including China - BBC",
@@ -2382,14 +2390,6 @@
       "date": "Wed, 25 Nov 2026 00:38",
       "published_at": "2026-11-25T00:38:01+00:00",
       "category": "Business"
-    },
-    {
-      "title": "Cyber Statecraft and the Middle Ground - Carnegie Endowment for International Peace",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOUy1YS050b21JOFlhQlVGR3pXbjNwdVlxQTV2NjhPdjZxeXFFVU1zbFN2NGZJWERHSWRNb200V1F2SEJzYndyYWNRZ1RxVzVwcVJtbzNPQ0hNN0tYT29sWjJkZExVQzhCYzFZTm1SQ3BsWUNGV2QtdnBMdHpsdWpKSFNqTU81akVaV3l3M1RR?oc=5",
-      "source": "Carnegie Endowment for International Peace",
-      "date": "Tue, 24 Nov 2026 22:43",
-      "published_at": "2026-11-24T22:43:15+00:00",
-      "category": "Politics"
     }
   ],
   "jobs": [
