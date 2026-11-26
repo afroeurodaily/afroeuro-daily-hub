@@ -325,6 +325,92 @@ async function loadFeeds() {
     ).textContent = 'Updates unavailable. Check back later.';
   }
 }
+async function loadJobs() {
+  const section = document.getElementById('jobs');
+  if (!section) return;
+
+  try {
+    const response = await fetch('./data.json?t=' + Date.now());
+    if (!response.ok) throw new Error('Jobs unavailable');
+
+    const data = await response.json();
+    const jobs = Array.isArray(data.jobs) ? data.jobs : [];
+
+    section.querySelector('.pill').textContent =
+      jobs.length + ' JOBS';
+
+    section.querySelector('.heading p').textContent =
+      'Latest jobs and career opportunities';
+
+    section.querySelectorAll('.listing').forEach(el => el.remove());
+
+    let feed = document.getElementById('jobs-feed');
+
+    if (!feed) {
+      feed = document.createElement('div');
+      feed.id = 'jobs-feed';
+      feed.style.maxHeight = '650px';
+      feed.style.overflowY = 'auto';
+      section.appendChild(feed);
+    }
+
+    feed.replaceChildren();
+
+    if (!jobs.length) {
+      feed.textContent = 'No jobs available right now.';
+      return;
+    }
+
+    jobs.forEach(job => {
+      const card = document.createElement('div');
+      card.className = 'listing';
+
+      const title = document.createElement('strong');
+      title.textContent = job.title || 'Job opportunity';
+      card.appendChild(title);
+
+      const details = document.createElement('div');
+      details.className = 'small';
+      details.textContent =
+        (job.company || '') + ' | ' + (job.location || '');
+      card.appendChild(details);
+
+      const type = document.createElement('div');
+      type.className = 'small';
+      type.textContent = Array.isArray(job.job_types)
+        ? job.job_types.join(', ')
+        : '';
+      card.appendChild(type);
+
+      const badge = document.createElement('span');
+      badge.className = 'chip';
+      badge.textContent = job.remote ? 'Remote' : 'On-site / Hybrid';
+      card.appendChild(badge);
+
+      if (typeof job.url === 'string' &&
+          job.url.startsWith('https://')) {
+        const link = document.createElement('a');
+        link.href = job.url;
+        link.target = '_blank';
+        link.rel = 'noopener noreferrer';
+        link.textContent = 'Apply Now →';
+        link.style.display = 'block';
+        link.style.marginTop = '10px';
+        link.style.fontWeight = 'bold';
+        card.appendChild(link);
+      }
+
+      feed.appendChild(card);
+    });
+
+  } catch (error) {
+    console.error('Jobs update failed:', error);
+    section.querySelector('.pill').textContent = 'UNAVAILABLE';
+  }
+}
+
+loadJobs();
+setInterval(loadJobs, 300000);
 
 loadRates();
 loadFeeds();
