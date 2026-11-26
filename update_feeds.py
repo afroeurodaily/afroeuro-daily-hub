@@ -149,40 +149,100 @@ def football():
     )
 
 def jobs():
+    previous = {}
+    try:
+        previous = json.loads(
+            (ROOT / 'data.json').read_text(encoding='utf-8')
+        )
+    except Exception:
+        pass
+
+    now = dt.datetime.now(dt.timezone.utc).timestamp()
     out = []
 
-    try:
-        url = (
-            'https://www.arbeitnow.com/api/job-board-api'
+    for source, url, field in [
+        (
+            'Arbeitnow',
+            'https://www.arbeitnow.com/api/job-board-api',
+            'data'
+        ),
+        (
+            'Remotive',
+            'https://remotive.com/api/remote-jobs',
+            'jobs'
         )
+    ]:
+        cached = [
+            j for j in previous.get('jobs', [])
+            if j.get('source') == source
+        ]
 
-        payload = json.loads(get(url))
+        if cached and all(
+            now - j.get('fetched_at', 0) < 86400
+            for j in cached
+        ):
+            out.extend(cached)
+            continue
 
-        for item in payload.get('data', []):
-            link = item.get('url', '')
+        try:
+            payload = json.loads(get(url))
+            items = payload[field]
+            collected = []
 
-            if not link.startswith('https://'):
-                continue
+            for item in items:
+                link = item.get('url') or ''
+                if not link.startswith('https://'):
+                    continue
 
-            out.append({
-                'title': item.get('title', ''),
-                'company': item.get('company_name', ''),
-                'location': item.get('location', ''),
-                'remote': item.get('remote', False),
-                'url': link,
-                'tags': item.get('tags', []),
-                'job_types': item.get('job_types', []),
-                'created_at': item.get('created_at', 0),
-                'source': 'Arbeitnow'
-            })
+                title = item.get('title') or ''
+                company = item.get('company_name') or ''
 
-        print('Jobs collected:', len(out))
+                if source == 'Remotive':
+                    location = (
+                        item.get('candidate_required_location')
+                        or 'Location not specified'
+                    )
+                    remote = True
+                    tags = [item.get('category') or 'Remote']
+                    job_type = item.get('job_type') or ''
+                    types = [job_type.replace('_', ' ')]
+                    tags.append('Source: Remotive')
 
-        return out
+                else:
+                    location = item.get('location') or ''
+                    tags = item.get('tags') or []
+                    types = item.get('job_types') or []
+                    remote = (
+                        item.get('remote') is True
+                        or location.lower().strip() == 'remote'
+                    )
 
-    except Exception as exc:
-        print('Jobs feed unavailable:', str(exc))
-        return None
+                collected.append({
+                    'title': title,
+                    'company': company,
+                    'location': location,
+                    'remote': remote,
+                    'url': link,
+                    'tags': tags,
+                    'job_types': types,
+                    'created_at': now,
+                    'fetched_at': now,
+                    'source': source
+                })
+
+            out.extend(collected)
+            print(source, 'jobs collected:', len(collected))
+
+        except Exception as exc:
+            print(source, 'unavailable:', str(exc))
+            out.extend(cached)
+
+    unique = {}
+    for job in out:
+        unique[job['url']] = job
+
+    print('Total jobs:', len(unique))
+    return list(unique.values()) or None
 
 
 
