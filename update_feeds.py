@@ -52,7 +52,7 @@ LEAGUES = {
 
 def football():
     today = dt.datetime.now(dt.timezone.utc).date()
-    start = (today - dt.timedelta(days=2)).strftime('%Y%m%d')
+    start = (today - dt.timedelta(days=7)).strftime('%Y%m%d')
     end = (today + dt.timedelta(days=2)).strftime('%Y%m%d')
 
     out = []
@@ -62,7 +62,7 @@ def football():
             url = (
                 'https://site.api.espn.com/apis/site/v2/'
                 f'sports/soccer/{league}/scoreboard'
-                f'?dates={start}-{end}'
+                f'?dates={start}-{end}&limit=1000'
             )
 
             payload = json.loads(get(url))
