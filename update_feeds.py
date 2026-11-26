@@ -148,6 +148,43 @@ def football():
         key=lambda x: x['date']
     )
 
+def jobs():
+    out = []
+
+    try:
+        url = (
+            'https://www.arbeitnow.com/api/job-board-api'
+        )
+
+        payload = json.loads(get(url))
+
+        for item in payload.get('data', []):
+            link = item.get('url', '')
+
+            if not link.startswith('https://'):
+                continue
+
+            out.append({
+                'title': item.get('title', ''),
+                'company': item.get('company_name', ''),
+                'location': item.get('location', ''),
+                'remote': item.get('remote', False),
+                'url': link,
+                'tags': item.get('tags', []),
+                'job_types': item.get('job_types', []),
+                'created_at': item.get('created_at', 0),
+                'source': 'Arbeitnow'
+            })
+
+        print('Jobs collected:', len(out))
+
+        return out
+
+    except Exception as exc:
+        print('Jobs feed unavailable:', str(exc))
+        return None
+
+
 
 
 
@@ -262,7 +299,9 @@ if __name__ == '__main__':
 
     scores = football() or old.get('football', [])
     headlines = news() or old.get('news', [])
-
+    vacancies = jobs()
+    if vacancies is not None:
+        old['jobs'] = vacancies
     old.update({
         'updated_at': dt.datetime.now(
             dt.timezone.utc
