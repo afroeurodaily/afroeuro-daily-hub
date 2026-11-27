@@ -44,7 +44,10 @@ class Handler(BaseHTTPRequestHandler):
         if cookie:self.send_header('Set-Cookie',cookie)
         self.end_headers()
     def send(self,body,status=200,kind='text/html; charset=utf-8',cookie=None):
-        self.response_headers(status,kind,cookie);self.wfile.write(body.encode() if isinstance(body,str) else body)
+        self.response_headers(status,kind,cookie)
+        if self.command != 'HEAD':
+            self.wfile.write(body.encode() if isinstance(body,str) else body)
+
     def json(self,obj,status=200):self.send(json.dumps(obj),status,'application/json; charset=utf-8')
     def body(self):
         n=int(self.headers.get('Content-Length','0'))
@@ -63,8 +66,26 @@ class Handler(BaseHTTPRequestHandler):
     def authorized(self,data):
         s=self.session()
         return bool(s and hmac.compare_digest(str(data.get('csrf','')),s['csrf']))
+    def do_HEAD(self):
+        self.do_GET()
+
     def do_GET(self):
         path=urlparse(self.path).path
+
+        static_files = {
+            '/data.json': ('data.json', 'application/json; charset=utf-8'),
+            '/community.js': ('community.js', 'application/javascript; charset=utf-8'),
+        }
+
+        if path in static_files:
+            filename, content_type = static_files[path]
+            file_path = ROOT / filename
+            if file_path.is_file():
+                self.send(file_path.read_bytes(), 200, content_type)
+            else:
+                self.json({'error': 'File not found'}, 404)
+            return
+
         if path in ('/','/index.html'):
             self.send((ROOT/'index.html').read_bytes());return
         if path=='/admin':
