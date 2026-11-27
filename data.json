@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-27T09:01:07.766465+00:00",
+  "updated_at": "2026-11-27T09:05:34.976165+00:00",
   "football": [
     {
       "home": "Kairat Almaty",
@@ -1732,6 +1732,14 @@
   ],
   "news": [
     {
+      "title": "Lockton continues growth across Middle East and Africa with two senior promotions - Reinsurance News",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOS1pvcVVTM2MxWnhSUERwdUJzRlpaLUZ0RjBDQ0hNblVmRjZ5VGgyLThHWVdPRS1LVl9nMUF1WEU2Z2lLMDZDQ2k0dlJ6QXllci10Tkw4Uk14TG1oMG81ZTNJM2pqR2VvS3BSUjJkZ3hNOU83S0hWSXN2d1FNZkN3X0FIdnhCUFpVdU5KWmc5OGxiRmpZSDVjX3FkUFd4WU50dktndTFaUlVLZ0ZOTG9MRQ?oc=5",
+      "source": "Reinsurance News",
+      "date": "Fri, 27 Nov 2026 09:04",
+      "published_at": "2026-11-27T09:04:49+00:00",
+      "category": "Middle East"
+    },
+    {
       "title": "Renaissance Africa Expands Vendor Financing Scheme to US$4.3 Billion - TechAfrica News",
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPOVUxWVJYLV9hM1JGNVlKaTc4S0xTajlrTHEtNWNIM2JKNWROblJadUkxWDJ6UHZRSkVoYzFEdEZRQ1pyclp6Q3BMNnBKQklSVmk4YkV6MDRTSkdfRF80Z0NqZ29fMXpfN09rMFB4Y3Vzc2pLWGE1ZVZ4TGpPU3pmWFYwdGR5eEwyRTR5STdTQVlfS09XZGZURmR3RVBuckpGM2FpMnZ6TW9HZw?oc=5",
       "source": "TechAfrica News",
@@ -1740,12 +1748,20 @@
       "category": "Africa"
     },
     {
-      "title": "Global economy risks hangover as growth over-reliant on AI boom: India chief economic adviser - The Business Times",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPcnNCbHRlNUM3aHZ3VWoxQXk5dHBfWGx0Wk85bVllZTR2bHkwVUMzb25xTV9ETEdxUVctR2cwTjN2Rkp2eV9WcjJZVHNmTjBSbmZCb3daYWt1RjdmcXZ1UW9DbmZRYkRXWHVDcjBER1Naa2lMalEwcVFMb0ltUDIteUhDdllnVWQxdXBMOG9ONkxxUFdreS1FQ3Q3RkFOSUQ1WG9mX2lla29ROGthMkN4TXNadGtOdzBZeHd6Ynh1d3hzY212d1RvOUNzak9Rdw?oc=5",
-      "source": "The Business Times",
-      "date": "Fri, 27 Nov 2026 08:49",
-      "published_at": "2026-11-27T08:49:00+00:00",
-      "category": "Business"
+      "title": "MTN Ghana Partners Stanbic Bank to Train Youth in Digital Skills - TechAfrica News",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQOURuSmRoRndIZzdMT0F2QXU2VjhjZjJEMkdPeEREZFdKdFRDX01jVFV6eVV2MVk4UWRfTEc4UHU0ZlZPVjk4YlhQejB2Y24zSXoyd3FkRjZNeGxpSWpqd1ZFa2M4RTYybTd5N1p6NFZCd0J6Y1c1TDU1Rm03NTVOQ1RMeUkzTVN5QjF2ZXQ2ZTRqM3l4enc?oc=5",
+      "source": "TechAfrica News",
+      "date": "Fri, 27 Nov 2026 08:51",
+      "published_at": "2026-11-27T08:51:52+00:00",
+      "category": "Africa"
+    },
+    {
+      "title": "IRO Sushi to make international debut in Germany - MCA Insight",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPLVVJTDhFekx3NjhaQm9rWTVtR1lEQmdpRXdzanhpd1pRWGRadHZpd0lHWjkwMW80Z2o3QllMS2pBNjgtVEpPR18zeDhTTXh4eGVraWdqaVV4WDY0a1lHOHhiYkFveWpUMHhUY2I2bWdpNHdHQzVWb1VEOVFFelo0QXh5WXpVdVc1dE1CYzRtMW5EcDJnVlo2bG9qX3AzX215OEc4ZQ?oc=5",
+      "source": "MCA Insight",
+      "date": "Fri, 27 Nov 2026 08:51",
+      "published_at": "2026-11-27T08:51:24+00:00",
+      "category": "Germany"
     },
     {
       "title": "LONDON MARKET OPEN: Europe, Asia power higher before New York \"test\" - London South East",
@@ -1756,6 +1772,14 @@
       "category": "Asia"
     },
     {
+      "title": "Kenya: Spiritans to discuss migrants’ rights and interfaith dialogue - Vatican News",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQVlZLRjdxeGlnY0tvc1hoQUZFOUU0em1ZYk96UDNtZTNrdVJDbzl6TTUyMUpoOWliYjNCYW1OWDZkekpqSEl2dXdMS3ZBSFRZcTNoSlk1bDJVNEhkYldzellxd3RvUWJ1cFpaczY5bWJTRkxPRmNaOTJhWFFtYXlmT3lHdHRFcVFJYXBQNUd6bENCVkNQOEZnblJYdHZhcUZyUWxMejVwSjgwbDZ4VVc2V2ZBa2oyQVJt?oc=5",
+      "source": "Vatican News",
+      "date": "Fri, 27 Nov 2026 08:37",
+      "published_at": "2026-11-27T08:37:16+00:00",
+      "category": "Africa"
+    },
+    {
       "title": "At critical juncture, Friedrich Merz finds Germans’ support for Ukraine wavering - The Guardian",
       "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQLVkzMDRIcEJsaEE0dU9QZFNtZWRyZ1IyZDJtWEVGWnJsWU1yb1VGOFNsWmhwZDhPR0tNSFRISWlWOE1mYV9rU1gwR0tNc05mNGdteFlFMk9rTUphWlpES0xCU1JtcmhvcFJNdTktZm1PNHlYcG1SNXRFcE9hSElOVHlPSVk2MUNwRXJTV1lLYWVhNU9Ga1ZUSS1HZGNXMkVzZnJFdnBsVWJfNzFGZUVxT00wcGduRmFGWFEteXN0R2x2Zw?oc=5",
       "source": "The Guardian",
@@ -1764,12 +1788,28 @@
       "category": "Germany"
     },
     {
+      "title": "Oil Prices Rise Ahead of OPEC+ Meeting as Middle East Supply Risks Persist - WSJ",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPTlk0cWFXc1dCWFZnYlZPbnBBNGtndk1USE5BM3dhd1RYNzNZdkJiYlNxWmtsLVoxa3FSR0FmNkdKaEVsaVZjYnYwaHl3QjVUbnpLcFpfUDRyenNXMjVFOVNEY083SG9rSTBLeHd4ZENhb1hBc0gtS3kyYzRQUU8xM1duaG51WHZjRFhRcXh5Y1FrdEk3WTIyMXFhdGw3ZzliWjc3RkJDVGZYT252YXRZRTd2Y3RXY2wwbWVVNEREWQ?oc=5",
+      "source": "WSJ",
+      "date": "Fri, 27 Nov 2026 08:27",
+      "published_at": "2026-11-27T08:27:00+00:00",
+      "category": "Middle East"
+    },
+    {
       "title": "UPM expands Asia-Pacific label network with new Vietnam terminal - Packaging Gateway",
       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPT1NDUF9FV29GNk5qS2NsQlNIM0FJaWVxbHQ3eWQwS2xYUDhEdktFRi15X2xnRktZUmdIMkUtSk56S0VLcHpUd2J1bGl0R0lETGF3R1d3NDdOLV9KXzZaUUNKUW5EcFRQS2xwUWpJMHJKTWhNYndtVnVkSk5rc0IyZHd6bUM?oc=5",
       "source": "Packaging Gateway",
       "date": "Fri, 27 Nov 2026 08:24",
       "published_at": "2026-11-27T08:24:45+00:00",
       "category": "Asia"
+    },
+    {
+      "title": "Fubara Rewards Rivers Hoopers With ₦100m For Nigeria Basketball League Title Win - Arise News",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPa2x3QVo4SG5xSjJOZ09QR1lLMmViV0lkSHhqYnRWU3RXNEdYTUYzaWdlOXJiZ21la2p6QkFNN2E4OVI1WTJVaFlSOVpjeFc5RHkzcnZvaVJfOXNyMDNMckF2VjBYOXpoRmtJeTYzUUpnUzNZVk5jQVJpaW9lR0xyckxyUnBnU0ZLN3Z2TFJPTnF5TDFveEdzcFozVHJGRm9uWWxIajZpY09TdDR3SC1n?oc=5",
+      "source": "Arise News",
+      "date": "Fri, 27 Nov 2026 08:21",
+      "published_at": "2026-11-27T08:21:13+00:00",
+      "category": "Nigeria"
     },
     {
       "title": "Oil prices rise after tankers hit mines in Strait of Hormuz - Middle East Monitor",
@@ -1802,14 +1842,6 @@
       "date": "Fri, 27 Nov 2026 08:05",
       "published_at": "2026-11-27T08:05:15+00:00",
       "category": "Europe"
-    },
-    {
-      "title": "Malaysia, Singapore can win bigger deals together: Economy Minister Akmal - The Straits Times",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQbk9GVG1YdkY2X1E0V2EwQ2g1SElGaXZzcHFuaURFQ25IYkl1S3RjbWY3alZaNEllZDN3aEp6YjctQVdNdmlEYVdOaTA4akF5TU5ON29sZGJrZlhRRzZwME1ueEJEbllHSmJBQ2lwLWM5cE9JN014X1psRXFxNjg1ZFVHRE00Ym1neDhoYjh0MHFWRWJFS1o4b0o5ZUw1bDd4MUdISnFGY1Ywc2xWOXc?oc=5",
-      "source": "The Straits Times",
-      "date": "Fri, 27 Nov 2026 08:05",
-      "published_at": "2026-11-27T08:05:00+00:00",
-      "category": "Business"
     },
     {
       "title": "Return of Great-Power Politics: Is the World Moving Towards a New Cold War? - The Diplomatic Insight",
@@ -1852,6 +1884,30 @@
       "category": "Asia"
     },
     {
+      "title": "+65%, +62%, +49%: AI picks across the Americas, now 60% off for Black Friday - Investing.com",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQblBGM2E1T3VRTGpSbDRuM0ZJZ0luXzAzS1hwLTZxMGNUOEtmZ1VraW9DU3BZRGRPN3NnYnFsUTRPbERqVDVtU1k2R0F4ZGx1S25oOTdhb0xiazN2U0ZPRjcwUDlpcEQzS25aeHpUMzlHZHRabWZPRVVEMWRqd2M1dTRoV3czRzJ6TFN0UDVjSG9LR1RfYUR6SW5VSUpwUGhrckdRb3JaeFBhN0FSZUpmQVNtY1NReU0wd094SHpWZw?oc=5",
+      "source": "Investing.com",
+      "date": "Fri, 27 Nov 2026 07:32",
+      "published_at": "2026-11-27T07:32:44+00:00",
+      "category": "America"
+    },
+    {
+      "title": "Nigeria soars to 91.30% in ICAO safety audit; Minister sets new 99% target, lauds NAMA MD - Aviation Metric",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNYUtfSGV1Sy1hUmxtOGt0RmhNNksyXzFVUjVWeUd1Nk9Nbi1BaWpqZ0tyZTlPZUZTbFlLUUp6cXBKQ0d1SGF0NkZEUi1sRnZjQU5tazU2Y2kxcS1rblVjLU82VzFkOWI2bDJPeDVhS2R0ZEdWMEI0RGIwWmx6U21pdXBXUy00N0g4c3FIckxkVDVOUVBzTGtJcTRDWmhyZ3ZOSW9nNzRsY0hQSzFz?oc=5",
+      "source": "Aviation Metric",
+      "date": "Fri, 27 Nov 2026 07:32",
+      "published_at": "2026-11-27T07:32:22+00:00",
+      "category": "Nigeria"
+    },
+    {
+      "title": "Fake drug dealers in Nigeria should face death penalty for killing consumers: Rep - Peoples Gazette Nigeria",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQbXB1bmVIbDZWOEV4dzNjWHdyTXI4RVJRdi16LTRCYmZfN3lvTkJtR0ZRYVFnaU4yMTZoa01LLVdOR3NrTFZkUjkxLVhkSTlmdnJGNzZCUm82VE9tc2JHMVZPN1hnYk5YZS1ESmNBSUxjUWxoanFtOVdZVDRESDFzNXJNWk9lMmZhZzlNQklFWFRjYzBOVVNuNWtSQndPYm8yeXNrWkJPYw?oc=5",
+      "source": "Peoples Gazette Nigeria",
+      "date": "Fri, 27 Nov 2026 07:32",
+      "published_at": "2026-11-27T07:32:07+00:00",
+      "category": "Nigeria"
+    },
+    {
       "title": "Amazon defends AI use as Europe's busiest site manages Black Friday | ITV News - ITVX",
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPN0gtSTN3d0ZYc2JTd1F0cWlXemNmWFB2VmlHQVZ4enVHdFZ1b1BUaXk2MlZqMXFCWkZMcGFQSUVLX0VKbXh6LWFYQmFUOFBFU2JpdkpnS1N3MHBDTkhGaV9ZSFl5bnVwOXFDVVVTcERBQlk1NGkxbTEwbUdQMm9CRXZQM3E3ZWFrSzlhSVVLM05ObW1wVGhzZVRLcXh6d0doU2JibVhwemRTNUZpX0h0MQ?oc=5",
       "source": "ITVX",
@@ -1860,20 +1916,20 @@
       "category": "Europe"
     },
     {
-      "title": "Top Africa Fund Manager Buys Grit’s Embassy, Data-Center Assets - Bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOVS0wbGVMZWJlWlRrNHc1cm5FOTVCVmJWSEQ0NEVUOG5peXhESXc4QklpZ094Vkozakl6bTlqT2xBMVVCVXBydEN6YlJmcGlSSFJuUXZDMzVOOTRuMGRhdS1yLVdGV1ZWZEJVdERXY19LbEFjVzBLUGNDcV9ZUmRibHZkUm1Ndkh6S0J2WGFCck1yNE9mQjRTWjJwbFI1dlZLSXMyQ1dNNGVzNVhTQ2FYYmF0Yw?oc=5",
-      "source": "Bloomberg.com",
-      "date": "Fri, 27 Nov 2026 07:12",
-      "published_at": "2026-11-27T07:12:00+00:00",
-      "category": "Africa"
-    },
-    {
       "title": "The Middle East’s Untold Stories Finally Get the Spotlight - Bloomberg.com",
       "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQQzhVVDRrS1d5M09qZ2RXajRSYkJhYUZmTWJwM0JzVmh1Uk9LdWJNM0VWRElNdlNjZmxZS1ItQndkU1k1NlpmOEoyYnZqV3JQQS1ySWpJMm9UVkRpdlBGMGtFYjZVekRFdWJFZEg3d3NCb0lnNUNMNDd2UVFyVk0zT0lJU05SbzhJWTF4Y21TeXlnUlpuNUptTlpDdkRnWS1NaXNZN1Q3RmlITG9oRWd3NEp3RjZCTlpQZ2h1UnpsT19LQmVI?oc=5",
       "source": "Bloomberg.com",
       "date": "Fri, 27 Nov 2026 07:00",
       "published_at": "2026-11-27T07:00:00+00:00",
       "category": "Middle East"
+    },
+    {
+      "title": "‘WSJ Tech: Qatar’ to bring global business, investment, technology leaders to Doha - The Peninsula Qatar",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNaTcxYXFkVGpQWGxMd0VRMUlPaGt5N0xMOWlhUzhSYTM5OG9uMGZmQ25xWXhjb29QWEFENnQ2YVRkcEdSMUVqRVN3a0ZQR1FsVHlvS2lyaUFZX0NtY0RQZVdIdjZJZFFYaWR1S1RkOWdPQXdfOG1veWhWSG4zbXFReF90Q0dleVdSVmkzUE1abWRRZjBOU2lOTGljamlPUzZSNVFPd0hLQUZobmFKM2diZE5OV2xvRGRxbTR4WDc3OC0xdVVa?oc=5",
+      "source": "The Peninsula Qatar",
+      "date": "Fri, 27 Nov 2026 06:54",
+      "published_at": "2026-11-27T06:54:23+00:00",
+      "category": "Business"
     },
     {
       "title": "Donald Trump: 'Putin can come here... if he wanted to' - Sky News",
@@ -1898,6 +1954,14 @@
       "date": "Fri, 27 Nov 2026 06:42",
       "published_at": "2026-11-27T06:42:00+00:00",
       "category": "Europe"
+    },
+    {
+      "title": "OPINION… Fasoranti: Where does Yorubaland go from here? - Ripples Nigeria",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQUTVaMDJHRUdlbnZDUG1INjBOa3R3dmlOYzY1cTZCOGhsR2pBMHVWZzI0bDBGbGRXV182TnVRU1Y1YVhSRlhETzJpdE11RnhLYUE0anExZkFnZEFXX2tobmN3VGprdmk3RkZkb1hDelNSdUsyMmNhM1RtYWxIUDUxdWEtc01WTDFNLUJfZw?oc=5",
+      "source": "Ripples Nigeria",
+      "date": "Fri, 27 Nov 2026 06:32",
+      "published_at": "2026-11-27T06:32:30+00:00",
+      "category": "Nigeria"
     },
     {
       "title": "Middle East latest: Iran warns South Korea over planned naval deployment - The National",
@@ -1932,14 +1996,6 @@
       "category": "Africa"
     },
     {
-      "title": "UK energy bills to go up by 26% due to Middle East conflict - The Chemical Engineer",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOcC1MQ3F1VmhVQzQzZkVQYjhWTkh1Tjdybno4OFRSelVhSHNKRV9TVlhZbDZqeEJxVF9zN2VQSGkybWtMZ3ZBaG5udWxycVZxQ21TUElLNzBUMGRXVThXckhjTjhtNHpTQjBUNTBTbGhnNThId29BVDVaT3F4SFpLb2Z6cE02U3RDTkhwbzFWU3ZvVHZadG5sSQ?oc=5",
-      "source": "The Chemical Engineer",
-      "date": "Fri, 27 Nov 2026 06:11",
-      "published_at": "2026-11-27T06:11:15+00:00",
-      "category": "Middle East"
-    },
-    {
       "title": "Inside Saudi Arabia, Houthi attacks test kingdom's image of security - BBC",
       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1kbWxTd24wdUFwYTdDYURxbEFHVGVaLUhiNW9CeV80ak00SFhjTUpsT2pXcExVQmhVc1JjUDlmc0c4Tm9ZV3prSUlRaFRTRTRhQ3cyVUpnblNHT2c?oc=5",
       "source": "BBC",
@@ -1954,6 +2010,14 @@
       "date": "Fri, 27 Nov 2026 06:04",
       "published_at": "2026-11-27T06:04:25+00:00",
       "category": "Middle East"
+    },
+    {
+      "title": "Mad about mara: the DIY dance movement helping young Nigerians escape the daily grind - The Guardian",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOZEY5RnJqaGNVUmk1b01QOGlOUEUyNUdkdmkxcWl3TlZ5NS1rVDZkdm5ZQTFzVlZ4S1Q0aUVHYjJOQlE4MElDZXNRbzdIbUdfUlF4SHBoN01VakVVM3I4SmVLZUpaemh4dUdJQ0p1aTVpTGRiSUsycUk4X0FidHBNdHdzbmxibTB5OTZRN1hFUDBTWXZTQnkyclRqS3B0OFY3YjRvV0NBR0dKZFJxSWdkaXkwS0E5dW1UMExmNnpwMDVWS1dFZEJyYWJR?oc=5",
+      "source": "The Guardian",
+      "date": "Fri, 27 Nov 2026 06:00",
+      "published_at": "2026-11-27T06:00:00+00:00",
+      "category": "Nigeria"
     },
     {
       "title": "Castro says Cuba will never return to Americas bloc - Yeni Safak English",
@@ -1988,20 +2052,12 @@
       "category": "America"
     },
     {
-      "title": "From Brussels to Milan on Europe’s newest night train - Financial Times",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQc0F3anBnWTdMUEl2WVFwMmJ6SDJ3NmVqU1BFdGsxWmxRWGNyR0MzS1A4R2ptUDN6UW9zQXFZNm92bnhReGxKR0ZMWUN3S0VzTFZTeWxKaGthbHplRnoyQUo1ZXBjakdLMmZJajNxZktnVnF1NDNDb0NRVGJYTmktaW9UMUI?oc=5",
+      "title": "The US and Europe have opposite economic problems - Financial Times",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNdzdDSzNtSzlOZEcxbC04T000bU9pVV9ncWZ6Vno4Y1ljRlZQOUgzOFJQUTR3V2tFT3RxaWYwQUJVbjVSRW8xVzV1VW1BT3BHOVJuT1BFMmphMEIyZXc5YnZnS3JOMjRzRzhBLWF3eTQ2TkVBVGRyME1QVmlRWkZub3pkSTU?oc=5",
       "source": "Financial Times",
-      "date": "Fri, 27 Nov 2026 05:02",
-      "published_at": "2026-11-27T05:02:05+00:00",
+      "date": "Fri, 27 Nov 2026 05:03",
+      "published_at": "2026-11-27T05:03:45+00:00",
       "category": "Europe"
-    },
-    {
-      "title": "Global enrolment boom fails to achieve equity in success - University World News",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9GbTlxM0VqekNoSUF0eWtreVdqVjdyVE1qc0ZfR3lmZFBYc3V1N2tZMHJCM3RHSUczNTA5UEo0NS1Fek9wanFUNkdXUHFzbWJVN0xaNDY5MU1aSGh0MDhqQy1md3AzT2tELXFXUU40U1N4V0xhRU9N?oc=5",
-      "source": "University World News",
-      "date": "Fri, 27 Nov 2026 04:54",
-      "published_at": "2026-11-27T04:54:15+00:00",
-      "category": "World"
     },
     {
       "title": "investingLive Asia-Pacific market news: Kosdaq jumps 6.7% as risk appetite returns, gold rebounds - investingLive",
@@ -2052,6 +2108,14 @@
       "category": "World"
     },
     {
+      "title": "New Zealand election results: Ruling coalition loses parliamentary majority - BBC",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5CeGZDb1k0LU9ZTm13YjRiUjhET2xxU3FqaVdkaVN5Y2F1NkR2WVJRVVgyODBSaTFRZW9MNXdNYVJ6U0pUOUx2dlluRy0yOFMyRVFOR3U0VHpiVE0?oc=5",
+      "source": "BBC",
+      "date": "Fri, 27 Nov 2026 03:28",
+      "published_at": "2026-11-27T03:28:15+00:00",
+      "category": "World"
+    },
+    {
       "title": "Singapore Budget 2024: Initiatives and support measures to help businesses thrive - Singapore Economic Development Board (EDB)",
       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQa0o3aFlha3ZreEdYcGRHeXhsSHFKN1Z3U0hFMk8tbXVhSzIydkZCOXFaeHBoM1V6TTN3YlBIekY1Z0dwZEV6NFZVdGxkMExFWWdrLUF0QzJOd1NObG1KM2ZZTnZvVC1fYlJDVWZDUlhrWU96WFA1czR3eWJQbFpidG1Zdy1XLXVFc3B2amVvT0Fxbk9PSm5qQkZjQk5aQUJra185amc0YzdxblozQ2RhQU9idkxqUjl1ZFQzVTVB?oc=5",
       "source": "Singapore Economic Development Board (EDB)",
@@ -2076,11 +2140,19 @@
       "category": "World"
     },
     {
-      "title": "Celeb roundup: Kabza De Small's album rollout, Miley Cyrus’s wedding and more celebrity news - thenational.co.za",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNMnVGR1djbFhNdEc5alhUZmdrYjdpcjNQQ0tCODBDQmJDeV9lcjFYcHgxN0RjcVZOR1VrV1did2dFOUpjeFJBaDJ3WG90MFBLTTVTTUZrS0tXakJYMm1xWm02blliVWhsS2htb3kwcm96WDQxNkdfZ1Y0eVRoRV94cDFaNm1Qa19FS2hlR3ROS2dadnNjUG1qYV9yRlBzaFNpY2JaYmJYS1Q0MUVIMU9GTmZnOGE0NkEzSUhUNVJJZzI0amZmRE9JZ3ZsRnhrOVpPOHc?oc=5",
-      "source": "thenational.co.za",
+      "title": "Sowore: The life, struggles of a Nigerian revolutionary - The Guardian Nigeria News",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNWWRNckZFZFRVa0VEMXRJdzdoUFR1bHhvWkpBMlRVd1FIbzFIQk1UUWJWczFSTVhwcmhhWHUyTk4zTUFETExWOUJzaFBtcjFrZ01HbExDbjFpSmttMW1XMmxoNUFGRzk0ZDRKTUZkVjBXbHFTYkR2U3ZiVkNxMEM3b0VyTjU0U0JLQ2c?oc=5",
+      "source": "The Guardian Nigeria News",
       "date": "Fri, 27 Nov 2026 03:00",
-      "published_at": "2026-11-27T03:00:00+00:00",
+      "published_at": "2026-11-27T03:00:08+00:00",
+      "category": "Nigeria"
+    },
+    {
+      "title": "Prince William speaks out as Diana Award charity placed into administration - Daily Express US",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPY3o2MlpBZGV4cmZQLVFDWXJuUXV4eEpPRXYwd0xGZWgwTGxOaGNLOHZsMjlCU2JkQ2d4TWVpUWJIdW5MQUxEVUlSU3lMdElMbU9vQWY3dnd4enhVQlpOMmhmdzRDNUIxY1NUMHdqVjZGVDRUbGJFNUZlVFNkZUNJME1HWXZ1Znl0bFM4SmljT0kyRTc0cVkwaG1qd3l1Vmd1cXZvZTF2UjhmQWRFNWU0X2xub0pqT1RD0gG4AUFVX3lxTE9jejYyWkFkZXhyZlAtUUNZcm5RdXh4Sk9FdjB3TEZlaDBMbE5oY0s4dmwyOUJTYmRDZ3hNZWlRYkh1bkxBTERVSVJTeUx0SUxtT29BZjd2d3h6eFVCWk4yaGZ3NEM1QjFjU1Qwd2pWNkZUNFRsYkU1RmVUU2RlQ0kwTUdZdnVmeXRsUzhKaWNPSTJFNzRxWTBobWp3eXVWZ3Vxdm9lMXZSOGZBZEU1ZTRfbG5vSmpPVEM?oc=5",
+      "source": "Daily Express US",
+      "date": "Fri, 27 Nov 2026 02:54",
+      "published_at": "2026-11-27T02:54:00+00:00",
       "category": "Entertainment"
     },
     {
@@ -2092,20 +2164,12 @@
       "category": "Asia"
     },
     {
-      "title": "Canada become first Americas team to qualify for World Cup - FIBA",
-      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPOG1EaVlwa182SVY5R21IOUtGcm5HSE1hb1RaX01kbzdUWDJGeVVpRldzbzB6bG1fSTJNazdUR3lQMDNvczg1cWFRZXdqWEhxczhzUGpweHVuRHc0Wl9sd3BZdW5qZUNsZ1JnbEt6ZGVEVEhSZ0M3REhNNFJ4UDZsclNob1pRbC1rQkJEZDlmQzhvbVV3Wm52M0luSDR6ZHlDeU90UGI1VTE0QTdrQndCbVo3VVlkUkc0RzN3RzRnOFNEZU5MajRZZVRhZ3ZuaTBrbHFqMU1iNkNPQ2JJVjIxSlNzUWVnNnM?oc=5",
-      "source": "FIBA",
-      "date": "Fri, 27 Nov 2026 02:40",
-      "published_at": "2026-11-27T02:40:56+00:00",
-      "category": "America"
-    },
-    {
-      "title": "Nations Championship Final: three key France v South Africa head-to-heads - France 24",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQNXRyNE9ENENWR0ZBbnVnajdqSWN1SURoMDJxRVZpR1ZYYmRDWko1U3A0eEJqUklORFdPVVJGQS1haS1WYUlIbUl4WmxlMlNuSGVjZlpUSkFFQ3RXNjU5c3Z0azE5Si1fVmdwbTNPTlI2MklRSG14ejdHekxsLW52S3ZRamJ5eVhnLW1CQWlrcTlHdFFaTFZRcjhRUExZMnl0YjAwV1pnSFdNQUc3cExuRElCZUY1N3RYSG1R?oc=5",
-      "source": "France 24",
-      "date": "Fri, 27 Nov 2026 02:35",
-      "published_at": "2026-11-27T02:35:18+00:00",
-      "category": "Africa"
+      "title": "Kazakhstan reaffirms commitment to clean sport at WADA Foundation Board meeting in Astana - Qazinform",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPaEdOX2xRVWpaQlpuazRaVldTRGtjWGEzdEVoeE9GWU5wNUVBdFdETXdOTF83UWxtY29DNW9mT3EwVDlDSXY2OTVQSUg1V3BkMkQ5LTRKc0VMTWdVWW03TlEwOFdfZFIwdEJKWmFJamJ1NTV1REdERGJzRmthU3FZOWQxUHdnSVF2WHFDclJrSVNoY1ZWTXJrS1JrTzRyLUZZRVh2WEFxMVRrT2E0VXhqRi1KUHZWZTZ6bWRBcjdtYmXSAcABQVVfeXFMT2hHTl9sUVVqWkJabms0WlZXU0RrY1hhM3RFaHhPRllOcDVFQXRXRE13TkxfN1FsbWNvQzVvZk9xMFQ5Q0l2Njk1UElINVdwZDJEOS00SnNFTE1nVVltN05RMDhXX2RSMHRCSlphSWpidTU1dURHRERic0ZrYVNxWTlkMVB3Z0lRdlhxQ3JSa0lTaGNWVk1ya0tSa080ci1GWUVYdlhBcTFUa09hNFV4akYtSlB2VmU2em1kQXI3bWJl?oc=5",
+      "source": "Qazinform",
+      "date": "Fri, 27 Nov 2026 02:36",
+      "published_at": "2026-11-27T02:36:59+00:00",
+      "category": "Sports"
     },
     {
       "title": "Europe Partnership, not separation, is the answer for Britain - GOV.UK",
@@ -2122,6 +2186,14 @@
       "date": "Fri, 27 Nov 2026 00:55",
       "published_at": "2026-11-27T00:55:42+00:00",
       "category": "America"
+    },
+    {
+      "title": "Tebbutt attack in Lamu: Kenyan Ali Kololo says Met Police ruined his life - BBC",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBvNTdTaUxEUUxlZTlkUmZfbDFwclZjVEJTOGw1STY4VDNyTFpXbWwzR2dZbkVHZFZNV1U5TnNPS0VvV1ZtdHdrNm1oc19XQUFNX2hjYW5WQUZLNlFQTEE?oc=5",
+      "source": "BBC",
+      "date": "Fri, 27 Nov 2026 00:48",
+      "published_at": "2026-11-27T00:48:11+00:00",
+      "category": "Africa"
     },
     {
       "title": "Remarks by President António Costa at the press conference following the Special European Council meeting of 26 November 2026 - Council, European Union",
@@ -2156,12 +2228,12 @@
       "category": "Germany"
     },
     {
-      "title": "Tankers take fire in Middle East, one crew 'severely injured'; PGSA adds tugs to 'non-compliant list' - Riviera Maritime Media",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPUmc0YkRqWkJiMVNGMngwY3VaaVlUYWFVR0NfbEVHZEcwYVdnQWEybnE0WFFNTE1mZGFEaWVKTGIxTS1rRVFOUWpMX2gyTzZyUkJrSDcwQ0UyQnRZbHY0Z2FqNlRXVER0NzVWYUhtM25DNm40aDZEbXZzQnd6cDQ3d0FyNGtzejFOcXhHcFJoZjVBM1BlX2xMeVNlQ3JhZG05Umt4VEJ4QnlQWGRENUhLai1DaDB3eERDRG9naUJuVW0?oc=5",
-      "source": "Riviera Maritime Media",
-      "date": "Fri, 27 Nov 2026 00:01",
-      "published_at": "2026-11-27T00:01:43+00:00",
-      "category": "Middle East"
+      "title": "Reuters Sports News Summary - Devdiscourse",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQLUhqdjJTdV84eXlraVREWGxtcHNtWGNsYVE2bHdDdzRERmtSWkNUNkhxNXBDcU12M1JyRThWd1dzeF9HVnhBRkZIQmgtUlBPWkM0NzhNallNUHYxQzBwVkFOUjg5RlE4cTMyTTd6Nm1UeFhiQ3FuYzZBV25BbUZlZDlGUlprcjRvT09UZDh3ONIBlAFBVV95cUxPeG9oWG04LUdMUDJIc1hTVFBpZlVOTUVmREd1V1pGTXJYM2tJbkd1UnFFRVFWY1EwcUNhbm5TV1gtZDA0V2JQYU5Rc2prbVlqaFhMWlNpYVJrM05IcDF5bDdqLUpvRmk5V3hsZ2R2Q1B5VEpiSEdnRDFLTnVmZzBld2FrbGREaWZRaGdsSXdBcXRBVU5Y?oc=5",
+      "source": "Devdiscourse",
+      "date": "Thu, 26 Nov 2026 23:54",
+      "published_at": "2026-11-26T23:54:13+00:00",
+      "category": "Sports"
     },
     {
       "title": "Global South Must Have Greater Say in Setting Global Trade Rules, Economist Says - Jakarta Globe",
@@ -2213,7 +2285,7 @@
     },
     {
       "title": "Saffie Osborne’s father gives hospital update after jockey falls ill before scheduled Happy Valley ride - The Times of India",
-      "url": "https://news.google.com/rss/articles/CBMi7AJBVV95cUxOajZXTlhHM0Z1MktQdjB5akpWUWx3MjBpaGN2a3lJbmZ2dlJ4eXpFMm1hOUxUTXl1bUpuTVdNZFk4TGlKWVVfSWFmUm1CSHNHS0J3cHBNOUg2ZUlDZ3R3bHpsbk05RzR2eHE5QmdwZmlNdW55UzR5VGRSVTVEU0FlRk91ZjRLeWdVZFJuSEtsR1J6LWxKaTlvLUFOUXlQYUJ4Qm83QXlaZ08xbWtkWXY3RDVmRUduWXk2MERjaEo5R2U3VDctMWE2SU82akctUFp4a1lGcHZCUGdvc0JIWmo5NTlmN0VLVXFrSTBJNXp2Rlg5a1AxbmlSUDZPbDYxYk5DZC1sX0NGTC1DSVZkSzJlQ1lzOFliOWozREhLeFFHdk1pQUxWcjV0MmtibVpHU2NNOTAtc0doVkVLRk1uLUFMQ3BpYTQ1N3h6YVBxRDNTQlF0SXI1Z0VhRzQ5V3N6aHNkY3JUSTRUa1FyRU540gGiAkFVX3lxTE8xbGdGTEtNckxtQXNZUkp2dWJ1UVE0ekdRTHN3bEhzLTFYUTY2SUVTRk1Xc2ltMGF3azFCVkYydkp5bGN1b0hPaHdKd2ZsaUd4RnBDNmJHVW03S3pheWRRMXFMSEcxalhyQTlVS25WTm4xZ2RWYURLZkJiS1ptMmdUY2RvWUozMUJ2UXdmMm5MelpOWHY1aUswR0NBaU1NT2VtbzdmV3NiWWx0azQ0Q0RYWnZIaHZhMjhvb3dYamt4bklyOTlpQ0JkblRmR0pNeWZaRGJ1UUZ5UE1tbXlMWVZHT2VsTnBFU2Z3NlV6dHMzTHVYcG1lUy1GM2lheGJVcWpnQUVCZThic1FvMFlhUWdESmNZZy1SSU1IX1hPRFIyR2hR?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMinAJBVV95cUxOaEpmalVNdzJyU0FwLUc5YW5Jei1FRDdzTFM5UGZrSlY0dk1EaVNrUTY2MVl0NmxqYUVlQUJCSnpER0FEbEVzMkQyVlpsRTVLeVlsMGYxS1NycHFwVkxRRUdGaWlSMUl3eVhMbXdxMmE2WHhWVzJ2WkRZYnlmcmF1VkQ1T0Rmd0hMVFFTY0hGZnZ4dEh1V29vT29waUxpUmwyU0NtaHU4aXh1Q0h0SlBPRXNvSzh1c1lKVE5mTFJJazZiM2d0MEdNN3dWcUtubzBTUERsYTB2ZVdnbi11OG55eTF4NGJ6aU1PcjQ4RnF3ZUJMYjdMbzFBSVkxNUs1X3dsSC1hazgtZzNTZHNQeVRvMWZDZEpKVTM1dGkyY9IBogJBVV95cUxPMWxnRkxLTXJMbUFzWVJKdnVidVFRNHpHUUxzd2xIcy0xWFE2NklFU0ZNV3NpbTBhd2sxQlZGMnZKeWxjdW9IT2h3SndmbGlHeEZwQzZiR1VtN0t6YXlkUTFxTEhHMWpYckE5VUtuVk5uMWdkVmFES2ZCYktabTJnVGNkb1lKMzFCdlF3ZjJuTHpaTlh2NWlLMEdDQWlNTU9lbW83ZldzYllsdGs0NENEWFp2SGh2YTI4b293WGpreG5Jcjk5aUNCZG5UZkdKTXlmWkRidVFGeVBNbW15TFlWR09lbE5wRVNmdzZVenRzM0x1WHBtZVMtRjNpYXhiVXFqZ0FFQmU4YnNRbzBZYVFnREpjWWctUklNSF9YT0RSMkdoUQ?oc=5",
       "source": "The Times of India",
       "date": "Thu, 26 Nov 2026 22:15",
       "published_at": "2026-11-26T22:15:00+00:00",
@@ -2242,6 +2314,14 @@
       "date": "Thu, 26 Nov 2026 21:09",
       "published_at": "2026-11-26T21:09:23+00:00",
       "category": "Sports"
+    },
+    {
+      "title": "Jamie Lee Curtis, 68, says 'be like Dolly' as actress fires back at birthday trolls - Daily Express US",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPSEEyT3ZCMmx4Y3JRQ3kwdGZkTlczMWxIVFFGZFJlOWFLQlhJeGV0cTE3NEtMQzBjRXdNM2RkN3BfMFFuaFdzT0NOdzAxd0w2Yk1KZXEyN2w3MGlKdGVhUzFLbXQyOVRSdklpQnVtYTZXNGZNRWRRdUV1MjJyYlFVaVM5ODhkdUJjbTBfOERzUGFVcW1pZ3hR0gGXAUFVX3lxTE9IQTJPdkIybHhjclFDeTB0ZmROVzMxbEhUUUZkUmU5YUtCWEl4ZXRxMTc0S0xDMGNFd00zZGQ3cF8wUW5oV3NPQ053MDF3TDZiTUplcTI3bDcwaUp0ZWFTMUttdDI5VFJ2SWlCdW1hNlc0Zk1FZFF1RXUyMnJiUVVpUzk4OGR1QmNtMF84RHNQYVVxbWlneFE?oc=5",
+      "source": "Daily Express US",
+      "date": "Thu, 26 Nov 2026 21:06",
+      "published_at": "2026-11-26T21:06:00+00:00",
+      "category": "Entertainment"
     },
     {
       "title": "Musician's son allegedly 'distraught' over father's death before fatal fall in Los Angeles - Daily Express US",
@@ -2276,6 +2356,22 @@
       "category": "Africa"
     },
     {
+      "title": "Belgium: Farmers and tractors descend on Brussels to defend EU subsidies - Africanews",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQcVBDcWtVcnlUQWJLckdITlkzWVhjZl9GOERhOEpzYWV2RGxIS3N2X2RSdmkwTFlmZUdsYTdYNVctZmV4QWE2OWpKc05HQWRaRkxRdjhoRzl2dDM0eFZkczNJLXRqSXUyN0YwOHdzV0FoLW9WR0tUclJ1cjZERnJFblhNdHE4SjVXQUw5Z1VCMlQyb1lxUTdSTjRaajJHMnVjT0tZU1NiRjNxNGNmVXFtRUdubk_SAbQBQVVfeXFMUHFQQ3FrVXJ5VEFiS3JHSE5ZM1lYY2ZfRjhEYThKc2FldkRsSEtzdl9kUnZpMExZZmVHbGE3WDVXLWZleEFhNjlqSnNOR0FkWkZMUXY4aEc5dnQzNHhWZHMzSS10akl1MjdGMDh3c1dBaC1vVkdLVHJSdXI2REZyRW5YTXRxOEo1V0FMOWdVQjJUMm9ZcVE3Uk40WmoyRzJ1Y09LWVNTYkYzcTRjZlVxbUVHbm5P?oc=5",
+      "source": "Africanews",
+      "date": "Thu, 26 Nov 2026 20:15",
+      "published_at": "2026-11-26T20:15:16+00:00",
+      "category": "Africa"
+    },
+    {
+      "title": "Faisal Islam: Why Trump's new tariffs are less of a threat - BBC",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9mS1RNWGZ3OFI5aW9OeldzV0RQYVRuOFBfTGM1SDJOamdVRTBWY0hSalpHMXFEdjNOZVhrb3BDa1ViNEZsN2tueDhEX04xLWc5cnFYN0RsOE1zQ1U0cHc?oc=5",
+      "source": "BBC",
+      "date": "Thu, 26 Nov 2026 19:55",
+      "published_at": "2026-11-26T19:55:58+00:00",
+      "category": "World"
+    },
+    {
       "title": "Famous Racehorses: America’s Triple Crown Winners and Racing Legends - Everything Horse",
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNc2dCVGllTVhnZkVuLVRXTDd1cUtxejdYcHhxb0VRLW1IYm9BZVRJWU1oanNzal84bkRQdk5JV0JfY2dOY0RGdUN2Q3JnT1RVRFlIb1FHX3VXUjZYUTRQUXZfUlZmV3FHd0liWHcyZ3QzcXRYTlcwdU1CeUkzTWs0OGFBNk45Z1ktZzZMQW9OZVRGRHNXRy1sOURTZ0djaUhB?oc=5",
       "source": "Everything Horse",
@@ -2292,20 +2388,20 @@
       "category": "America"
     },
     {
-      "title": "Child star Christian Cousins found dead at home after brother didn't hear from him - Daily Express US",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNc0ttNFNKV25vRzYtN3JqR3lrRzRyNzVwRDgzWF9PbWV1eTlwTlpvVV80elBRNWstekpsUnBVMjRyT29SZzhDWDgyQ2pHZjBPbUhrMGg5NXdpUmZWNmpBSXFvZ1dITFI4a3pGN3lIeFoybXZIY3NueXR5ajlRNUh3aFRreXg2LVJ4b25OLTRBR291WlhfaGltU0VxV2Nad9IBowFBVV95cUxNZmFsSmdpamxWY3pRZXlRVzMtbGhia3hUUl93T2ppZy0yVkQ2N2NwZzc3dUxDWU9pZ1pJWmMxNnFRQWFRN1JRM1Bhd2NnOVl1MVFzTk1hNmdDSUpHUDE5bFF5VmtCSHVORVU2azZDbjExVEZxVDlTaDN4XzFfbklVS0xJYUFmMXlLcnJCRGVQLVpXdmxFMVVLSnByUDNuZ0UwZmlz?oc=5",
-      "source": "Daily Express US",
-      "date": "Thu, 26 Nov 2026 19:20",
-      "published_at": "2026-11-26T19:20:48+00:00",
-      "category": "Entertainment"
-    },
-    {
       "title": "Witnesses contacted as US probe into World Cup sell-off plan intensifies - Sky News",
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPU21kMnpUTWhTQnFCU3ItdG4wSTN2Z1RXcGpWZTQzVm1nOGFjOGR2aThJQlRNZllfdWhEeEt1QXpWT0lzMUNiZUxCaU1YQTJnNUJZSC12NUpFdjZCemZjWlV4T0wwSW80ZlFRSzhtOEU2dHpWMDRHZlYwcmtkMWpQNG40bmxCeWNiNXpuUUFQSVdxblU0cXduNGtOWkdVN2lRQ2VaWmt2aHdPQzBx?oc=5",
       "source": "Sky News",
       "date": "Thu, 26 Nov 2026 19:19",
       "published_at": "2026-11-26T19:19:40+00:00",
       "category": "World"
+    },
+    {
+      "title": "Philippines declares national energy emergency as Asia risks energy crisis amid Iran war - ABC News - Breaking News, Latest News and Videos",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOeE1ldVFZSXdBWWRGcDlTNDdpaEE0aFNicTNidEJrLWlycTQ4NDlqdzFhdXk2cl9XWXRxdExqWFhtcDgzNzdNMTljVmVCQ28zQjhIM1hzUXd5TllON2dEaGZYTm8xSUNtT0xQUm5fOVQzX19RT1E5b3FYVmpXejZWYkFnenVmMllSOVAxNk8xMFRSUXgwblJ6TFdkUXgxbzU3ZFQ2cnNxXzVZeVVhY1VkUzdB0gG3AUFVX3lxTE5mSTJ3M2xnS2g1Nm80TzZ4WGtla3RQSWkzdjRXRXNacWtJQUZvSTdRbXltSy15ZW51cGhzTnBVRXZ0X0JMT1h3Y0ZBOWZrNlZHWGszR3RmVGxRTGFNaUdIMzJpSWRYM3pFY1U3aEtlYnlubVJtZTFyWDRHdExfYnlySWFibktCN2ZPTjROSjgtVnB0Ymk2UkxIdHJkTEVuQWxEM0NMMzBKXzI3dmE4ZENUdllMakRXSQ?oc=5",
+      "source": "ABC News - Breaking News, Latest News and Videos",
+      "date": "Thu, 26 Nov 2026 18:59",
+      "published_at": "2026-11-26T18:59:59+00:00",
+      "category": "Business"
     },
     {
       "title": "Asisat Oshoala bags MSc in international sports management - Peoples Gazette Nigeria",
@@ -2324,20 +2420,12 @@
       "category": "World"
     },
     {
-      "title": "What will Trump’s latest tariffs mean for the world? - Al Jazeera",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOQVp3NmZhaGdLMWtPSEt3T2FhY2FQbFRrTHI1UTU2THNoTldrVzlGcjFEc2o4M3RCWWNBcEMwWHlmN2JyMVJGM0FDT3FkMXg5RHY4YWlYRVB4VVdKZC1MTkFtdWNCS25xNWRHXzRGMWtPeU5VREE1cDhZVm91NzhONnl0ODFUNmJxcXRtb1FBUnRlWENkZnU3RWFWdHdyNjZjdS1DOER6SFY5UdIBrwFBVV95cUxQTFB1THZSTkdlTERla0NGSThxSFZMWGU0ajkwWWNueG5JY1VreVVWQmstT1huUGZMTl80ZVZVLWdsLVlzYkZHMm1jQkp6QlNZbXNmNFdsRmpUaTNOSzVqZTdtNjNYek5lQTU5RXpIUHh2aVFTWmlid0c0NmRiTjR5NEhsV1hkQlROc2V3VEUyZ1YwWlN0UFhEZWUzYzQ0YWh5d1dkUFRCX3FZTWxRTHJn?oc=5",
-      "source": "Al Jazeera",
-      "date": "Thu, 26 Nov 2026 18:54",
-      "published_at": "2026-11-26T18:54:07+00:00",
-      "category": "World"
-    },
-    {
-      "title": "Springboks and All Blacks not drug tested during Greatest Rivalry series - The Telegraph",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQaXRLNktYUzFpcUMxZEZyUUxXaTVpT0g2TkI1SFBoOVh3VldSNTJXWVEyaXhQa2lJV2dCZjlTblZ4WWo4b0VUYlpVbzVkc3BENzIza0xHSk9ELVFZSXFiYUsyNDJ6NzBtWWFPeExOeWlYdmtieHNXNUZvV1ZfOUJTS05BSFowMTgtV2tScml1SHA3Vzl4SU5jMmhTdnNEdUcwb0ZB?oc=5",
-      "source": "The Telegraph",
+      "title": "Donald Trump warns Robert Pattinson 'shouldn't take back' Kristen Stewart in 2012 post - Daily Express US",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQV0lNQk9FcjNyTldnc3pXbUM2TjZoUHNCa1lmTUU3MG13Z3F2dG1zeEd1T3p2VDI4Ti1US2ZqeEtpejZNY2lSdlhaSDhqdFlDVl9HdnVhMmNBNXozVE10dWZKa1N4SkRmcmhNcXc1bGZsWXhocG5tcjRiYk1WOXJqM2hxOXBIWk1XT3N2cXNGU2FPZjBCS0hmSjRpVkMxNUo5bjktcdIBpAFBVV95cUxQV0lNQk9FcjNyTldnc3pXbUM2TjZoUHNCa1lmTUU3MG13Z3F2dG1zeEd1T3p2VDI4Ti1US2ZqeEtpejZNY2lSdlhaSDhqdFlDVl9HdnVhMmNBNXozVE10dWZKa1N4SkRmcmhNcXc1bGZsWXhocG5tcjRiYk1WOXJqM2hxOXBIWk1XT3N2cXNGU2FPZjBCS0hmSjRpVkMxNUo5bjktcQ?oc=5",
+      "source": "Daily Express US",
       "date": "Thu, 26 Nov 2026 18:18",
-      "published_at": "2026-11-26T18:18:00+00:00",
-      "category": "Africa"
+      "published_at": "2026-11-26T18:18:27+00:00",
+      "category": "Entertainment"
     },
     {
       "title": "Great Britain defeat Germany for first Davis Cup semi-final in seven years - Davis Cup - The World Cup of Tennis - Davis Cup",
@@ -2353,14 +2441,6 @@
       "source": "BBC",
       "date": "Thu, 26 Nov 2026 17:12",
       "published_at": "2026-11-26T17:12:45+00:00",
-      "category": "Germany"
-    },
-    {
-      "title": "Alexander Zverev, Germany out of Davis Cup after quarterfinal loss to Britain - ESPN",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQdXhJUTNHME13QldDcTNjZUQ1Z294VXpIeW1RM2J4THNWcXhmdGZRQTl5NHQ4WjNPN1hPRml2VjRmR1lyNjNVMG5wN2hUOWppQ2pRVWFoNEduNkNfQ0JvVHplWERja3VVZXRfU0VtRG5nOW5aTVZtREo3MldRX1c1LWlmWTVadHJIRWwxeDlxcEQ4a0dtUUdMejBtejJKZnhOcjRyemFVVV9ydWNxMkZnUQ?oc=5",
-      "source": "ESPN",
-      "date": "Thu, 26 Nov 2026 17:08",
-      "published_at": "2026-11-26T17:08:00+00:00",
       "category": "Germany"
     },
     {
@@ -2386,6 +2466,14 @@
       "date": "Thu, 26 Nov 2026 16:18",
       "published_at": "2026-11-26T16:18:57+00:00",
       "category": "Sports"
+    },
+    {
+      "title": "Browns support 5th Edition of the Nigerian Secondary School Flag Football League - Cleveland Browns",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNYnN6SkNDY3ZURjF2aER5eXpsNFdBd3N5WERhMmpxel9ERnhIR2hoeDRFcVVTRVdTdW1YRGJOdFhPNTU0U1FLdG9mYWpFU2o1OEVZRzJwWXdDOVZram5KcEhHQ2RLdHJRRGRxOWozNGtXRjM1dGNVNDlpMURBcXV1UVp5T25xb1dBS3lta1lPUHZnWXFYNXIzcUlOUXNIbTVYZzVpTjRhVzZ4M2JaM1M0M3A0T2NpRnRk?oc=5",
+      "source": "Cleveland Browns",
+      "date": "Thu, 26 Nov 2026 16:06",
+      "published_at": "2026-11-26T16:06:09+00:00",
+      "category": "Nigeria"
     },
     {
       "title": "Pep Guardiola calls on world to ‘disobey horror’ over Gaza and praises BDS - Al Jazeera",
@@ -2428,28 +2516,12 @@
       "category": "Politics"
     },
     {
-      "title": "From Statutory Reporting to Africa Empowerment: Launch Workshop for National Focal Points of the Fourth Cycle of Periodic Reporting in Africa - UNESCO World Heritage Centre",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5tRXhSZk1KMVRwdWhLOWhrakxTek9PU0ZBRzFRbXhHcFRFY0UyUHBwR2lodTYwVjFLNFVaLUp6djliTHA5ejFxNXZsOA?oc=5",
-      "source": "UNESCO World Heritage Centre",
-      "date": "Thu, 26 Nov 2026 14:28",
-      "published_at": "2026-11-26T14:28:28+00:00",
-      "category": "Africa"
-    },
-    {
       "title": "Africa news roundup: 20-26 November - Research Professional News",
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNb0dOeUNxN2xTQmJkWVJxN1lNUzlFdmY4U2NUakJuclRoaDU2OE5lRWJqWWNhZDY4NjNha0ZOWlFCZjgwQUNKVTNjS2xadEJVenFKSTZDd0lvc3otV3hjSWtUcGZnU0FtWHhZT3pnSGxJNnpENWlweHZmSWVkb3F1T3M2dkxESWQycjVpcXpiZ2NZUktmSmZhbjZYeFRYcnFjT0RRZW5oUTUwN3VmODhMRQ?oc=5",
       "source": "Research Professional News",
       "date": "Thu, 26 Nov 2026 13:06",
       "published_at": "2026-11-26T13:06:59+00:00",
       "category": "Africa"
-    },
-    {
-      "title": "Kelly Osbourne, 42, addresses 28lbs weight gain transformation after alarming appearance - Daily Express US",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQVkFyTkNDVlB2MzQ1cHhDT3RMa0tHWXRtUXRGU0hIY2ItUTZDbzAxcTZ3c3Q4WGczZDhkX2ZvYmtWbjJ3TFptOUNQaXVEUlZlMFZueS1kUzhlZjdvQmVJQmtNaGV2NXhHUTVEUndZbUVmVnJIcURfaGFVZWFNMVU2VTVmZ2g3TG1kTzE5bm1ESUJvOHhiaGExRFFEVjAwbFRrQndYbmZwMFphTnN6MWfSAa4BQVVfeXFMUFZBck5DQ1ZQdjM0NXB4Q090TGtLR1l0bVF0RlNISGNiLVE2Q28wMXE2d3N0OFhnM2Q4ZF9mb2JrVm4yd0xabTlDUGl1RFJWZTBWbnktZFM4ZWY3b0JlSUJrTWhldjV4R1E1RFJ3WW1FZlZySHFEX2hhVWVhTTFVNlU1ZmdoN0xtZE8xOW5tRElCbzh4YmhhMURRRFYwMGxUa0J3WG5mcDBaYU5zejFn?oc=5",
-      "source": "Daily Express US",
-      "date": "Thu, 26 Nov 2026 13:00",
-      "published_at": "2026-11-26T13:00:00+00:00",
-      "category": "Entertainment"
     },
     {
       "title": "AMERICA’S CUP HONOURED AT THE BEST EVENT AWARDS IN VENICE - Louis Vuitton 38th America’s Cup",
@@ -2474,14 +2546,6 @@
       "date": "Thu, 26 Nov 2026 12:14",
       "published_at": "2026-11-26T12:14:44+00:00",
       "category": "Entertainment"
-    },
-    {
-      "title": "Israel FA and Reichman University welcome 300 experts to international sports medicine conference - The Jerusalem Post",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBSYXZ1UWdQOUpRZTd5T1BVcFVJbTBsU1EwWVVGTnRtQ1FmZGJCSXVsU041eld0bWExUXJfNEpEeWpLRFdESjJfUzZOcjRvcFl2blltNFZ3?oc=5",
-      "source": "The Jerusalem Post",
-      "date": "Thu, 26 Nov 2026 12:06",
-      "published_at": "2026-11-26T12:06:43+00:00",
-      "category": "Sports"
     },
     {
       "title": "Economy continues to grow despite global challenges – PM - Egypt Independent",
@@ -2548,12 +2612,12 @@
       "category": "America"
     },
     {
-      "title": "Business in a slowing economy, but a faster pace of change - William Buck Australia",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNMnh0elJHSFRvQUpZZWFYb21oY1ZwUm9VSEtIZ09vaGFFd1NzY1h5bEdILWpJeE9qU2QxZWJud3hvN0xfbC1lTTRMTk5WajRHVmdoeG1qQm4yNkRaRk93LVRTX2FxZHpLUEFYcWJ3Ny1vaWxJc3B1OUVCTjMzSHd5RVZFa1VpYzRPMnBGNDdVbmJzMFYxZktMdS1zR0d6YUw0NjRPT3dnbw?oc=5",
-      "source": "William Buck Australia",
-      "date": "Thu, 26 Nov 2026 00:03",
-      "published_at": "2026-11-26T00:03:19+00:00",
-      "category": "Business"
+      "title": "Celebrity deaths 2026: Remembering the stars who died this year - Entertainment Weekly",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE84ZTg1Z05mQ3JVYmpCb3dWbHl5Y3pMcHlYNVBtUDlsX0d0VGs5QXdOME5FUzFETWhGTTZQUzllUWZwakRJUWYyeDBCS0lYRFZ5TXAzLXdhZDM0d2s5dzhEdUhfMHk5a3hlRXRNSkVaMUNwbmx4ampTaXVB?oc=5",
+      "source": "Entertainment Weekly",
+      "date": "Wed, 25 Nov 2026 23:03",
+      "published_at": "2026-11-25T23:03:00+00:00",
+      "category": "Entertainment"
     },
     {
       "title": "LOS ANGELES AUTO SHOW HEADS INTO THANKSGIVING FOR FIVE MORE EXCITING DAYS OF AUTOMOTIVE ENTERTAINMENT, CELEBRITY APPEARANCES AND FAMILY FUN - PR Newswire",
@@ -2564,28 +2628,36 @@
       "category": "Entertainment"
     },
     {
-      "title": "The new geopolitics of religious soft power - Atlantic Council",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNd2dCY2h1WExDUHZlcEVCVG5QRDdvSmZBUkpwRXNzUEhTU0F0b0RZZDZsTU83ZUlLVzJkNXEzX0RFcnBKQ1poM3ZBQi1KUlliNUJwN1pPZnh2WFhTQ21IUVEtU1pLSE9zWWx1N0QyWXlxbExpckI5T1E0RlBqRzlrSm53ODFOSnJEdEE?oc=5",
-      "source": "Atlantic Council",
-      "date": "Wed, 25 Nov 2026 18:58",
-      "published_at": "2026-11-25T18:58:43+00:00",
+      "title": "BRICS Summit 2026: How the grouping is reshaping the global economic order - DD News",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNOHRyeFBYM0RoaGJ3TndJeGZwT0xTaGRkTTRpcUN0WmVvNFNfLVZXMHFlbmpocTZnTmMwVGNpOHFqVGJxcW1SMzNJLUdFZndVbXBUajdUd3VwNXZ2eTQ4S1J4eTRTbl9Eb0FReWNWeVAyT1hOaEh1MEVnei1XU09helZCQTg3SlByalpqZ1FPNGNTNjZZc1pHeUJoaDk4Zkhl?oc=5",
+      "source": "DD News",
+      "date": "Wed, 25 Nov 2026 18:34",
+      "published_at": "2026-11-25T18:34:21+00:00",
+      "category": "Business"
+    },
+    {
+      "title": "Nigeria’s Tinubu pledges to bring peace to rebellion-hit border region - Al Jazeera",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNbzJOZExJTjEzeUpfb1d5V2x0YmpDbk5Ea0x0aGN1aGVQaF9mR1NoWTZrNWNLM0ZEVUdyeENmelpkRl9SV0Q5bXZrSVNubFdXQm5xVkQ4ejcybXN6a2pyRVBkZTdzcklzeEQyMkk5bmdIc0dIQTJKbXg3LXBLOUdYdF9uSVBEel9OUmRUTy1wUzc2ZU9DSGxVbWduUjhuY3hEZ2NTWGlTelV0NEJ0OHlwTU9udG1TUdIBuwFBVV95cUxORWFkVTB3ZzYwTV9WWF80ZUhnUEJkMFd5djlUclhkQUV2eEpmRENXWG9fQXVhOHhLTl9WMGU5azZuUFd5NWhkcm52OW1fd05HMmgtdkhJNS1IVzZaSFFUcXNrLUFabXROeDUyaVM5YlU5a2JEM0xkMkR5VlZTMlVIYmx2TG5Ock41U201VWdhT0ZYMnlJRjdCQUZUbXpNZ2JrbVIyY1hBbVFRWGprUVAta0ZNR0VqaVpjTTRR?oc=5",
+      "source": "Al Jazeera",
+      "date": "Wed, 25 Nov 2026 18:19",
+      "published_at": "2026-11-25T18:19:15+00:00",
+      "category": "Nigeria"
+    },
+    {
+      "title": "Reshaping Russia: Power, Economics and Statecraft - The International Institute for Strategic Studies",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQMmlvQk5lZHNCNzZqdDRsVXJ4X0d4VnktTmNMT3l6cXB4Qm5LUkMyeWo0UFNFTHFoUHd4RnRLUHE4ajVlYWlLS1hLUXNOVGhneFQ2c1RTamxJNjVjQ2M0dGZGUTV4V2tTSllwN1I0RjZVNFpLaFpJS19fMkI0UjNtWWN3QWJRSE9lcUphWVZVbzlWN2RmUGJvVmdNTQ?oc=5",
+      "source": "The International Institute for Strategic Studies",
+      "date": "Wed, 25 Nov 2026 16:54",
+      "published_at": "2026-11-25T16:54:13+00:00",
       "category": "Politics"
     },
     {
-      "title": "School Assembly News Headlines (November 26): Top National, International, Sports News - NDTV",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPNEtqaE16eUdnNl9iRm5vcDV3RWgya3ZwdXZMWlh4RFEwR0hqV3ZvRjYwWUJiT2JUWGNERVZfb1JBX1owSnQ4Skl0OTRpUWJCbDU5bHFlREoxSVk5YkdzOTRNYUVpSzNWdHZhZDQ5TlFXcGtldFREZDJyOU5DRXFuclNfU21DeGhZelZsYUtELVVGS1lUb2hrMm12SHQyX051eWxxaGtIeG1Tbk9xdEQ1Uk9kUmkzUmJqbHFrRnhn0gHGAUFVX3lxTFBPX0M4QkZsaHVrODgtOWVJby03QlFycWdVTVBrLUFYWjVfYnRUZWhlLWM1d2ItN2tTeXQyd1Q2Zks5R05XQUN6dGZkbEdwRkpYU29mVEtpbThvMWN0SENobE8wQmo3STBrTk9sVGF4LVo5VHA2OElOUGZ6NU90SDdhcUhPdjYtSHAxM3RXUTNxRTZDZnVOWjRZTkNNT3NMdGNVOVEtTFo3N1BsRUt5cEVqcm9NWmFPQURsTDdia2FGelE4OHROZw?oc=5",
-      "source": "NDTV",
-      "date": "Wed, 25 Nov 2026 14:06",
-      "published_at": "2026-11-25T14:06:30+00:00",
-      "category": "Sports"
-    },
-    {
-      "title": "Top Ten Celebrity Winners and Losers of 2010 - ABC News - Breaking News, Latest News and Videos",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxONlMzQi1ybXZVSXlJZ3N3S2NuNHlyQ21TQTVJQ1lSUFdLNmNCSGtmWm9TcC1SMGtXc1pMT0Q4Xy03Z1JiS1FMaTQ4a0RrZkg0WGdaNGxHZngzd09GcTlPcUFfbnhhOEtrcXFqZXNyOUxiQ0ItN2hPaDlzMHdSWWR0MjFLeUhuZzdFV0tNTUFMeEVuYzBCd1gtNmZ4WUZXaEI1R3pBSldWONIBrAFBVV95cUxPWVBvUEcwY0M3a201RTRVSUpSUjZlVUk5d1k0Q1RWWVRydnV2aWZzX3VMWS1ad2d1UE1hWS1kLTktN20tamFYeWJmWXQxYXppRmVqM3hDR3R6YmZZVG1td0RmR3BSTVItdUF2SnV5aVZrZWFVZVllWHFOWTFTb2Q2QVplUjRmeXFHOVdGdW1SVi1TWmhjSFZRdk9OWUl3V1lsOG5rU3VVN0R1OFBY?oc=5",
-      "source": "ABC News - Breaking News, Latest News and Videos",
-      "date": "Wed, 25 Nov 2026 13:57",
-      "published_at": "2026-11-25T13:57:01+00:00",
-      "category": "Entertainment"
+      "title": "Five Mexicans arrested in Nigeria over $227m meth lab - BBC",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9XV2RqYTFzV3dHYTRMcW10LUFybHFucVJQSEh0TEE0YXRkU0dDX2doS3VrbVdTa1lTLTAzWFM4bnlXcnF1V0E0aFN3TXpMd3BwVkFCV1Rmb3lwSjdpS0E?oc=5",
+      "source": "BBC",
+      "date": "Wed, 25 Nov 2026 15:11",
+      "published_at": "2026-11-25T15:11:15+00:00",
+      "category": "Nigeria"
     },
     {
       "title": "Jensen Huang saga hides America's big chip blunder - IAI TV",
@@ -2594,6 +2666,14 @@
       "date": "Wed, 25 Nov 2026 13:36",
       "published_at": "2026-11-25T13:36:26+00:00",
       "category": "America"
+    },
+    {
+      "title": "Veteran Nigerian Nollywood actor Pete Edochie dies aged 79 - BBC",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1UMmRvZlRYUzM5WGZWOFdDY2c4VjVwVGppMXNpdVZmRS1IRjNkLXJhOHNPazBhRjZ0bHN5MFd3Nnp2NDlkQUZIcEl6TTBnRTNFc1VjLWxSeVdSaGM?oc=5",
+      "source": "BBC",
+      "date": "Wed, 25 Nov 2026 12:24",
+      "published_at": "2026-11-25T12:24:12+00:00",
+      "category": "Nigeria"
     },
     {
       "title": "Ice hockey federation appeals against Russia ban ruling - BBC",
