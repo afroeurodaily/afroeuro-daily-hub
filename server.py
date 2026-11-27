@@ -40,7 +40,7 @@ class Handler(BaseHTTPRequestHandler):
         self.send_header('X-Content-Type-Options','nosniff');self.send_header('X-Frame-Options','DENY')
         self.send_header('Referrer-Policy','strict-origin-when-cross-origin')
         self.send_header('Cache-Control','no-store')
-        self.send_header('Content-Security-Policy',"default-src 'self'; style-src 'self' 'unsafe-inline'; script-src 'self' 'unsafe-inline'; img-src 'self' data:; connect-src 'self'; base-uri 'none'; form-action 'self'")
+        self.send_header('Content-Security-Policy',"default-src 'self'; style-src 'self' 'unsafe-inline'; script-src 'self' 'unsafe-inline'; img-src 'self' data: https://a.espncdn.com; connect-src 'self' https://api.frankfurter.dev https://open.er-api.com; base-uri 'none'; form-action 'self'")
         if cookie:self.send_header('Set-Cookie',cookie)
         self.end_headers()
     def send(self,body,status=200,kind='text/html; charset=utf-8',cookie=None):
