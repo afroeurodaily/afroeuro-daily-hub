@@ -100,6 +100,13 @@ button:disabled{opacity:.5}
 <p id="count" class="small"></p>
 <div id="posts"></div>
 </div>
+<div class="panel">
+  <h2>Manage Comments</h2>
+  <p class="small">Review, approve or delete user comments.</p>
+  <button type="button" id="refreshComments" class="alt">Refresh Comments</button>
+  <p id="commentCount" class="small"></p>
+  <div id="comments"></div>
+</div>
 </section>
 </main>
 
@@ -122,7 +129,10 @@ async function checkLogin(){
 const {data,error} = await db.auth.getUser();
 const allowed = !error && data.user?.id === OWNER;
 showDashboard(allowed);
-if(allowed) await loadPosts();
+if(allowed) {
+  await loadPosts();
+  await loadComments();
+}
 else if(data.user) await db.auth.signOut();
 }
 
@@ -151,6 +161,7 @@ return;
 $('loginMessage').textContent = '';
 showDashboard(true);
 await loadPosts();
+await loadComments();
 };
 
 $('logout').onclick = async () => {
@@ -161,6 +172,8 @@ return;
 }
 resetForm();
 $('posts').replaceChildren();
+$('comments').replaceChildren();
+$('commentCount').textContent = '';
 showDashboard(false);
 };
 
@@ -357,6 +370,110 @@ function addMediaUpload(fieldId, type) {
 
 addMediaUpload('image_url', 'image');
 addMediaUpload('video_url', 'video');
+async function loadComments() {
+  const list = $('comments');
+  const status = $('commentCount');
+
+  list.replaceChildren();
+  status.textContent = 'Loading comments...';
+
+  try {
+    const { data: auth, error: authError } =
+      await db.auth.getUser();
+
+    if (authError || auth.user?.id !== OWNER) {
+      throw new Error('Administrator access required.');
+    }
+
+    const { data, error } = await db
+      .from('post_comments')
+      .select('id, post_id, content, approved, created_at')
+      .order('created_at', { ascending: false });
+
+    if (error) throw error;
+
+    status.textContent = data.length + ' comment(s) loaded';
+
+    if (!data.length) {
+      status.textContent = 'No comments yet.';
+      return;
+    }
+
+    data.forEach(comment => {
+      const item = document.createElement('div');
+      item.className = 'post';
+
+      const tag = document.createElement('div');
+      tag.className = 'tag';
+      tag.textContent = comment.approved
+        ? 'Approved'
+        : 'Pending approval';
+
+      const content = document.createElement('p');
+      content.textContent = comment.content;
+
+      const date = document.createElement('p');
+      date.className = 'small';
+      date.textContent =
+        new Date(comment.created_at).toLocaleString();
+
+      const approve = document.createElement('button');
+      approve.textContent = comment.approved
+        ? 'Hide comment'
+        : 'Approve comment';
+
+      approve.onclick = async () => {
+        approve.disabled = true;
+
+        const { data, error } = await db
+          .from('post_comments')
+          .update({ approved: !comment.approved })
+          .eq('id', comment.id)
+          .select('id')
+          .single();
+
+        if (error || !data) {
+          alert(error?.message || 'Update failed.');
+          approve.disabled = false;
+        } else {
+          await loadComments();
+        }
+      };
+
+      const remove = document.createElement('button');
+      remove.className = 'danger';
+      remove.textContent = 'Delete comment';
+
+      remove.onclick = async () => {
+        if (!confirm('Permanently delete this comment?')) return;
+
+        remove.disabled = true;
+
+        const { data, error } = await db
+          .from('post_comments')
+          .delete()
+          .eq('id', comment.id)
+          .select('id')
+          .single();
+
+        if (error || !data) {
+          alert(error?.message || 'Delete failed.');
+          remove.disabled = false;
+        } else {
+          await loadComments();
+        }
+      };
+
+      item.append(tag, content, date, approve, remove);
+      list.appendChild(item);
+    });
+
+  } catch (error) {
+    status.textContent = error.message;
+  }
+}
+
+$('refreshComments').onclick = loadComments;
 </script>  
 </body>
 </html>
