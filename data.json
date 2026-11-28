@@ -1,450 +1,6 @@
 {
-  "updated_at": "2026-11-27T23:55:40.977383+00:00",
+  "updated_at": "2026-11-28T00:00:15.462837+00:00",
   "football": [
-    {
-      "home": "Kairat Almaty",
-      "away": "Mjällby AIF",
-      "home_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/2528.png",
-      "away_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/20301.png",
-      "status": "FT",
-      "state": "post",
-      "score": "1–0",
-      "date": "2026-11-26T15:30Z",
-      "league": "uefa.europa.conf",
-      "league_name": "Conference League"
-    },
-    {
-      "home": "Besiktas",
-      "away": "Hapoel Be'er",
-      "home_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/1895.png",
-      "away_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/13083.png",
-      "status": "FT",
-      "state": "post",
-      "score": "2–1",
-      "date": "2026-11-26T17:45Z",
-      "league": "uefa.europa",
-      "league_name": "Europa League"
-    },
-    {
-      "home": "Celta Vigo",
-      "away": "AFC Bournemouth",
-      "home_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/85.png",
-      "away_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/349.png",
-      "status": "FT",
-      "state": "post",
-      "score": "1–2",
-      "date": "2026-11-26T17:45Z",
-      "league": "uefa.europa",
-      "league_name": "Europa League"
-    },
-    {
-      "home": "Dinamo Zagreb",
-      "away": "Bayer Leverkusen",
-      "home_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/597.png",
-      "away_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/131.png",
-      "status": "FT",
-      "state": "post",
-      "score": "0–2",
-      "date": "2026-11-26T17:45Z",
-      "league": "uefa.europa",
-      "league_name": "Europa League"
-    },
-    {
-      "home": "Marseille",
-      "away": "Levski Sofia",
-      "home_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/176.png",
-      "away_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/490.png",
-      "status": "FT",
-      "state": "post",
-      "score": "1–0",
-      "date": "2026-11-26T17:45Z",
-      "league": "uefa.europa",
-      "league_name": "Europa League"
-    },
-    {
-      "home": "Olympiacos",
-      "away": "AC Milan",
-      "home_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/435.png",
-      "away_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/103.png",
-      "status": "FT",
-      "state": "post",
-      "score": "2–4",
-      "date": "2026-11-26T17:45Z",
-      "league": "uefa.europa",
-      "league_name": "Europa League"
-    },
-    {
-      "home": "RB Salzburg",
-      "away": "Ararat-Armenia",
-      "home_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/2790.png",
-      "away_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/20024.png",
-      "status": "FT",
-      "state": "post",
-      "score": "2–0",
-      "date": "2026-11-26T17:45Z",
-      "league": "uefa.europa",
-      "league_name": "Europa League"
-    },
-    {
-      "home": "Union St.-Gilloise",
-      "away": "Lech Poznan",
-      "home_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/5807.png",
-      "away_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/2990.png",
-      "status": "FT",
-      "state": "post",
-      "score": "2–2",
-      "date": "2026-11-26T17:45Z",
-      "league": "uefa.europa",
-      "league_name": "Europa League"
-    },
-    {
-      "home": "Viktoria Plzen",
-      "away": "Benfica",
-      "home_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/11706.png",
-      "away_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/1929.png",
-      "status": "FT",
-      "state": "post",
-      "score": "4–0",
-      "date": "2026-11-26T17:45Z",
-      "league": "uefa.europa",
-      "league_name": "Europa League"
-    },
-    {
-      "home": "Ajax Amsterdam",
-      "away": "FC Thun",
-      "home_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/139.png",
-      "away_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/3024.png",
-      "status": "FT",
-      "state": "post",
-      "score": "4–0",
-      "date": "2026-11-26T17:45Z",
-      "league": "uefa.europa.conf",
-      "league_name": "Conference League"
-    },
-    {
-      "home": "Brighton & Hove Albion",
-      "away": "Universitatea Craiova",
-      "home_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/331.png",
-      "away_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/8089.png",
-      "status": "FT",
-      "state": "post",
-      "score": "4–0",
-      "date": "2026-11-26T17:45Z",
-      "league": "uefa.europa.conf",
-      "league_name": "Conference League"
-    },
-    {
-      "home": "Egnatia",
-      "away": "Lincoln Red Imps",
-      "home_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/21943.png",
-      "away_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/17856.png",
-      "status": "FT",
-      "state": "post",
-      "score": "2–1",
-      "date": "2026-11-26T17:45Z",
-      "league": "uefa.europa.conf",
-      "league_name": "Conference League"
-    },
-    {
-      "home": "Heart of Midlothian",
-      "away": "AS Monaco",
-      "home_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/262.png",
-      "away_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/174.png",
-      "status": "FT",
-      "state": "post",
-      "score": "2–3",
-      "date": "2026-11-26T17:45Z",
-      "league": "uefa.europa.conf",
-      "league_name": "Conference League"
-    },
-    {
-      "home": "Iberia 1999",
-      "away": "Getafe",
-      "home_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/20025.png",
-      "away_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/2922.png",
-      "status": "FT",
-      "state": "post",
-      "score": "1–0",
-      "date": "2026-11-26T17:45Z",
-      "league": "uefa.europa.conf",
-      "league_name": "Conference League"
-    },
-    {
-      "home": "Jablonec",
-      "away": "FC Lugano",
-      "home_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/7922.png",
-      "away_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/7672.png",
-      "status": "FT",
-      "state": "post",
-      "score": "2–0",
-      "date": "2026-11-26T17:45Z",
-      "league": "uefa.europa.conf",
-      "league_name": "Conference League"
-    },
-    {
-      "home": "Kauno Zalgiris",
-      "away": "Riga FC",
-      "home_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/20028.png",
-      "away_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/19246.png",
-      "status": "FT",
-      "state": "post",
-      "score": "2–0",
-      "date": "2026-11-26T17:45Z",
-      "league": "uefa.europa.conf",
-      "league_name": "Conference League"
-    },
-    {
-      "home": "Pafos",
-      "away": "FC Midtjylland",
-      "home_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/22281.png",
-      "away_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/572.png",
-      "status": "FT",
-      "state": "post",
-      "score": "0–2",
-      "date": "2026-11-26T17:45Z",
-      "league": "uefa.europa.conf",
-      "league_name": "Conference League"
-    },
-    {
-      "home": "SK Brann",
-      "away": "AGF",
-      "home_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/620.png",
-      "away_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/7853.png",
-      "status": "FT",
-      "state": "post",
-      "score": "1–4",
-      "date": "2026-11-26T17:45Z",
-      "league": "uefa.europa.conf",
-      "league_name": "Conference League"
-    },
-    {
-      "home": "Crystal Palace",
-      "away": "Real Sociedad",
-      "home_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/384.png",
-      "away_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/89.png",
-      "status": "FT",
-      "state": "post",
-      "score": "2–1",
-      "date": "2026-11-26T20:00Z",
-      "league": "uefa.europa",
-      "league_name": "Europa League"
-    },
-    {
-      "home": "Ferencvaros",
-      "away": "NK Celje",
-      "home_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/622.png",
-      "away_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/3362.png",
-      "status": "FT",
-      "state": "post",
-      "score": "0–0",
-      "date": "2026-11-26T20:00Z",
-      "league": "uefa.europa",
-      "league_name": "Europa League"
-    },
-    {
-      "home": "Juventus",
-      "away": "Omonia Nicosia",
-      "home_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/111.png",
-      "away_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/617.png",
-      "status": "FT",
-      "state": "post",
-      "score": "4–1",
-      "date": "2026-11-26T20:00Z",
-      "league": "uefa.europa",
-      "league_name": "Europa League"
-    },
-    {
-      "home": "Lyon",
-      "away": "Lillestrom",
-      "home_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/167.png",
-      "away_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/987.png",
-      "status": "FT",
-      "state": "post",
-      "score": "0–0",
-      "date": "2026-11-26T20:00Z",
-      "league": "uefa.europa",
-      "league_name": "Europa League"
-    },
-    {
-      "home": "NEC Nijmegen",
-      "away": "Stade Rennais",
-      "home_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/147.png",
-      "away_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/169.png",
-      "status": "FT",
-      "state": "post",
-      "score": "3–1",
-      "date": "2026-11-26T20:00Z",
-      "league": "uefa.europa",
-      "league_name": "Europa League"
-    },
-    {
-      "home": "OFI Crete",
-      "away": "Anderlecht",
-      "home_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/1010.png",
-      "away_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/441.png",
-      "status": "FT",
-      "state": "post",
-      "score": "1–3",
-      "date": "2026-11-26T20:00Z",
-      "league": "uefa.europa",
-      "league_name": "Europa League"
-    },
-    {
-      "home": "Sparta Prague",
-      "away": "AZ Alkmaar",
-      "home_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/433.png",
-      "away_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/140.png",
-      "status": "FT",
-      "state": "post",
-      "score": "2–4",
-      "date": "2026-11-26T20:00Z",
-      "league": "uefa.europa",
-      "league_name": "Europa League"
-    },
-    {
-      "home": "Sunderland",
-      "away": "Jagiellonia Bialystok",
-      "home_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/366.png",
-      "away_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/11505.png",
-      "status": "FT",
-      "state": "post",
-      "score": "1–1",
-      "date": "2026-11-26T20:00Z",
-      "league": "uefa.europa",
-      "league_name": "Europa League"
-    },
-    {
-      "home": "Torreense",
-      "away": "Celtic",
-      "home_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/21615.png",
-      "away_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/256.png",
-      "status": "FT",
-      "state": "post",
-      "score": "1–2",
-      "date": "2026-11-26T20:00Z",
-      "league": "uefa.europa",
-      "league_name": "Europa League"
-    },
-    {
-      "home": "TSG Hoffenheim",
-      "away": "SK Sturm Graz",
-      "home_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/7911.png",
-      "away_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/3746.png",
-      "status": "FT",
-      "state": "post",
-      "score": "3–1",
-      "date": "2026-11-26T20:00Z",
-      "league": "uefa.europa",
-      "league_name": "Europa League"
-    },
-    {
-      "home": "Borac Banja Luka",
-      "away": "Atalanta",
-      "home_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/20710.png",
-      "away_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/105.png",
-      "status": "FT",
-      "state": "post",
-      "score": "2–3",
-      "date": "2026-11-26T20:00Z",
-      "league": "uefa.europa.conf",
-      "league_name": "Conference League"
-    },
-    {
-      "home": "Braga",
-      "away": "KuPS Kuopio",
-      "home_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/2994.png",
-      "away_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/8169.png",
-      "status": "FT",
-      "state": "post",
-      "score": "4–0",
-      "date": "2026-11-26T20:00Z",
-      "league": "uefa.europa.conf",
-      "league_name": "Conference League"
-    },
-    {
-      "home": "CSKA Sofia",
-      "away": "Trabzonspor",
-      "home_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/10834.png",
-      "away_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/997.png",
-      "status": "FT",
-      "state": "post",
-      "score": "1–2",
-      "date": "2026-11-26T20:00Z",
-      "league": "uefa.europa.conf",
-      "league_name": "Conference League"
-    },
-    {
-      "home": "FC Nordsjælland",
-      "away": "Panathinaikos",
-      "home_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/3101.png",
-      "away_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/443.png",
-      "status": "FT",
-      "state": "post",
-      "score": "3–2",
-      "date": "2026-11-26T20:00Z",
-      "league": "uefa.europa.conf",
-      "league_name": "Conference League"
-    },
-    {
-      "home": "Hajduk Split",
-      "away": "Sint-Truidense",
-      "home_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/489.png",
-      "away_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/936.png",
-      "status": "FT",
-      "state": "post",
-      "score": "0–2",
-      "date": "2026-11-26T20:00Z",
-      "league": "uefa.europa.conf",
-      "league_name": "Conference League"
-    },
-    {
-      "home": "Inter D'Escaldes",
-      "away": "F.C. København",
-      "home_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/20703.png",
-      "away_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/909.png",
-      "status": "FT",
-      "state": "post",
-      "score": "2–0",
-      "date": "2026-11-26T20:00Z",
-      "league": "uefa.europa.conf",
-      "league_name": "Conference League"
-    },
-    {
-      "home": "KAA Gent",
-      "away": "Red Star Belgrade",
-      "home_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/3611.png",
-      "away_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/2290.png",
-      "status": "FT",
-      "state": "post",
-      "score": "1–1",
-      "date": "2026-11-26T20:00Z",
-      "league": "uefa.europa.conf",
-      "league_name": "Conference League"
-    },
-    {
-      "home": "SC Freiburg",
-      "away": "FC Twente",
-      "home_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/126.png",
-      "away_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/152.png",
-      "status": "FT",
-      "state": "post",
-      "score": "2–1",
-      "date": "2026-11-26T20:00Z",
-      "league": "uefa.europa.conf",
-      "league_name": "Conference League"
-    },
-    {
-      "home": "São Paulo",
-      "away": "Remo",
-      "home_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/2026.png",
-      "away_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/4936.png",
-      "status": "FT",
-      "state": "post",
-      "score": "3–1",
-      "date": "2026-11-26T23:00Z",
-      "league": "bra.1",
-      "league_name": "Brazil Serie A"
-    },
     {
       "home": "FC Groningen",
       "away": "Willem II",
@@ -1728,6 +1284,66 @@
       "date": "2026-11-29T23:30Z",
       "league": "arg.1",
       "league_name": "Argentina Primera"
+    },
+    {
+      "home": "Lecce",
+      "away": "Atalanta",
+      "home_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/113.png",
+      "away_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/105.png",
+      "status": "Scheduled",
+      "state": "pre",
+      "score": "",
+      "date": "2026-11-30T17:30Z",
+      "league": "ita.1",
+      "league_name": "Serie A"
+    },
+    {
+      "home": "Cagliari",
+      "away": "AC Milan",
+      "home_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/2925.png",
+      "away_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/103.png",
+      "status": "Scheduled",
+      "state": "pre",
+      "score": "",
+      "date": "2026-11-30T19:45Z",
+      "league": "ita.1",
+      "league_name": "Serie A"
+    },
+    {
+      "home": "Espanyol",
+      "away": "Getafe",
+      "home_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/88.png",
+      "away_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/2922.png",
+      "status": "Scheduled",
+      "state": "pre",
+      "score": "",
+      "date": "2026-11-30T20:00Z",
+      "league": "esp.1",
+      "league_name": "La Liga"
+    },
+    {
+      "home": "Benfica",
+      "away": "FC Famalicao",
+      "home_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/1929.png",
+      "away_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/12698.png",
+      "status": "Scheduled",
+      "state": "pre",
+      "score": "",
+      "date": "2026-11-30T20:15Z",
+      "league": "por.1",
+      "league_name": "Primeira Liga"
+    },
+    {
+      "home": "Casa Pia",
+      "away": "Braga",
+      "home_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/21581.png",
+      "away_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/2994.png",
+      "status": "Scheduled",
+      "state": "pre",
+      "score": "",
+      "date": "2026-11-30T20:15Z",
+      "league": "por.1",
+      "league_name": "Primeira Liga"
     }
   ],
   "news": [
@@ -1749,10 +1365,10 @@
     },
     {
       "title": "Nigeria ready to host international sports events – Olopade - Punch Newspapers",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQT0FaaUlMZlNFQmMzSEtjRDdLV3BzYzVEYzdOMHZwN3gxMkFrX2stb2JoLWt1Z3p0ME9LUzlQWUJDdExqbTBkb3dJX09vVVJWRzFlYkI5YW85ZlVwcGxnclZiR2tQb2pwSFUtM01TRW5iTncxcUd6RUxVbHhEazZmM1pYQV8?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQQ1ZxLUpmckFXNjA4OWNjVTh1VWJSUWVRNk1IMkp4VllTN1ZfVXdyN3lra0NhNWhfUVdvY09CN19tUlc5VG9qWU1GNlJKRnlzUndOV21yV2pXQVJWdWY0dkttSFU3dmVFNjdQSzdsbWRpVlA0b2xFNnA1aU5POHU3SHBLNEg0LUdraFE?oc=5",
       "source": "Punch Newspapers",
       "date": "Fri, 27 Nov 2026 23:15",
-      "published_at": "2026-11-27T23:15:00+00:00",
+      "published_at": "2026-11-27T23:15:35+00:00",
       "category": "Sports"
     },
     {
@@ -1780,6 +1396,14 @@
       "category": "Africa"
     },
     {
+      "title": "Cricket Diplomacy: Strengthening Pakistan-Turkey Brotherhood – OpEd - Eurasia Review",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNeEV1Y0tFUjR1VlptazV3Um1Fa2hod2RzVUV5TFR3aW1xTFR4bVIwZHJ2ZG5xLUdOWklSREZwVGJaTl8yLXhQXzNrT3E0cGE4d0VaS0xiRzFKZFVzQ1J4NE5IRHBnTHNqM3BrY2ZVMDhsTXN3VkJXT3BURExmX2xnRG5IRXFMczFfeHRYc3VsaGZKd1d3NUt5YXJaQ1VSLWZKcVlVWXVmRQ?oc=5",
+      "source": "Eurasia Review",
+      "date": "Fri, 27 Nov 2026 22:59",
+      "published_at": "2026-11-27T22:59:57+00:00",
+      "category": "Politics"
+    },
+    {
       "title": "U.N. warns hunger will deepen in the Middle East as war, fuel costs and aid cuts collide - Los Angeles Times",
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxObkJYRE92ekF5Q1JZeTUtVEh3SUllbEZQZW93QmdLNk5RclE5Rng4aDZXV3BObjJWNTJmazhzYjRya2hGdHFSTm1DU2hqVUhnakY4bVN3b1JXOUI3bzJYY3dMNFBkbF9kcFB4Y1I0Sk0tWTdrRXZMRDdha3NFY3RfeTUtSjJXVWpNRklhakpqc3VGakgwTk51NXBVTm1lZw?oc=5",
       "source": "Los Angeles Times",
@@ -1794,6 +1418,14 @@
       "date": "Fri, 27 Nov 2026 22:49",
       "published_at": "2026-11-27T22:49:29+00:00",
       "category": "America"
+    },
+    {
+      "title": "Germany news: Parliament approves €556 billion 2027 budget - DW.com",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQejdpQ1NEc2pFWnplMjBSbk41amhNY2picVVTWk94V05Zd2FuaXRLdnJ5cTA5TU0ySlBvQ3BueW5xSGhVNXFOckNzSTlTN19td1FGbzAteXpmM1ZVcXVGRHRoaWdzLUdhalBiVWw4OE9Yd2gxbF9aaThPeEh2SWdDTFBUMWRTeERaVTBYM3FETEtWX1U?oc=5",
+      "source": "DW.com",
+      "date": "Fri, 27 Nov 2026 22:26",
+      "published_at": "2026-11-27T22:26:20+00:00",
+      "category": "Germany"
     },
     {
       "title": "What to watch this weekend in international sports - CBC",
@@ -1836,28 +1468,12 @@
       "category": "Germany"
     },
     {
-      "title": "Geopolitics of East Med redefined: Türkiye-Libya agreement | Daily Sabah - Daily Sabah",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNd0txaTltem42bjdxa2Vld2ZKdXRTYUdsV0lxSmRLSS1YM2kxU1JYQkZrZVJ4MDhZSm5hQVA1VnJEUkxRcUh2NmxfMzYyM0JpeFljWjhlZTd4RVdkR1Q1bUlyUm9fdmN5MVdubS14Z2ZicDhjaTZpYTJvc1lfbW5LUHdhSkNmc2owbTU1aHV6anlYU1RfTjBrQUJYWjJXR3JmY3l4ZkdHNNIBpwFBVV95cUxNd0txaTltem42bjdxa2Vld2ZKdXRTYUdsV0lxSmRLSS1YM2kxU1JYQkZrZVJ4MDhZSm5hQVA1VnJEUkxRcUh2NmxfMzYyM0JpeFljWjhlZTd4RVdkR1Q1bUlyUm9fdmN5MVdubS14Z2ZicDhjaTZpYTJvc1lfbW5LUHdhSkNmc2owbTU1aHV6anlYU1RfTjBrQUJYWjJXR3JmY3l4ZkdHNA?oc=5",
-      "source": "Daily Sabah",
-      "date": "Fri, 27 Nov 2026 21:05",
-      "published_at": "2026-11-27T21:05:00+00:00",
-      "category": "Politics"
-    },
-    {
       "title": "Nigeria, Togo sign Data Park deal, target 2027 take-off - The Guardian Nigeria News",
       "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNV3B2UmI1US1RQ3ZNWTRDeUZzOWhvZnMzWHNscGRCUDB1V0E0X29YTV9xRkx3aF9XeE0wdmhtTG5yNHBmZk5WVVdHV3RxZEstamQzNkRzLXdFZ3NrcFdPU196LWc4Vm5SNHUzSFZlQ0UyUW5xWVRBUmRwejdrN1o5Wm1uamc1UQ?oc=5",
       "source": "The Guardian Nigeria News",
       "date": "Fri, 27 Nov 2026 21:03",
       "published_at": "2026-11-27T21:03:32+00:00",
       "category": "Nigeria"
-    },
-    {
-      "title": "Germany news: Parliament approves €556 billion 2027 budget - DW.com",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQejdpQ1NEc2pFWnplMjBSbk41amhNY2picVVTWk94V05Zd2FuaXRLdnJ5cTA5TU0ySlBvQ3BueW5xSGhVNXFOckNzSTlTN19td1FGbzAteXpmM1ZVcXVGRHRoaWdzLUdhalBiVWw4OE9Yd2gxbF9aaThPeEh2SWdDTFBUMWRTeERaVTBYM3FETEtWX1U?oc=5",
-      "source": "DW.com",
-      "date": "Fri, 27 Nov 2026 21:00",
-      "published_at": "2026-11-27T21:00:00+00:00",
-      "category": "Germany"
     },
     {
       "title": "Nelly Korda's famous sporting family: How tennis-playing parents Petr Korda and Regina Rajchrtová and pro - The Times of India",
@@ -1932,6 +1548,14 @@
       "category": "America"
     },
     {
+      "title": "UH Mānoa sociology professor honored with international global studies award - University of Hawaii System",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE52M2MzMkI0N3VnWWdIUElZWU50cUFqNHo2NzdPVEFZX3ZRMU81eldxWXVnRy1BWFBwQUZEU0ZBTmhlNjNvYUpnYjI2ZlNWb29peXJjNTE0c052TXctdFE?oc=5",
+      "source": "University of Hawaii System",
+      "date": "Fri, 27 Nov 2026 19:44",
+      "published_at": "2026-11-27T19:44:00+00:00",
+      "category": "Politics"
+    },
+    {
       "title": "IRO Sushi signs landmark international store in Berlin, Germany - Premier Construction News",
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNajhpRzFtZnRGVUZIZjJjYTlyb2FfUF9zZW9ucUF3NnFlaUlNM2hOcmtTN3hTX1dMTW4wWnBfbUxrSWZLVjBGZEdmOWRiaFZpbW9kQWlpVzN1TjY4bzdMWDRQNVBPWkIzRVNMdTI0Z1E3TVFOLWE0ZFlxRnVzQTdJR3pWd0EtNFZaZF9mWFZFQTd6Qnc1OE11bnpUb2ZTV2lQdzZSZ1lPeUtxTXdLT1VJ?oc=5",
       "source": "Premier Construction News",
@@ -1989,7 +1613,7 @@
     },
     {
       "title": "Satellite imagery shows how fast Lagos and Alexandria are sinking - BBC",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5nMHM2bHBXMjNGTzk5M0trZ1UzcWxrZ01KVkdkNmZrVEpJMDRMU1FQcFJhWU9XeVF6UUdmNzFHVkR1WmpwVGsyUG9OVEhSUEgwQndiaXdZcjBKRzFfSkE?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5NSjJGV0J4dF9SQTFZR3hfSG5ZdmlRd3BQZHBna0pVV0hqSFdfZlVEWDZobDhvTk9HZGtUbmFUdEpCdjRWWURQcWpja1FxUjY3QkVGVlRyRGFoUFE?oc=5",
       "source": "BBC",
       "date": "Fri, 27 Nov 2026 19:03",
       "published_at": "2026-11-27T19:03:18+00:00",
@@ -2012,14 +1636,6 @@
       "category": "Middle East"
     },
     {
-      "title": "Gwen Stefani, 57, celebrates Thanksgiving with husband Blake Shelton at $4m Oklahoma house - Daily Express US",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPYUctNUw4elItTDJvS3NvNWQ3aEYtS0o2a3IxTVNFY2NwZUh3VXhfbkg1ZWhRY0dtNWZZeTRMZG9HZ3VSTWxXUHoxTllDY0hZcnlTeGpJUjhUVVVKbmMtSU9DM3pkWkc1RGc4V0RNUXVQMlphT2RFVllFWC1zajFLNE9RRFlYUXdfeDF6Q2NwRDNyMXBDckl3b2E2NVgwTW9STEJNRkEzcXhhNzdfQWfSAa4BQVVfeXFMT2FHLTVMOHpSLUwyb0tzbzVkN2hGLUtKNmtyMU1TRWNjcGVId1V4X25INWVoUWNHbTVmWXk0TGRvR2d1Uk1sV1B6MU5ZQ2NIWXJ5U3hqSVI4VFVVSm5jLUlPQzN6ZFpHNURnOFdETVF1UDJaYU9kRVZZRVgtc2oxSzRPUURZWFF3X3gxekNjcEQzcjFwQ3JJd29hNjVYME1vUkxCTUZBM3F4YTc3X0Fn?oc=5",
-      "source": "Daily Express US",
-      "date": "Fri, 27 Nov 2026 18:45",
-      "published_at": "2026-11-27T18:45:57+00:00",
-      "category": "Entertainment"
-    },
-    {
       "title": "Qatar GP: Kimi Antonelli dominates first practice from George Russell at Lusail International Circuit - Sky Sports",
       "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPS3UyVXJLdkpic0c3eG5KLVU2Q3p2TTNNR0l5LUdrdVBPLXota0hvU1Jsd0phbGFGZl93QWFTY09BS3daTjNKSnlVMFQ2NndnTmFveGNHTWJva2U5QmlTMlpHNHhCaWN1TTVzU0lQbDV1WnZldWo3UWwwM2dYeW9QVmQ4NE9Pdm1TUU9hb2ZZZ2MyQjkzSlJpSXNaa3ZHb1ZMWVV4UDdYMFhHcXoyR29NdUd6OWk1RWkzcWFxSVVqWi1XYXp1alVCbWRHRkNDM21VeWNCSWF3UXJrWDQ?oc=5",
       "source": "Sky Sports",
@@ -2034,6 +1650,14 @@
       "date": "Fri, 27 Nov 2026 18:33",
       "published_at": "2026-11-27T18:33:45+00:00",
       "category": "Africa"
+    },
+    {
+      "title": "IIEA tribute to Pádraig Murphy - IIEA",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE85REIyQVBjc0dkdzVoRnVtTlR4Vk1DOTZsY2cxVkw4TV9sdTlUeGNicklZVlBicXhTNXRaaHlmOHh1Q0ZYYnd6aHp1MzRkY1VWcDdYQy1Xd0UtRWNURFQyTTBzTDJYWWtEa3V5TW92Z2lUSHF5?oc=5",
+      "source": "IIEA",
+      "date": "Fri, 27 Nov 2026 18:30",
+      "published_at": "2026-11-27T18:30:59+00:00",
+      "category": "Politics"
     },
     {
       "title": "German Museum Transforms Permanent Collection Galleries into Gym to Attract Youth - ARTnews.com",
@@ -2124,19 +1748,27 @@
       "category": "Africa"
     },
     {
-      "title": "Paul Mackenzie: Kenyan doomsday cult leader convicted over further 123 deaths - BBC",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBENnZRQ2JjaFRidXRBYVU2b19WSGJrU2t3Sy1UV2FvM1YxZTluNHZQbVJwb1EyR0dfVl9GMldyaXZsTHRScDdRV1JuMEkxWlI2Rlh2NmoxU2MxTWc?oc=5",
-      "source": "BBC",
-      "date": "Fri, 27 Nov 2026 17:19",
-      "published_at": "2026-11-27T17:19:31+00:00",
-      "category": "Africa"
-    },
-    {
       "title": "When Europe’s Wars Reach Africa’s Shores: Benghazi and the Limits of Libyan Sovereignty - African Arguments",
       "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNclk5WHdXcVZ0T25RdlU5d3JkN3VNZU5XUVhzdzhsOUJKTXpxU19TeVhSVkViUWJobTUyb3NES19WQ0hZY3hvNWNERFBYUnNJRW9QckoxY3RLZGY5NUVEVjYtN0hzX2pEZVpWclFQQXpnUGpXb2Y1NW5uazVUUWtKMm5hTmJXMUtKSk9TelFlTzRLYm1PdkRSSmJSeGc1aVNFQ2ttSFQtWUZXYUt5a2RGTzFwaUFzcUt5NjF0NEVjVQ?oc=5",
       "source": "African Arguments",
       "date": "Fri, 27 Nov 2026 17:01",
       "published_at": "2026-11-27T17:01:04+00:00",
+      "category": "Politics"
+    },
+    {
+      "title": "Video. Latest news bulletin | November 27th, 2026 – Evening - Euronews.com",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOemNoZTQyS0MwNDY4cmhmb2VUQW9Rd00xVEVwV0ZhTlBkbHdJX3o1SWk3eVByX21MV0N4VW9zOGdKZHhrSlFwRFMtd3VfTHhqeHhjdTFfZm91Wm9RWDhnYzIxb01ENUhTVHUzQm1BTk16V1U3ZnBKVzBCcTF6YjBkR1lVYzloVGFuaGVmREJwTHRIeGc?oc=5",
+      "source": "Euronews.com",
+      "date": "Fri, 27 Nov 2026 17:00",
+      "published_at": "2026-11-27T17:00:26+00:00",
+      "category": "Europe"
+    },
+    {
+      "title": "What is the outlook ahead? - Tehran Times",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE4tUWdJdFU2UGlhVW1UeWc1ekR5Z19xQkw2a3BTWDdoeklaMm5rZklZdGN6M0NFVFVNRWZRdlc2TV84Yk1tTHZ5ZzN4VTVnakVMYjcyd0dGSjlhZ0xrRjVkbW9xVWFwWlAtMUdFUjVnd2hVRm8?oc=5",
+      "source": "Tehran Times",
+      "date": "Fri, 27 Nov 2026 16:20",
+      "published_at": "2026-11-27T16:20:16+00:00",
       "category": "Politics"
     },
     {
@@ -2188,14 +1820,6 @@
       "category": "Nigeria"
     },
     {
-      "title": "Germany well-prepared for all Brexit scenarios - Yeni Safak English",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPYlJsYmJOUVpLeEpVTVBIVHpKZ0x6cjRzem9oeGk4QlNRV05oMEdoMjlqTFFCVlFnU2RoV3ZiOU9uSE1lSm9COWxjbXRKcXFXZHVxak9PRlN1NmQ0c2o1bG43cnF4TzBweHRfaDUtVjNQUmdCNjZzeEJaT0kzYkYxbDR6cW5fTV9DM2ZETlln?oc=5",
-      "source": "Yeni Safak English",
-      "date": "Fri, 27 Nov 2026 15:34",
-      "published_at": "2026-11-27T15:34:00+00:00",
-      "category": "Germany"
-    },
-    {
       "title": "UAE Disputes team named Litigation Team of the Year at The Oath Middle East Legal Awards 2026 - Mishcon de Reya LLP",
       "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxONWE3bHU3d2w4aTNiaWt4a2hXUWpMelMydkN4enVNNFF6S2dqa2cwRUwwQ2ZnZE9HZ3RHMWxSRndsRUUtSk0xT2M5Vm9obFAzelRlOXNuUWN3OHJIcDVMcDBBNWJkOFJXcjRKTGZlZm1rTURwb05QZ3Flcm5yZDhtQm5vOGdwUE9UZDExanBQbEtpb05XZGs3OWViN3BWbVVBcXhlcWFROHlVN3lMaHl2RVNicHVNT1I3ZUppaWdRSQ?oc=5",
       "source": "Mishcon de Reya LLP",
@@ -2244,14 +1868,6 @@
       "category": "America"
     },
     {
-      "title": "How should Britain pursue closer relations with the EU? - Britain’s World",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFB0U3ZqdHY2QU8xZ180ejgxU1J6Vnh2V3ZVeEZfdHpEdHdWcXVwOXJ6YnN4Q3VIUE1TUnBXOHo3MlQzTENDNHlXZXZ3SFBxZHoyaC1tb0VjbzRhWU5CNTlPUVJEVDY?oc=5",
-      "source": "Britain’s World",
-      "date": "Fri, 27 Nov 2026 14:15",
-      "published_at": "2026-11-27T14:15:14+00:00",
-      "category": "Politics"
-    },
-    {
       "title": "Drones and a poop-sniffing dog: Inside the search for America’s orca pod - The Independent",
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPTGVtOWc4cTd5YzZQX0FGM0dpNHhhNXNoYTYyd3hzUDExdDFSU2l3TFhSaTFOU2RCczZEcHQxLW5WU0Rxc2RyenYzR0ZUVlljSDRKRmhtcHRxRmRsNFBfZXMyUlRfaVpZV0R3TzVhams4Yzdpbzcwc1oxRi14U3UtbkNYZ3hWdjM4NWVDVEpSZU1ra2cwb2RnemlWeXBPaTh2VDltQnBLYm5XajlJS3doRw?oc=5",
       "source": "The Independent",
@@ -2266,6 +1882,14 @@
       "date": "Fri, 27 Nov 2026 13:30",
       "published_at": "2026-11-27T13:30:32+00:00",
       "category": "World"
+    },
+    {
+      "title": "“I’M NOT JOKING” – Putin Urges Germany to Make Decision on Buying Russian Gas Again via Nord Stream - EnergyNow.com",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOTzJ2cWV2ZzlqTnAwWUtrVnFfcHV0YnNUeHU3Uy1VWVB5ejYwdGViSmltTkc4NWNVZ3Zqc2FzVkZKSFJ0MWpTVnpfZE8yNS16NGVfdEk2ZUFqZGNTMW9xbnRsRWZvTTk4c3ptUnlDcDhodlZuWmJzdUNZaWNrcUJPUW1LQnc4UHNLbGljdEl3eExEelpSc09DWWVoYlUwMkszTEt6aGR4U0dkVThjVmZzemhWanF2aHN0aS1DNXFlSV9vbjg?oc=5",
+      "source": "EnergyNow.com",
+      "date": "Fri, 27 Nov 2026 13:30",
+      "published_at": "2026-11-27T13:30:19+00:00",
+      "category": "Germany"
     },
     {
       "title": "The Ivy Asia brings glamour to Glasgow – but what about the food? - The Herald",
@@ -2300,6 +1924,14 @@
       "category": "Africa"
     },
     {
+      "title": "Shipping industry must brace for global shift in trade routes, economist warns - Cyprus Mail",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOak55QXNXYTlHa3RQTTF4WWpiTXE5UUp6QW5pMEhiTVpVWVQ5NGxVd2c5ZXVjR2tySkhvcXFmMFhTSjU5WlI4Z3FlMEgtTWh4XzFkdGljMWpHRmEyU2VBYXFvNjJhSUwySjlnVlJ5MTRBYW1lOHYzcU1PX2JsVHJLVWF6VldrR1MtWFBpM01iWWpNYTVWeldydXUwZnhrcDVmNG1aeHhCNUtUbmczbGpmay1R?oc=5",
+      "source": "Cyprus Mail",
+      "date": "Fri, 27 Nov 2026 12:23",
+      "published_at": "2026-11-27T12:23:33+00:00",
+      "category": "Business"
+    },
+    {
       "title": "Gordon Ramsay becomes a grandfather as daughter Holly welcomes first baby - IOL",
       "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQTGFnY0pfNGZUb1JhNktEUUFrV3BJTm81cGpLdV85U0lIWnZqQzFvdGVwRzFTd3VkUnJRem5taWNLaVpkdWxmT0hJVkd5ajZBMU9hbmZvbS1pcVZ4Ql9jaUtreHRCVnJXSmxTT3lDano1dUJnaXNocFpVU0VIa0xEeF9lV3RMa0dYVUFCYWhtNTlHeDZqb3M0NkpLTzVNaTVMR3pvcEZlWlRDTzgwaF9XUTVtVlE0WTZxd284RWlvdzZrQUVBdHozcGR2LVk?oc=5",
       "source": "IOL",
@@ -2324,20 +1956,20 @@
       "category": "Asia"
     },
     {
-      "title": "North Korea - Politics, Economy, Society - Britannica",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9rcl94WEVpVW56TjBaUGRJOUVHdlRyeW5BWUl3SHJ3WjVPd3hUOFRkUU1UN3hkZ3FsMjdRRk8wcnF4b0tjM1lzZEFwb1duQkRtNEktY01HT3NxWDREOUtOOEtsYWZ6dFVELVVWRVhRUmhWQXJaaGc?oc=5",
-      "source": "Britannica",
-      "date": "Fri, 27 Nov 2026 11:22",
-      "published_at": "2026-11-27T11:22:27+00:00",
-      "category": "Politics"
-    },
-    {
       "title": "November: Groundbreaking study puts global forest structures in laser focus | News and features - University of Bristol",
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNVkxyUk1GbkR2UG5abUdQWkdwM0NDLWkzSmVhNDBZRmpPWkw1V2JSbHpxbW5KYWhmX2FyazA2X3JnWjNmeFA4eDZ3MXcwRjh6RWFjUGlSZkhpMVZzN3FMVklqYjhGQUlJSnRhdHdPR0lCMjBNUHV0RG5sZVZvRlVzLVhWbFNMc1JuRlBtak5DcHhpMkpIYjNOUzRHX29xRDY5RzVzUU9iZmdOajdsZzNVWGVEN2MxZw?oc=5",
       "source": "University of Bristol",
       "date": "Fri, 27 Nov 2026 10:51",
       "published_at": "2026-11-27T10:51:57+00:00",
       "category": "World"
+    },
+    {
+      "title": "Meghan Markle tells her fans 'there's so much to be grateful for' in Thanksgiving message - Daily Express US",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNaFQ5ZXBLMlA1Slh2alotYXc0VzI0Nm9yN3NFQXJBVFZsVDIzeWt0OTJYQ2xiclM0VUVQbTlOREtiRkVEX29OVC1TdGY1cXE4Wl93VnZVdy1EeWh0SWlHYnExNDdOMHRMRTZfaFNCc2cta1BFNVRBcG5CSG03SktpdURuOTNvRzdIbzNfS2pzcVhsN0tCT1p5NXV5b3rSAZwBQVVfeXFMTWhUOWVwSzJQNUpYdmpaLWF3NFcyNDZvcjdzRUFyQVRWbFQyM3lrdDkyWENsYnJTNFVFUG05TkRLYkZFRF9vTlQtU3RmNXFxOFpfd1Z2VXctRHlodElpR2JxMTQ3TjB0TEU2X2hTQnNnLWtQRTVUQXBuQkhtN0pLaXVEbjkzb0c3SG8zX0tqc3FYbDdLQk9aeTV1eW96?oc=5",
+      "source": "Daily Express US",
+      "date": "Fri, 27 Nov 2026 10:50",
+      "published_at": "2026-11-27T10:50:54+00:00",
+      "category": "Entertainment"
     },
     {
       "title": "School assembly news headlines for November 28, 2026: Top India, International, Sports and Business news - Education Times",
@@ -2412,12 +2044,12 @@
       "category": "Africa"
     },
     {
-      "title": "CC4WBs: How Culture is bringing the Western Balkans closer to Europe - UNESCO",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNdUhob2gzV2FIVU50blZwcGM1eEJFY1Y3ZDVuRHhjbkVZblZRNWhmeWFIUU9GOENCaUxZS2JqNVlxcGtFSHJtYWhZbHRhZmh6OU9fMUdZbzVubFI0OE9HRFJLN0FyNjJPQjBjWFBNNFJsM08wc0Y5dGFFbDZKX2FYRnJaR09rYzFBRGw1NExjYml3M2lvNDRV?oc=5",
-      "source": "UNESCO",
-      "date": "Fri, 27 Nov 2026 09:07",
-      "published_at": "2026-11-27T09:07:18+00:00",
-      "category": "Europe"
+      "title": "Guinea-Bissau's military leaders delay return to civilian rule until 2028 - BBC",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9yOFhDYURNQVFSY1VhTTdUeGdHLXFTZ3BlbUFVa21FQTFXNmgxY294eE91QWNHTkdRb0NON2tXVzFiNnhmYnZPMUtCcEI1cUNlemI0X0R4N1NQLWNTanc?oc=5",
+      "source": "BBC",
+      "date": "Fri, 27 Nov 2026 08:58",
+      "published_at": "2026-11-27T08:58:08+00:00",
+      "category": "Africa"
     },
     {
       "title": "Global economy risks hangover with growth over-reliant on AI boom: India’s chief economic adviser - The Business Times",
@@ -2434,14 +2066,6 @@
       "date": "Fri, 27 Nov 2026 08:13",
       "published_at": "2026-11-27T08:13:43+00:00",
       "category": "Asia"
-    },
-    {
-      "title": "Malaysia, Singapore can win bigger deals together: Economy Minister Akmal - The Straits Times",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQbk9GVG1YdkY2X1E0V2EwQ2g1SElGaXZzcHFuaURFQ25IYkl1S3RjbWY3alZaNEllZDN3aEp6YjctQVdNdmlEYVdOaTA4akF5TU5ON29sZGJrZlhRRzZwME1ueEJEbllHSmJBQ2lwLWM5cE9JN014X1psRXFxNjg1ZFVHRE00Ym1neDhoYjh0MHFWRWJFS1o4b0o5ZUw1bDd4MUdISnFGY1Ywc2xWOXc?oc=5",
-      "source": "The Straits Times",
-      "date": "Fri, 27 Nov 2026 08:05",
-      "published_at": "2026-11-27T08:05:00+00:00",
-      "category": "Business"
     },
     {
       "title": "Chinese AI squeezed as Nvidia halts Southeast Asian shipments - Asian Tech Roundup - Computing UK",
@@ -2612,14 +2236,6 @@
       "category": "Politics"
     },
     {
-      "title": "The last dance of the Spanish left - New Statesman",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPSkM2T0Y1UG5yTVNHMEpPdENha19jaVl4bWQ5WlpneDVYMzNVenVwcXNXTk5iY2NZX2ZIUWkzRDBKelZlOG5lLVIyME9VZGs0WUw4SGdibHRUUVhESDB1YXFCM0xxZ0ZpS0ZIR21VSXNQRG93VFNqVElXNjExa2pBRHUySk56STNjRzQ2bUV5bE9SZmliVTVZUWl3?oc=5",
-      "source": "New Statesman",
-      "date": "Thu, 26 Nov 2026 14:08",
-      "published_at": "2026-11-26T14:08:22+00:00",
-      "category": "Politics"
-    },
-    {
       "title": "Africa news roundup: 20-26 November - Research Professional News",
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNb0dOeUNxN2xTQmJkWVJxN1lNUzlFdmY4U2NUakJuclRoaDU2OE5lRWJqWWNhZDY4NjNha0ZOWlFCZjgwQUNKVTNjS2xadEJVenFKSTZDd0lvc3otV3hjSWtUcGZnU0FtWHhZT3pnSGxJNnpENWlweHZmSWVkb3F1T3M2dkxESWQycjVpcXpiZ2NZUktmSmZhbjZYeFRYcnFjT0RRZW5oUTUwN3VmODhMRQ?oc=5",
       "source": "Research Professional News",
@@ -2636,11 +2252,11 @@
       "category": "America"
     },
     {
-      "title": "What does effective peacemaking in East Africa look like in an era of power politics? - CMI - Martti Ahtisaari Peace Foundation",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOaDd6aGg3NmdEWVdJNXdXczFvTko4NGZ6MjF2OWpxN0FJYlFXeDR1VmdjSjRZcktSSDRoM1hmeHlNV2ZfcEJMV1dRdGdzT1prX05iZFRKaXp5ME9WOWZhN2hPbUdFUVVIbW5yTGdsSnozYUxJanBFOG9CcEh3Z2tsN1dkU21DWG9femJFd3pRLVhramRudTJ6ZXRtZ0Y5V29LTGd2V0tFNEZCNkZka1ZlOQ?oc=5",
-      "source": "CMI - Martti Ahtisaari Peace Foundation",
-      "date": "Thu, 26 Nov 2026 10:29",
-      "published_at": "2026-11-26T10:29:10+00:00",
+      "title": "Realism and Power Transition Theory: Different Branches of the Power Tree - E-International Relations",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE03R0FCb0gxTzdseEh3N3ZBNmlZRlV6ZS1qTmZ1R1o0Vlc4V2hxNERLc1JraVVaRFp2MGdUS0Raa2hMSlhMM2t6MVBpaVV0d3NCc2R5M05JQzhLM3JhU05fWTJlaDVFSDZxVnc?oc=5",
+      "source": "E-International Relations",
+      "date": "Thu, 26 Nov 2026 12:25",
+      "published_at": "2026-11-26T12:25:28+00:00",
       "category": "Politics"
     },
     {
@@ -2649,14 +2265,6 @@
       "source": "Reuters",
       "date": "Thu, 26 Nov 2026 07:03",
       "published_at": "2026-11-26T07:03:00+00:00",
-      "category": "Business"
-    },
-    {
-      "title": "From India to Jeju, breaking barriers to growth - The Korea Herald",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBod3RsYmNwYl9CWFdXNWM2Vm45SmFNVWh3VmpCdWgtVU0wcktReEVaWThaM1dBbmFodXJiaEd5TVdZU1lvNV9oTGNqVXJEQS1hV3BxRkpDSQ?oc=5",
-      "source": "The Korea Herald",
-      "date": "Thu, 26 Nov 2026 05:32",
-      "published_at": "2026-11-26T05:32:20+00:00",
       "category": "Business"
     },
     {
@@ -2690,6 +2298,14 @@
       "date": "Thu, 26 Nov 2026 04:00",
       "published_at": "2026-11-26T04:00:00+00:00",
       "category": "Entertainment"
+    },
+    {
+      "title": "Business in a slowing economy, but a faster pace of change - William Buck Australia",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNMnh0elJHSFRvQUpZZWFYb21oY1ZwUm9VSEtIZ09vaGFFd1NzY1h5bEdILWpJeE9qU2QxZWJud3hvN0xfbC1lTTRMTk5WajRHVmdoeG1qQm4yNkRaRk93LVRTX2FxZHpLUEFYcWJ3Ny1vaWxJc3B1OUVCTjMzSHd5RVZFa1VpYzRPMnBGNDdVbmJzMFYxZktMdS1zR0d6YUw0NjRPT3dnbw?oc=5",
+      "source": "William Buck Australia",
+      "date": "Thu, 26 Nov 2026 00:03",
+      "published_at": "2026-11-26T00:03:19+00:00",
+      "category": "Business"
     }
   ],
   "jobs": [
