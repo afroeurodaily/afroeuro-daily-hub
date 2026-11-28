@@ -75,7 +75,10 @@ class Handler(BaseHTTPRequestHandler):
         static_files = {
             '/data.json': ('data.json', 'application/json; charset=utf-8'),
             '/community.js': ('community.js', 'application/javascript; charset=utf-8'),
+            '/sitemap.xml': ('sitemap.xml', 'application/xml; charset=utf-8'),
+            '/robots.txt': ('robots.txt', 'text/plain; charset=utf-8'),
         }
+
 
         if path in static_files:
             filename, content_type = static_files[path]
