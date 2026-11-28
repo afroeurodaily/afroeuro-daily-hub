@@ -93,7 +93,7 @@ class Handler(BaseHTTPRequestHandler):
 
         if path in ('/','/index.html'):
             self.send((ROOT/'index.html').read_bytes());return
-        if path=='/admin':
+        if path in ('/admin', '/admin.html'):
             self.send((ROOT/'admin.html').read_bytes());return
         if path=='/api/content':
             with connect() as db:
